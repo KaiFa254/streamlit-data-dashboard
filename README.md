@@ -1,9 +1,39 @@
-# Bank Dashboard Training Package
+# Bank Loan Portfolio Dashboard
 
-Everything you need to practice going from raw data → analysis → charts →
-a live web dashboard, using synthetic (fake) bank loan data.
+An interactive Streamlit dashboard for exploring a bank loan portfolio —
+built as a self-training project to learn the path from raw data to a live,
+shareable web dashboard using Python.
 
-## What's inside
+**🔗 Live app:** [kaifa254-streamlit-data-dashboard-dashboard-gvia7p.streamlit.app](https://kaifa254-streamlit-data-dashboard-dashboard-gvia7p.streamlit.app/)
+
+> **Note:** All data used in this project (`data/bank_loan_portfolio.csv`) is
+> entirely synthetic/randomly generated for training purposes. It does not
+> represent real NCBA customers, balances, or figures.
+
+## What the dashboard does
+
+The app takes a loan portfolio dataset (1,200 synthetic loan records across
+branches, products, and customer segments) and turns it into an interactive
+view with:
+
+- **KPI cards** — total outstanding loan book, number of loans, default rate
+  (>30 DPD), and NPL ratio, all recalculated live as filters change
+- **Sidebar filters** — filter the entire dashboard by Branch, Product, and
+  Customer Segment
+- **Outstanding balance by product** — interactive bar chart
+- **Portfolio mix by IFRS9 risk stage** — donut chart (Performing /
+  Underperforming / Non-Performing)
+- **Monthly disbursement trend** — line chart showing lending volume over
+  time
+- **Branch performance summary** — aggregated table (loan count, total
+  balance, average DPD per branch)
+- **Loan-level detail table** — full sortable/searchable record view
+- **CSV export** — download whatever data is currently filtered
+
+Everything on the page reacts live to the sidebar filters — no page reloads,
+no separate "apply" button.
+
+## What's inside this repo
 
 ```
 bank_training_package/
@@ -15,24 +45,22 @@ bank_training_package/
 └── README.md                       ← this file
 ```
 
-**Important:** `data/bank_loan_portfolio.csv` is entirely randomly generated.
-It does not contain real NCBA customers, balances, or figures — it's safe to
-use for learning and to share for training purposes.
-
 ## Recommended order
 
 1. **Start with the notebook** — `bank_dashboard_training.ipynb`. Open it in
    VS Code or Jupyter and run each cell in order. Every step has a markdown
-   explanation above it describing what the code does and why.
+   explanation above it describing what the code does and why — this is
+   where the KPI calculations and charts are built up piece by piece before
+   they're wrapped into the dashboard.
 2. **Then run the dashboard** — `dashboard.py`. It uses the exact same data
    and calculations from the notebook, just wrapped as an interactive web
-   app instead of static cells.
+   app instead of static cells. Or just visit the **live app link above** to
+   see it without installing anything.
 
-## Step 1: Set up
+## Step 1: Set up (to run locally)
 
-1. Unzip this package into a folder, e.g.
-   `C:\Users\Erastus.Kaiba\Projects\bank-dashboard-training`
-2. Open that folder in VS Code: **File → Open Folder**.
+1. Clone or download this repo.
+2. Open the folder in VS Code: **File → Open Folder**.
 3. Select your Anaconda Python interpreter:
    `Ctrl+Shift+P` → `Python: Select Interpreter` → choose your `base` (or
    `ds`) environment.
@@ -46,7 +74,7 @@ use for learning and to share for training purposes.
 **In VS Code:**
 1. Click `bank_dashboard_training.ipynb` in the file explorer — it opens in
    VS Code's built-in notebook viewer (this is what the Jupyter extension
-   you installed enables).
+   enables).
 2. Click **"Run All"** at the top, or click into each cell and press
    `Shift + Enter` to run them one at a time — recommended for learning, so
    you can read the markdown explanation before each code cell runs.
@@ -59,7 +87,7 @@ jupyter notebook
 This opens a browser tab at `http://localhost:8888`. Click
 `bank_dashboard_training.ipynb` to open it there instead.
 
-## Step 3: Run the live dashboard
+## Step 3: Run the dashboard locally
 
 In the same terminal:
 ```
@@ -75,25 +103,20 @@ streamlit run dashboard.py
 - Your browser opens automatically to `http://localhost:8501`.
 - If it doesn't open on its own, copy the **Local URL** and paste it into
   your browser manually.
-- You'll see KPI cards, sidebar filters, interactive charts, a branch
-  performance table, and a CSV download button.
 - Press `Ctrl + C` in the terminal to stop the app.
 
-## What "sharing" a dashboard actually means
+## How this is deployed
 
-Running `streamlit run` only starts a server on **your own laptop** —
-nothing is uploaded anywhere automatically. What sharing looks like depends
-on the audience:
+This dashboard is deployed on **Streamlit Community Cloud**, connected
+directly to this GitHub repository — every push to the `main` branch
+automatically updates the live app.
 
-| Method | Who can see it | Good for |
+| Method | Who can see it | Used for |
 |---|---|---|
-| **Network URL** (`http://192.168.x.x:8501`) | Anyone on the same office Wi-Fi/LAN, while your laptop stays on and the app keeps running | Quick demo to a colleague sitting nearby |
-| **Streamlit Community Cloud** (share.streamlit.io) | Anyone with the public link, anywhere, anytime | Public/demo data only — never real customer data |
-| **Internal company server / VM** | Anyone on NCBA's internal network/VPN | The correct option once you're working with real banking data — needs IT to provision and host it |
-
-For this training package, running it locally and viewing it yourself at
-`localhost:8501` is the right way to learn the pattern before thinking about
-deployment.
+| **Local (`streamlit run`)** | Only you, on your own machine | Development and testing |
+| **Network URL** (`http://192.168.x.x:8501`) | Anyone on the same office Wi-Fi/LAN while the app is running | Quick demo to a colleague nearby |
+| **Streamlit Community Cloud** (this app) | Anyone with the public link, anywhere, anytime | This project — public/demo data only |
+| **Internal company server / VM** | Anyone on NCBA's internal network/VPN | The correct option for real banking data — needs IT to provision and host it |
 
 ## Common issues
 
