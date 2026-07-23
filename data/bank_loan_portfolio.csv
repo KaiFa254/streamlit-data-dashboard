@@ -1,0 +1,1201 @@
+Customer_ID,Branch,Region,Product,Customer_Segment,Loan_Officer,Disbursement_Date,Tenure_Months,Interest_Rate,Disbursed_Amount,Outstanding_Balance,DPD,IFRS9_Stage
+CUST00001,Kitengela,Nairobi,Asset Finance,Retail,A. Otieno,2023-04-17,60,0.1558,663647.41,630333.44,0,Stage 1 - Performing
+CUST00002,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2024-08-28,48,0.1753,331377.29,54412.38,0,Stage 1 - Performing
+CUST00003,Westlands,Nairobi,Personal Loan,SME,F. Wanjiru,2024-07-12,48,0.1815,984865.53,169186.64,60,Stage 2 - Underperforming
+CUST00004,Thika,Central,Personal Loan,SME,L. Achieng,2023-04-06,84,0.1428,705928.63,628705.61,0,Stage 1 - Performing
+CUST00005,Kisumu,Nyanza,Asset Finance,Retail,L. Achieng,2025-05-14,48,0.1372,629619.99,358600.11,0,Stage 1 - Performing
+CUST00006,Kisumu,Nyanza,Motor Loan,SME,A. Otieno,2023-07-27,48,0.1727,530196.08,229598.0,5,Stage 1 - Performing
+CUST00007,Kitengela,Nairobi,Motor Loan,SME,L. Achieng,2025-01-11,24,0.1551,281282.82,49947.51,1,Stage 1 - Performing
+CUST00008,Kitengela,Nairobi,Personal Loan,Corporate,S. Kimani,2023-04-13,48,0.13,124426.94,73651.43,0,Stage 1 - Performing
+CUST00009,Nakuru,Rift Valley,SME Loan,SME,P. Njoroge,2023-06-21,12,0.1362,419721.44,250425.97,1,Stage 1 - Performing
+CUST00010,Westlands,Nairobi,SME Loan,Retail,A. Otieno,2024-09-30,84,0.1479,490428.01,362919.86,0,Stage 1 - Performing
+CUST00011,Thika,Central,Mortgage,SME,M. Hassan,2023-03-09,60,0.1411,179137.77,62001.18,0,Stage 1 - Performing
+CUST00012,Kitengela,Nairobi,Personal Loan,Retail,P. Njoroge,2024-07-24,60,0.1851,968205.04,501359.23,45,Stage 2 - Underperforming
+CUST00013,Nairobi CBD,Nairobi,Motor Loan,Retail,F. Wanjiru,2023-08-14,24,0.1478,113837.65,96396.86,45,Stage 2 - Underperforming
+CUST00014,Westlands,Nairobi,Personal Loan,Retail,P. Njoroge,2024-05-28,12,0.1251,879433.37,474426.83,0,Stage 1 - Performing
+CUST00015,Thika,Central,Asset Finance,Retail,L. Achieng,2024-10-23,84,0.1616,481132.48,192151.94,0,Stage 1 - Performing
+CUST00016,Mombasa,Coast,Overdraft,Corporate,F. Wanjiru,2024-02-01,60,0.1261,424566.7,327790.63,5,Stage 1 - Performing
+CUST00017,Mombasa,Coast,Motor Loan,Retail,L. Achieng,2024-05-04,36,0.1873,333478.82,34399.37,1,Stage 1 - Performing
+CUST00018,Nairobi CBD,Nairobi,Asset Finance,Retail,P. Njoroge,2023-02-18,12,0.1423,640700.55,371657.87,0,Stage 1 - Performing
+CUST00019,Kitengela,Nairobi,Motor Loan,Retail,S. Kimani,2024-09-01,84,0.1491,349721.09,326141.91,0,Stage 1 - Performing
+CUST00020,Thika,Central,Personal Loan,Retail,L. Achieng,2024-12-31,36,0.1782,500110.02,295018.77,1,Stage 1 - Performing
+CUST00021,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2024-12-29,12,0.1289,136342.02,116475.78,45,Stage 2 - Underperforming
+CUST00022,Nairobi CBD,Nairobi,Overdraft,Corporate,L. Achieng,2024-05-21,48,0.1423,454165.56,191597.74,0,Stage 1 - Performing
+CUST00023,Kitengela,Nairobi,Personal Loan,SME,P. Njoroge,2023-11-04,60,0.1303,364230.25,300901.76,0,Stage 1 - Performing
+CUST00024,Kitengela,Nairobi,Motor Loan,Retail,A. Otieno,2024-01-13,36,0.1857,376995.19,153983.21,20,Stage 1 - Performing
+CUST00025,Nakuru,Rift Valley,Personal Loan,SME,A. Otieno,2024-04-17,60,0.1341,349146.05,236442.36,32,Stage 2 - Underperforming
+CUST00026,Nairobi CBD,Nairobi,SME Loan,SME,A. Otieno,2024-04-27,12,0.1571,1071531.5,128698.07,120,Stage 3 - Non-Performing
+CUST00027,Kisumu,Nyanza,Asset Finance,Retail,M. Hassan,2024-11-09,48,0.1249,412400.91,201455.53,0,Stage 1 - Performing
+CUST00028,Kitengela,Nairobi,Motor Loan,Retail,A. Otieno,2024-03-19,36,0.138,311662.28,186145.3,0,Stage 1 - Performing
+CUST00029,Mombasa,Coast,SME Loan,Retail,J. Mwangi,2023-07-20,48,0.1248,352588.29,40306.29,45,Stage 2 - Underperforming
+CUST00030,Thika,Central,Personal Loan,Retail,P. Njoroge,2023-01-28,84,0.1603,350208.8,296673.48,0,Stage 1 - Performing
+CUST00031,Kisumu,Nyanza,Motor Loan,SME,J. Mwangi,2024-09-23,84,0.1825,231600.03,163984.44,0,Stage 1 - Performing
+CUST00032,Nakuru,Rift Valley,Personal Loan,Corporate,S. Kimani,2023-06-22,48,0.1611,132461.0,91085.09,10,Stage 1 - Performing
+CUST00033,Nakuru,Rift Valley,Personal Loan,SME,A. Otieno,2023-09-16,60,0.1387,152821.25,16979.13,120,Stage 3 - Non-Performing
+CUST00034,Kitengela,Nairobi,Mortgage,SME,P. Njoroge,2024-02-19,84,0.1593,431399.52,142254.9,150,Stage 3 - Non-Performing
+CUST00035,Eldoret,Rift Valley,Asset Finance,Retail,L. Achieng,2025-01-09,48,0.1445,594416.78,506035.21,0,Stage 1 - Performing
+CUST00036,Nairobi CBD,Nairobi,SME Loan,Retail,S. Kimani,2023-05-22,24,0.1217,674494.26,512913.75,0,Stage 1 - Performing
+CUST00037,Nairobi CBD,Nairobi,Motor Loan,Corporate,A. Otieno,2024-01-20,60,0.1547,561255.06,61905.82,5,Stage 1 - Performing
+CUST00038,Kitengela,Nairobi,SME Loan,SME,J. Mwangi,2025-02-10,12,0.1219,537552.82,482118.26,0,Stage 1 - Performing
+CUST00039,Eldoret,Rift Valley,SME Loan,Retail,J. Mwangi,2023-08-19,60,0.1359,257634.08,48374.57,32,Stage 2 - Underperforming
+CUST00040,Nairobi CBD,Nairobi,Motor Loan,SME,M. Hassan,2024-06-30,24,0.1312,448474.95,327995.02,15,Stage 1 - Performing
+CUST00041,Kisumu,Nyanza,Mortgage,Corporate,S. Kimani,2023-10-16,36,0.1775,588619.49,127889.91,0,Stage 1 - Performing
+CUST00042,Eldoret,Rift Valley,Motor Loan,Retail,F. Wanjiru,2023-02-01,24,0.1327,65799.93,61832.92,0,Stage 1 - Performing
+CUST00043,Nairobi CBD,Nairobi,Motor Loan,SME,A. Otieno,2023-05-18,24,0.1381,199967.88,121478.71,90,Stage 2 - Underperforming
+CUST00044,Mombasa,Coast,Overdraft,Corporate,M. Hassan,2023-07-06,48,0.1449,271636.47,150445.19,0,Stage 1 - Performing
+CUST00045,Nairobi CBD,Nairobi,Asset Finance,Retail,S. Kimani,2025-04-21,24,0.1466,193494.69,60122.15,0,Stage 1 - Performing
+CUST00046,Westlands,Nairobi,SME Loan,Retail,F. Wanjiru,2024-05-23,36,0.143,109451.78,52518.18,150,Stage 3 - Non-Performing
+CUST00047,Thika,Central,SME Loan,Corporate,J. Mwangi,2024-01-18,36,0.1367,162324.59,75740.1,0,Stage 1 - Performing
+CUST00048,Thika,Central,Asset Finance,Corporate,J. Mwangi,2025-05-30,24,0.1319,255482.52,40582.56,0,Stage 1 - Performing
+CUST00049,Nakuru,Rift Valley,Personal Loan,Retail,L. Achieng,2024-03-01,36,0.1673,202778.75,104767.64,0,Stage 1 - Performing
+CUST00050,Thika,Central,SME Loan,SME,A. Otieno,2024-09-13,24,0.1279,236475.33,48035.15,20,Stage 1 - Performing
+CUST00051,Westlands,Nairobi,Personal Loan,SME,P. Njoroge,2023-06-11,60,0.1636,103868.99,27147.73,60,Stage 2 - Underperforming
+CUST00052,Kitengela,Nairobi,Asset Finance,SME,L. Achieng,2024-08-20,12,0.1503,558557.04,280682.84,0,Stage 1 - Performing
+CUST00053,Kisumu,Nyanza,Motor Loan,SME,F. Wanjiru,2024-12-24,12,0.165,241987.3,91251.84,1,Stage 1 - Performing
+CUST00054,Kisumu,Nyanza,Overdraft,SME,F. Wanjiru,2024-08-17,24,0.1277,753500.14,227390.82,10,Stage 1 - Performing
+CUST00055,Nairobi CBD,Nairobi,Personal Loan,SME,P. Njoroge,2024-02-12,24,0.1749,182313.86,99095.01,1,Stage 1 - Performing
+CUST00056,Kisumu,Nyanza,Motor Loan,SME,L. Achieng,2023-09-24,60,0.1277,596659.86,296430.88,10,Stage 1 - Performing
+CUST00057,Nairobi CBD,Nairobi,Asset Finance,Retail,P. Njoroge,2023-08-07,84,0.1712,198567.11,54841.09,0,Stage 1 - Performing
+CUST00058,Westlands,Nairobi,Motor Loan,Retail,A. Otieno,2024-10-03,24,0.177,181582.79,88920.78,0,Stage 1 - Performing
+CUST00059,Nairobi CBD,Nairobi,SME Loan,Retail,J. Mwangi,2024-04-08,12,0.16,195704.05,43650.12,15,Stage 1 - Performing
+CUST00060,Nairobi CBD,Nairobi,Personal Loan,Corporate,L. Achieng,2023-12-13,12,0.1371,175135.5,22486.46,0,Stage 1 - Performing
+CUST00061,Thika,Central,SME Loan,Retail,S. Kimani,2023-04-23,24,0.1423,699557.1,419056.54,0,Stage 1 - Performing
+CUST00062,Kitengela,Nairobi,Asset Finance,SME,A. Otieno,2024-01-26,48,0.1211,101160.57,15560.66,0,Stage 1 - Performing
+CUST00063,Eldoret,Rift Valley,Personal Loan,Corporate,F. Wanjiru,2024-07-14,24,0.1569,207921.16,51331.9,0,Stage 1 - Performing
+CUST00064,Nakuru,Rift Valley,Motor Loan,Retail,J. Mwangi,2024-12-06,36,0.1518,302873.16,216690.33,0,Stage 1 - Performing
+CUST00065,Nakuru,Rift Valley,Motor Loan,Retail,M. Hassan,2023-04-08,48,0.1218,195392.18,66576.76,0,Stage 1 - Performing
+CUST00066,Nakuru,Rift Valley,Motor Loan,Retail,L. Achieng,2025-03-13,84,0.1772,387502.84,176810.98,0,Stage 1 - Performing
+CUST00067,Kitengela,Nairobi,Personal Loan,Corporate,L. Achieng,2023-05-01,36,0.1502,530396.87,335057.02,45,Stage 2 - Underperforming
+CUST00068,Kitengela,Nairobi,Motor Loan,SME,F. Wanjiru,2025-04-18,60,0.1754,467913.45,129233.84,45,Stage 2 - Underperforming
+CUST00069,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2023-09-23,36,0.1463,642200.72,95773.24,0,Stage 1 - Performing
+CUST00070,Westlands,Nairobi,Asset Finance,Retail,L. Achieng,2024-11-24,12,0.1847,483841.16,340189.32,0,Stage 1 - Performing
+CUST00071,Kisumu,Nyanza,Asset Finance,Retail,L. Achieng,2023-07-05,60,0.1624,167609.57,37598.36,0,Stage 1 - Performing
+CUST00072,Nairobi CBD,Nairobi,Motor Loan,Corporate,L. Achieng,2023-09-21,60,0.17,572034.41,410395.7,150,Stage 3 - Non-Performing
+CUST00073,Eldoret,Rift Valley,SME Loan,Retail,F. Wanjiru,2023-03-15,48,0.1832,163783.57,149280.25,0,Stage 1 - Performing
+CUST00074,Kitengela,Nairobi,SME Loan,SME,M. Hassan,2023-01-10,60,0.1838,375375.11,172050.95,0,Stage 1 - Performing
+CUST00075,Kitengela,Nairobi,SME Loan,SME,J. Mwangi,2023-02-24,36,0.1506,117613.13,68103.47,150,Stage 3 - Non-Performing
+CUST00076,Nakuru,Rift Valley,SME Loan,Corporate,F. Wanjiru,2025-03-21,24,0.1245,436507.56,248089.04,0,Stage 1 - Performing
+CUST00077,Kitengela,Nairobi,Personal Loan,Retail,J. Mwangi,2025-05-06,84,0.1485,123875.64,49296.4,20,Stage 1 - Performing
+CUST00078,Nairobi CBD,Nairobi,Mortgage,Retail,A. Otieno,2025-02-20,24,0.1544,1164205.48,517294.34,0,Stage 1 - Performing
+CUST00079,Eldoret,Rift Valley,SME Loan,Retail,M. Hassan,2024-11-19,48,0.1234,426306.85,162620.92,10,Stage 1 - Performing
+CUST00080,Nakuru,Rift Valley,SME Loan,Corporate,J. Mwangi,2024-11-15,60,0.128,93985.91,88256.94,120,Stage 3 - Non-Performing
+CUST00081,Kisumu,Nyanza,SME Loan,Corporate,J. Mwangi,2023-06-01,84,0.1888,688409.46,652638.14,32,Stage 2 - Underperforming
+CUST00082,Westlands,Nairobi,Motor Loan,Retail,P. Njoroge,2023-01-25,36,0.1798,23631.07,14876.38,10,Stage 1 - Performing
+CUST00083,Kisumu,Nyanza,Personal Loan,Retail,F. Wanjiru,2025-02-26,60,0.1314,150924.55,34617.71,32,Stage 2 - Underperforming
+CUST00084,Kisumu,Nyanza,SME Loan,SME,J. Mwangi,2024-10-23,84,0.1647,312141.96,224172.7,0,Stage 1 - Performing
+CUST00085,Kisumu,Nyanza,Overdraft,Retail,J. Mwangi,2025-03-31,12,0.1684,861741.31,391394.68,0,Stage 1 - Performing
+CUST00086,Westlands,Nairobi,Asset Finance,Retail,S. Kimani,2023-02-01,84,0.1509,295693.41,206570.88,0,Stage 1 - Performing
+CUST00087,Kisumu,Nyanza,SME Loan,Retail,P. Njoroge,2023-12-13,84,0.1773,770594.52,554168.96,5,Stage 1 - Performing
+CUST00088,Kisumu,Nyanza,SME Loan,Retail,L. Achieng,2024-07-13,60,0.1631,83766.61,78609.28,15,Stage 1 - Performing
+CUST00089,Nakuru,Rift Valley,Asset Finance,Retail,M. Hassan,2024-03-11,84,0.1394,275338.28,37598.86,0,Stage 1 - Performing
+CUST00090,Kisumu,Nyanza,Personal Loan,SME,P. Njoroge,2024-03-06,48,0.1411,57580.75,30245.96,5,Stage 1 - Performing
+CUST00091,Westlands,Nairobi,Motor Loan,SME,S. Kimani,2024-06-09,36,0.1206,167522.12,115783.32,5,Stage 1 - Performing
+CUST00092,Kisumu,Nyanza,Personal Loan,Corporate,F. Wanjiru,2023-11-13,12,0.1833,294670.24,114941.53,90,Stage 2 - Underperforming
+CUST00093,Thika,Central,SME Loan,SME,F. Wanjiru,2025-01-29,36,0.16,508449.38,86624.48,0,Stage 1 - Performing
+CUST00094,Westlands,Nairobi,Asset Finance,Retail,J. Mwangi,2023-07-05,24,0.1266,339184.68,151465.68,5,Stage 1 - Performing
+CUST00095,Eldoret,Rift Valley,Mortgage,Retail,M. Hassan,2024-07-31,84,0.1499,340208.04,193194.05,0,Stage 1 - Performing
+CUST00096,Westlands,Nairobi,Overdraft,Retail,F. Wanjiru,2025-05-26,24,0.1378,241597.96,205962.86,15,Stage 1 - Performing
+CUST00097,Eldoret,Rift Valley,Personal Loan,Corporate,S. Kimani,2024-07-02,24,0.1406,344017.52,217596.91,0,Stage 1 - Performing
+CUST00098,Westlands,Nairobi,Overdraft,SME,P. Njoroge,2025-04-17,48,0.1208,396577.47,155413.1,0,Stage 1 - Performing
+CUST00099,Kitengela,Nairobi,SME Loan,Retail,F. Wanjiru,2025-03-29,60,0.1887,75255.97,46659.01,0,Stage 1 - Performing
+CUST00100,Kitengela,Nairobi,SME Loan,Retail,F. Wanjiru,2023-02-15,84,0.1288,724094.85,444241.49,0,Stage 1 - Performing
+CUST00101,Mombasa,Coast,Motor Loan,SME,M. Hassan,2023-12-24,24,0.1222,829110.25,414207.84,90,Stage 2 - Underperforming
+CUST00102,Kisumu,Nyanza,Asset Finance,SME,J. Mwangi,2023-05-12,60,0.1514,232177.2,193819.12,45,Stage 2 - Underperforming
+CUST00103,Mombasa,Coast,Motor Loan,SME,J. Mwangi,2024-08-10,36,0.1804,354013.93,225167.53,20,Stage 1 - Performing
+CUST00104,Mombasa,Coast,Personal Loan,Corporate,M. Hassan,2023-04-05,84,0.1395,292910.27,247243.97,10,Stage 1 - Performing
+CUST00105,Eldoret,Rift Valley,Personal Loan,Retail,P. Njoroge,2025-04-06,48,0.1428,322966.39,79460.62,0,Stage 1 - Performing
+CUST00106,Kitengela,Nairobi,Asset Finance,SME,F. Wanjiru,2023-10-03,48,0.1754,548069.88,101271.82,0,Stage 1 - Performing
+CUST00107,Kisumu,Nyanza,SME Loan,Retail,J. Mwangi,2025-06-15,36,0.1765,381851.15,267125.18,0,Stage 1 - Performing
+CUST00108,Kisumu,Nyanza,Motor Loan,SME,J. Mwangi,2023-10-03,48,0.149,292270.47,58335.95,0,Stage 1 - Performing
+CUST00109,Mombasa,Coast,SME Loan,Retail,L. Achieng,2024-01-07,24,0.1246,737017.56,206204.74,0,Stage 1 - Performing
+CUST00110,Kitengela,Nairobi,Motor Loan,Retail,A. Otieno,2023-10-30,48,0.1852,113445.13,12307.4,120,Stage 3 - Non-Performing
+CUST00111,Nairobi CBD,Nairobi,SME Loan,Retail,J. Mwangi,2025-02-02,24,0.1688,412487.16,292570.53,0,Stage 1 - Performing
+CUST00112,Nakuru,Rift Valley,Personal Loan,SME,A. Otieno,2024-11-30,48,0.1686,277795.69,153689.39,5,Stage 1 - Performing
+CUST00113,Eldoret,Rift Valley,Motor Loan,Retail,P. Njoroge,2024-05-03,12,0.1285,286614.31,68477.09,0,Stage 1 - Performing
+CUST00114,Kisumu,Nyanza,Overdraft,Retail,J. Mwangi,2024-02-16,84,0.1289,826536.97,461253.81,1,Stage 1 - Performing
+CUST00115,Westlands,Nairobi,Personal Loan,Retail,P. Njoroge,2025-04-01,84,0.1498,435298.41,122971.57,90,Stage 2 - Underperforming
+CUST00116,Westlands,Nairobi,SME Loan,SME,P. Njoroge,2025-04-09,60,0.147,342868.25,205953.31,0,Stage 1 - Performing
+CUST00117,Nakuru,Rift Valley,Asset Finance,Retail,L. Achieng,2024-08-23,12,0.1311,351259.3,278671.42,1,Stage 1 - Performing
+CUST00118,Kisumu,Nyanza,Motor Loan,Retail,S. Kimani,2025-01-24,84,0.1463,370143.85,111195.97,90,Stage 2 - Underperforming
+CUST00119,Thika,Central,SME Loan,Retail,J. Mwangi,2025-02-27,84,0.1532,285204.43,133958.99,0,Stage 1 - Performing
+CUST00120,Thika,Central,Overdraft,SME,M. Hassan,2024-04-24,24,0.1527,151895.05,97242.7,0,Stage 1 - Performing
+CUST00121,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2024-11-27,48,0.1213,248561.49,69594.95,45,Stage 2 - Underperforming
+CUST00122,Nakuru,Rift Valley,Mortgage,SME,P. Njoroge,2024-08-21,24,0.1897,627984.54,526453.22,120,Stage 3 - Non-Performing
+CUST00123,Eldoret,Rift Valley,Motor Loan,Retail,J. Mwangi,2023-12-01,84,0.1317,269290.61,140693.24,60,Stage 2 - Underperforming
+CUST00124,Nakuru,Rift Valley,Personal Loan,Retail,A. Otieno,2023-12-09,12,0.1457,240401.77,154112.23,45,Stage 2 - Underperforming
+CUST00125,Kitengela,Nairobi,Personal Loan,Retail,P. Njoroge,2023-12-08,48,0.1842,517527.98,474345.57,20,Stage 1 - Performing
+CUST00126,Kisumu,Nyanza,SME Loan,Retail,S. Kimani,2024-07-27,84,0.1867,647526.36,271119.87,0,Stage 1 - Performing
+CUST00127,Kisumu,Nyanza,SME Loan,Retail,M. Hassan,2025-05-01,84,0.1441,312943.13,73114.61,0,Stage 1 - Performing
+CUST00128,Nairobi CBD,Nairobi,Personal Loan,Retail,S. Kimani,2023-04-14,24,0.1369,367448.92,275643.83,60,Stage 2 - Underperforming
+CUST00129,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2023-02-14,84,0.1457,266801.11,69307.15,60,Stage 2 - Underperforming
+CUST00130,Kisumu,Nyanza,Motor Loan,Retail,J. Mwangi,2024-04-20,60,0.137,365543.61,113368.82,0,Stage 1 - Performing
+CUST00131,Nairobi CBD,Nairobi,SME Loan,Retail,P. Njoroge,2023-03-17,84,0.1801,204271.24,191604.76,120,Stage 3 - Non-Performing
+CUST00132,Mombasa,Coast,Overdraft,Retail,P. Njoroge,2023-09-22,24,0.1258,138937.01,106347.4,10,Stage 1 - Performing
+CUST00133,Mombasa,Coast,SME Loan,Retail,P. Njoroge,2025-03-01,24,0.1733,442433.64,69002.9,1,Stage 1 - Performing
+CUST00134,Thika,Central,Asset Finance,Retail,M. Hassan,2024-08-21,24,0.1551,1136683.93,783849.56,32,Stage 2 - Underperforming
+CUST00135,Kisumu,Nyanza,SME Loan,Retail,L. Achieng,2023-10-01,60,0.1848,274244.48,240866.7,15,Stage 1 - Performing
+CUST00136,Kitengela,Nairobi,Personal Loan,SME,L. Achieng,2023-09-03,84,0.1728,411883.33,194387.86,0,Stage 1 - Performing
+CUST00137,Kitengela,Nairobi,Personal Loan,SME,S. Kimani,2024-08-19,24,0.1514,43141.25,33104.61,0,Stage 1 - Performing
+CUST00138,Eldoret,Rift Valley,Personal Loan,Retail,A. Otieno,2023-11-13,24,0.1206,1020006.03,605929.68,0,Stage 1 - Performing
+CUST00139,Mombasa,Coast,Mortgage,Retail,F. Wanjiru,2023-11-09,12,0.1859,654674.27,493767.78,0,Stage 1 - Performing
+CUST00140,Kitengela,Nairobi,Asset Finance,SME,J. Mwangi,2025-02-05,12,0.1713,142701.47,92445.41,0,Stage 1 - Performing
+CUST00141,Kisumu,Nyanza,Mortgage,Corporate,L. Achieng,2025-01-22,24,0.1513,303980.62,264454.36,0,Stage 1 - Performing
+CUST00142,Eldoret,Rift Valley,Asset Finance,Retail,J. Mwangi,2023-02-06,24,0.1288,143273.86,59791.07,1,Stage 1 - Performing
+CUST00143,Nakuru,Rift Valley,Asset Finance,Retail,J. Mwangi,2024-05-04,36,0.1521,156459.67,42904.74,0,Stage 1 - Performing
+CUST00144,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2023-04-02,48,0.1647,255554.43,212625.05,120,Stage 3 - Non-Performing
+CUST00145,Kitengela,Nairobi,Asset Finance,SME,S. Kimani,2023-10-25,24,0.1299,229356.21,29215.91,15,Stage 1 - Performing
+CUST00146,Eldoret,Rift Valley,Personal Loan,Retail,A. Otieno,2023-10-21,60,0.1506,108586.88,32970.96,150,Stage 3 - Non-Performing
+CUST00147,Nairobi CBD,Nairobi,SME Loan,Corporate,F. Wanjiru,2023-01-15,60,0.1396,351321.09,148840.73,0,Stage 1 - Performing
+CUST00148,Thika,Central,Motor Loan,Retail,J. Mwangi,2023-12-26,60,0.142,389771.83,315027.7,45,Stage 2 - Underperforming
+CUST00149,Thika,Central,Mortgage,SME,M. Hassan,2023-01-27,48,0.1516,84575.23,54864.9,0,Stage 1 - Performing
+CUST00150,Eldoret,Rift Valley,Personal Loan,Retail,J. Mwangi,2023-10-28,48,0.1659,777057.94,634894.41,10,Stage 1 - Performing
+CUST00151,Thika,Central,Motor Loan,Retail,J. Mwangi,2023-10-04,48,0.1711,410686.16,338144.26,0,Stage 1 - Performing
+CUST00152,Eldoret,Rift Valley,Personal Loan,Retail,L. Achieng,2023-07-09,60,0.178,391061.18,361553.39,0,Stage 1 - Performing
+CUST00153,Nakuru,Rift Valley,Motor Loan,SME,L. Achieng,2025-04-05,48,0.1584,166407.53,87835.6,0,Stage 1 - Performing
+CUST00154,Kisumu,Nyanza,SME Loan,Retail,L. Achieng,2024-02-23,48,0.174,656212.52,401082.04,0,Stage 1 - Performing
+CUST00155,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2023-01-20,36,0.1772,687176.81,430171.1,120,Stage 3 - Non-Performing
+CUST00156,Westlands,Nairobi,Personal Loan,Retail,L. Achieng,2024-06-28,36,0.1607,463216.14,431993.39,5,Stage 1 - Performing
+CUST00157,Mombasa,Coast,Motor Loan,Retail,A. Otieno,2025-03-06,24,0.183,363944.8,223421.25,0,Stage 1 - Performing
+CUST00158,Kitengela,Nairobi,Motor Loan,Retail,P. Njoroge,2023-07-23,12,0.183,134518.87,82649.56,5,Stage 1 - Performing
+CUST00159,Eldoret,Rift Valley,Personal Loan,Retail,J. Mwangi,2024-12-06,48,0.1675,197582.38,52707.14,0,Stage 1 - Performing
+CUST00160,Nakuru,Rift Valley,Asset Finance,Corporate,M. Hassan,2023-12-01,24,0.1757,256625.99,60433.34,0,Stage 1 - Performing
+CUST00161,Nakuru,Rift Valley,Asset Finance,Corporate,M. Hassan,2023-12-05,12,0.1455,898159.64,721466.69,20,Stage 1 - Performing
+CUST00162,Westlands,Nairobi,SME Loan,Retail,A. Otieno,2023-12-04,60,0.1572,570116.16,246788.87,0,Stage 1 - Performing
+CUST00163,Westlands,Nairobi,Personal Loan,SME,S. Kimani,2025-04-03,12,0.1486,297324.17,200820.05,0,Stage 1 - Performing
+CUST00164,Eldoret,Rift Valley,Mortgage,Retail,L. Achieng,2024-10-28,48,0.1529,704960.12,445280.51,5,Stage 1 - Performing
+CUST00165,Mombasa,Coast,Asset Finance,SME,S. Kimani,2024-09-09,84,0.1713,393168.42,369103.41,45,Stage 2 - Underperforming
+CUST00166,Nairobi CBD,Nairobi,Personal Loan,SME,J. Mwangi,2024-03-09,24,0.1354,990240.6,420139.17,5,Stage 1 - Performing
+CUST00167,Nakuru,Rift Valley,Asset Finance,Retail,F. Wanjiru,2024-11-07,60,0.1436,335669.45,105569.0,10,Stage 1 - Performing
+CUST00168,Thika,Central,SME Loan,Retail,P. Njoroge,2024-12-20,48,0.1243,389165.56,345106.65,120,Stage 3 - Non-Performing
+CUST00169,Thika,Central,SME Loan,SME,M. Hassan,2023-09-11,84,0.1609,103020.47,86434.12,45,Stage 2 - Underperforming
+CUST00170,Mombasa,Coast,SME Loan,SME,L. Achieng,2023-11-18,60,0.1836,275638.19,256388.07,0,Stage 1 - Performing
+CUST00171,Nakuru,Rift Valley,Mortgage,Corporate,F. Wanjiru,2025-04-07,84,0.1526,195708.72,31928.12,20,Stage 1 - Performing
+CUST00172,Thika,Central,Asset Finance,Retail,J. Mwangi,2023-08-20,84,0.1757,98376.26,54377.76,0,Stage 1 - Performing
+CUST00173,Nairobi CBD,Nairobi,Personal Loan,Retail,S. Kimani,2025-06-01,60,0.1485,69211.37,12744.07,1,Stage 1 - Performing
+CUST00174,Mombasa,Coast,Personal Loan,Retail,P. Njoroge,2024-03-24,84,0.1867,437703.9,197726.05,20,Stage 1 - Performing
+CUST00175,Kisumu,Nyanza,Motor Loan,Retail,P. Njoroge,2023-06-06,36,0.1662,129316.42,60304.42,15,Stage 1 - Performing
+CUST00176,Mombasa,Coast,Personal Loan,Retail,S. Kimani,2024-01-26,12,0.1595,448024.98,409411.32,0,Stage 1 - Performing
+CUST00177,Thika,Central,Personal Loan,SME,A. Otieno,2024-09-27,36,0.1555,500741.82,90568.15,0,Stage 1 - Performing
+CUST00178,Nakuru,Rift Valley,Personal Loan,Retail,A. Otieno,2024-08-21,48,0.1615,559388.13,318081.1,60,Stage 2 - Underperforming
+CUST00179,Westlands,Nairobi,Motor Loan,Retail,A. Otieno,2023-05-25,48,0.1746,196846.95,30049.74,0,Stage 1 - Performing
+CUST00180,Eldoret,Rift Valley,Personal Loan,Retail,J. Mwangi,2024-03-09,84,0.1862,248997.04,180653.42,0,Stage 1 - Performing
+CUST00181,Thika,Central,Personal Loan,Retail,S. Kimani,2024-10-04,36,0.1468,807377.84,728843.04,15,Stage 1 - Performing
+CUST00182,Mombasa,Coast,Personal Loan,SME,F. Wanjiru,2024-03-15,84,0.1342,108357.99,87072.34,0,Stage 1 - Performing
+CUST00183,Westlands,Nairobi,Mortgage,Corporate,L. Achieng,2023-09-05,60,0.1732,464713.3,206986.26,0,Stage 1 - Performing
+CUST00184,Eldoret,Rift Valley,Personal Loan,Retail,M. Hassan,2023-08-10,24,0.1213,243886.55,161963.72,0,Stage 1 - Performing
+CUST00185,Kitengela,Nairobi,Asset Finance,Retail,J. Mwangi,2023-11-05,24,0.1266,517464.5,261530.17,0,Stage 1 - Performing
+CUST00186,Westlands,Nairobi,Personal Loan,Retail,M. Hassan,2025-04-12,24,0.1775,117671.29,21421.16,0,Stage 1 - Performing
+CUST00187,Thika,Central,Asset Finance,Corporate,P. Njoroge,2024-01-15,48,0.1332,262067.06,103653.46,0,Stage 1 - Performing
+CUST00188,Nakuru,Rift Valley,SME Loan,SME,S. Kimani,2024-09-09,12,0.1322,247701.09,51050.88,0,Stage 1 - Performing
+CUST00189,Westlands,Nairobi,Mortgage,Corporate,P. Njoroge,2024-09-13,60,0.1707,444320.95,51370.71,1,Stage 1 - Performing
+CUST00190,Nairobi CBD,Nairobi,Motor Loan,Retail,P. Njoroge,2024-04-24,24,0.125,793750.86,606161.85,45,Stage 2 - Underperforming
+CUST00191,Nakuru,Rift Valley,Motor Loan,Retail,P. Njoroge,2023-06-22,24,0.1552,288946.16,222112.06,150,Stage 3 - Non-Performing
+CUST00192,Thika,Central,Overdraft,Retail,J. Mwangi,2023-06-16,60,0.1294,280893.78,259731.07,20,Stage 1 - Performing
+CUST00193,Kitengela,Nairobi,SME Loan,Retail,J. Mwangi,2023-11-20,36,0.1386,190863.69,74138.93,1,Stage 1 - Performing
+CUST00194,Eldoret,Rift Valley,Motor Loan,Corporate,M. Hassan,2024-04-09,36,0.1759,259953.27,49616.64,120,Stage 3 - Non-Performing
+CUST00195,Westlands,Nairobi,Personal Loan,SME,A. Otieno,2023-08-02,36,0.122,109943.17,39820.96,15,Stage 1 - Performing
+CUST00196,Kitengela,Nairobi,Overdraft,Retail,S. Kimani,2023-11-21,60,0.1432,426893.43,130253.71,0,Stage 1 - Performing
+CUST00197,Eldoret,Rift Valley,Mortgage,Retail,L. Achieng,2023-04-01,48,0.1746,209714.22,39781.9,10,Stage 1 - Performing
+CUST00198,Nakuru,Rift Valley,Overdraft,Corporate,M. Hassan,2025-01-16,24,0.1827,303667.12,66832.13,0,Stage 1 - Performing
+CUST00199,Kisumu,Nyanza,Overdraft,Retail,F. Wanjiru,2025-01-18,84,0.1214,658626.02,363652.52,15,Stage 1 - Performing
+CUST00200,Nakuru,Rift Valley,Personal Loan,SME,S. Kimani,2023-09-15,36,0.1762,419182.5,227974.73,5,Stage 1 - Performing
+CUST00201,Westlands,Nairobi,SME Loan,SME,S. Kimani,2024-05-13,36,0.1677,559390.97,195233.46,0,Stage 1 - Performing
+CUST00202,Kisumu,Nyanza,Motor Loan,SME,A. Otieno,2025-02-04,60,0.1756,192984.99,150961.77,0,Stage 1 - Performing
+CUST00203,Thika,Central,SME Loan,SME,L. Achieng,2023-11-24,48,0.15,547631.65,434367.19,0,Stage 1 - Performing
+CUST00204,Nairobi CBD,Nairobi,Personal Loan,SME,S. Kimani,2023-01-27,24,0.1331,290664.73,119863.88,45,Stage 2 - Underperforming
+CUST00205,Westlands,Nairobi,Overdraft,SME,P. Njoroge,2023-05-27,48,0.1226,260170.13,95016.42,32,Stage 2 - Underperforming
+CUST00206,Eldoret,Rift Valley,Motor Loan,Retail,M. Hassan,2024-09-10,24,0.1397,531799.03,318032.12,0,Stage 1 - Performing
+CUST00207,Eldoret,Rift Valley,Asset Finance,SME,F. Wanjiru,2023-08-30,12,0.178,320768.06,286997.35,150,Stage 3 - Non-Performing
+CUST00208,Thika,Central,Mortgage,Retail,J. Mwangi,2024-03-23,48,0.172,476147.82,387269.68,0,Stage 1 - Performing
+CUST00209,Kisumu,Nyanza,Personal Loan,Retail,L. Achieng,2024-04-11,60,0.1804,472356.95,171006.47,150,Stage 3 - Non-Performing
+CUST00210,Nakuru,Rift Valley,Motor Loan,SME,L. Achieng,2023-11-30,12,0.1339,72361.81,9881.08,0,Stage 1 - Performing
+CUST00211,Nairobi CBD,Nairobi,Motor Loan,Corporate,M. Hassan,2023-05-19,12,0.131,307129.0,67705.4,0,Stage 1 - Performing
+CUST00212,Kisumu,Nyanza,Mortgage,SME,A. Otieno,2024-06-13,24,0.1649,802851.91,406921.8,1,Stage 1 - Performing
+CUST00213,Kitengela,Nairobi,Personal Loan,Retail,P. Njoroge,2025-01-25,84,0.1365,532459.59,377272.93,20,Stage 1 - Performing
+CUST00214,Kitengela,Nairobi,SME Loan,SME,S. Kimani,2023-11-18,36,0.1753,166416.28,33544.64,0,Stage 1 - Performing
+CUST00215,Westlands,Nairobi,SME Loan,Corporate,A. Otieno,2024-06-16,60,0.1437,59670.67,28292.51,32,Stage 2 - Underperforming
+CUST00216,Nakuru,Rift Valley,Motor Loan,Retail,S. Kimani,2023-08-19,12,0.1607,323767.13,74697.85,32,Stage 2 - Underperforming
+CUST00217,Nakuru,Rift Valley,Overdraft,Retail,L. Achieng,2023-07-14,84,0.1837,118554.28,83572.45,20,Stage 1 - Performing
+CUST00218,Eldoret,Rift Valley,Asset Finance,Retail,L. Achieng,2024-01-05,24,0.1611,423162.52,85318.47,1,Stage 1 - Performing
+CUST00219,Nakuru,Rift Valley,Overdraft,SME,L. Achieng,2023-08-01,12,0.1751,125464.3,61144.71,0,Stage 1 - Performing
+CUST00220,Kitengela,Nairobi,Asset Finance,Retail,J. Mwangi,2023-08-09,24,0.1312,191221.99,116880.12,0,Stage 1 - Performing
+CUST00221,Eldoret,Rift Valley,Personal Loan,Retail,L. Achieng,2024-06-17,12,0.1385,634463.06,475514.82,32,Stage 2 - Underperforming
+CUST00222,Mombasa,Coast,Asset Finance,Corporate,A. Otieno,2024-03-12,12,0.1651,101634.02,25059.06,0,Stage 1 - Performing
+CUST00223,Westlands,Nairobi,Motor Loan,Retail,A. Otieno,2025-06-18,48,0.1366,178823.22,65143.69,90,Stage 2 - Underperforming
+CUST00224,Thika,Central,Personal Loan,Retail,P. Njoroge,2025-06-03,24,0.1238,729401.25,260735.17,0,Stage 1 - Performing
+CUST00225,Kitengela,Nairobi,SME Loan,Retail,M. Hassan,2025-02-02,36,0.1589,134258.55,57884.93,0,Stage 1 - Performing
+CUST00226,Kisumu,Nyanza,SME Loan,Retail,P. Njoroge,2024-02-08,36,0.1657,258809.42,99741.51,0,Stage 1 - Performing
+CUST00227,Kisumu,Nyanza,Asset Finance,Retail,L. Achieng,2024-05-12,12,0.1615,422404.46,400714.53,0,Stage 1 - Performing
+CUST00228,Mombasa,Coast,Personal Loan,Retail,A. Otieno,2024-07-02,60,0.155,379310.59,202820.57,5,Stage 1 - Performing
+CUST00229,Kitengela,Nairobi,Asset Finance,SME,M. Hassan,2024-07-20,12,0.1201,184271.63,76791.42,60,Stage 2 - Underperforming
+CUST00230,Nakuru,Rift Valley,Personal Loan,SME,A. Otieno,2023-03-26,48,0.153,595281.92,404186.03,45,Stage 2 - Underperforming
+CUST00231,Nairobi CBD,Nairobi,SME Loan,Corporate,S. Kimani,2025-01-09,48,0.1729,139778.66,90611.38,1,Stage 1 - Performing
+CUST00232,Eldoret,Rift Valley,SME Loan,Corporate,L. Achieng,2024-07-28,12,0.1867,380865.67,191977.96,32,Stage 2 - Underperforming
+CUST00233,Kisumu,Nyanza,Motor Loan,Retail,L. Achieng,2024-07-24,84,0.12,760071.77,493342.06,0,Stage 1 - Performing
+CUST00234,Eldoret,Rift Valley,Personal Loan,Retail,L. Achieng,2024-12-09,24,0.1811,327130.47,309771.31,90,Stage 2 - Underperforming
+CUST00235,Nairobi CBD,Nairobi,Asset Finance,SME,J. Mwangi,2023-10-18,12,0.1619,231471.67,69040.04,1,Stage 1 - Performing
+CUST00236,Eldoret,Rift Valley,SME Loan,Retail,S. Kimani,2025-02-19,84,0.1845,225294.02,200323.05,10,Stage 1 - Performing
+CUST00237,Kitengela,Nairobi,Personal Loan,Corporate,L. Achieng,2024-01-07,36,0.1559,434264.13,62272.45,150,Stage 3 - Non-Performing
+CUST00238,Kitengela,Nairobi,Overdraft,Retail,J. Mwangi,2023-12-09,84,0.1537,367858.45,271084.25,32,Stage 2 - Underperforming
+CUST00239,Westlands,Nairobi,SME Loan,Retail,J. Mwangi,2024-07-20,12,0.1892,340367.8,210075.25,0,Stage 1 - Performing
+CUST00240,Eldoret,Rift Valley,Overdraft,Retail,L. Achieng,2024-07-11,36,0.1711,285777.0,242790.92,5,Stage 1 - Performing
+CUST00241,Nairobi CBD,Nairobi,Asset Finance,Retail,A. Otieno,2025-05-08,24,0.1642,318484.14,90767.97,120,Stage 3 - Non-Performing
+CUST00242,Nakuru,Rift Valley,Personal Loan,SME,S. Kimani,2024-04-11,36,0.1273,119035.59,99610.42,0,Stage 1 - Performing
+CUST00243,Kisumu,Nyanza,Personal Loan,Retail,F. Wanjiru,2024-09-17,12,0.1394,260501.04,108893.42,60,Stage 2 - Underperforming
+CUST00244,Thika,Central,Motor Loan,Corporate,J. Mwangi,2023-01-23,12,0.127,886379.93,360023.77,32,Stage 2 - Underperforming
+CUST00245,Eldoret,Rift Valley,Personal Loan,SME,F. Wanjiru,2024-07-17,48,0.1545,845651.03,456200.09,0,Stage 1 - Performing
+CUST00246,Westlands,Nairobi,Mortgage,SME,J. Mwangi,2024-12-01,12,0.1331,311453.41,91469.08,0,Stage 1 - Performing
+CUST00247,Mombasa,Coast,SME Loan,Corporate,M. Hassan,2024-12-17,12,0.1297,677254.75,510904.95,0,Stage 1 - Performing
+CUST00248,Nairobi CBD,Nairobi,Motor Loan,SME,M. Hassan,2023-07-18,84,0.1306,239690.28,89410.69,0,Stage 1 - Performing
+CUST00249,Mombasa,Coast,Motor Loan,Corporate,J. Mwangi,2023-06-05,24,0.1474,220659.35,114796.8,0,Stage 1 - Performing
+CUST00250,Kitengela,Nairobi,Motor Loan,SME,A. Otieno,2023-07-12,24,0.153,245629.47,220028.78,5,Stage 1 - Performing
+CUST00251,Nairobi CBD,Nairobi,SME Loan,Retail,P. Njoroge,2024-08-21,48,0.1496,607733.22,134159.57,0,Stage 1 - Performing
+CUST00252,Kitengela,Nairobi,Asset Finance,Retail,M. Hassan,2023-06-12,24,0.136,184538.91,44102.21,0,Stage 1 - Performing
+CUST00253,Thika,Central,Personal Loan,Retail,P. Njoroge,2023-09-14,12,0.1399,512383.45,379407.12,0,Stage 1 - Performing
+CUST00254,Mombasa,Coast,Personal Loan,Retail,S. Kimani,2025-05-29,24,0.1721,56863.63,31492.69,0,Stage 1 - Performing
+CUST00255,Westlands,Nairobi,SME Loan,SME,M. Hassan,2024-01-20,60,0.1438,252875.93,110646.38,0,Stage 1 - Performing
+CUST00256,Westlands,Nairobi,SME Loan,SME,P. Njoroge,2023-05-12,60,0.1594,711331.88,560746.49,0,Stage 1 - Performing
+CUST00257,Eldoret,Rift Valley,Personal Loan,SME,J. Mwangi,2024-06-28,60,0.1555,543052.42,324092.62,0,Stage 1 - Performing
+CUST00258,Eldoret,Rift Valley,Mortgage,Retail,A. Otieno,2024-07-07,24,0.1653,402887.18,124089.3,32,Stage 2 - Underperforming
+CUST00259,Kisumu,Nyanza,Motor Loan,Retail,L. Achieng,2025-03-18,84,0.1628,262254.93,184311.53,0,Stage 1 - Performing
+CUST00260,Westlands,Nairobi,Personal Loan,Corporate,J. Mwangi,2023-11-03,12,0.1338,181898.72,111293.74,0,Stage 1 - Performing
+CUST00261,Kitengela,Nairobi,Personal Loan,Corporate,L. Achieng,2023-04-23,24,0.1286,786737.66,128715.83,0,Stage 1 - Performing
+CUST00262,Thika,Central,Overdraft,Retail,A. Otieno,2024-06-11,12,0.1631,289450.88,87646.56,120,Stage 3 - Non-Performing
+CUST00263,Nairobi CBD,Nairobi,SME Loan,Retail,P. Njoroge,2024-12-05,12,0.1563,556117.39,472873.99,0,Stage 1 - Performing
+CUST00264,Nairobi CBD,Nairobi,SME Loan,Retail,J. Mwangi,2025-02-26,84,0.1572,222476.09,192685.14,120,Stage 3 - Non-Performing
+CUST00265,Westlands,Nairobi,Personal Loan,Retail,L. Achieng,2023-09-04,84,0.1577,177756.39,141082.35,32,Stage 2 - Underperforming
+CUST00266,Westlands,Nairobi,Motor Loan,Corporate,J. Mwangi,2024-01-19,48,0.1284,207402.48,55111.44,0,Stage 1 - Performing
+CUST00267,Thika,Central,Personal Loan,Retail,J. Mwangi,2024-07-21,48,0.1781,665534.52,588859.86,0,Stage 1 - Performing
+CUST00268,Westlands,Nairobi,Overdraft,Retail,S. Kimani,2023-12-09,60,0.1865,606942.44,465896.36,0,Stage 1 - Performing
+CUST00269,Eldoret,Rift Valley,SME Loan,SME,F. Wanjiru,2024-06-12,60,0.1667,269540.69,145794.92,0,Stage 1 - Performing
+CUST00270,Kisumu,Nyanza,Personal Loan,Retail,M. Hassan,2024-12-09,12,0.1743,759321.26,689970.88,0,Stage 1 - Performing
+CUST00271,Kitengela,Nairobi,Motor Loan,Retail,S. Kimani,2025-03-10,84,0.1568,773069.06,134364.71,20,Stage 1 - Performing
+CUST00272,Mombasa,Coast,Personal Loan,SME,L. Achieng,2024-01-07,84,0.1563,45640.86,41353.83,5,Stage 1 - Performing
+CUST00273,Nairobi CBD,Nairobi,Overdraft,Retail,P. Njoroge,2023-04-09,24,0.1418,173037.21,82362.07,0,Stage 1 - Performing
+CUST00274,Eldoret,Rift Valley,Personal Loan,Retail,P. Njoroge,2024-02-09,36,0.1772,687704.12,596688.2,45,Stage 2 - Underperforming
+CUST00275,Mombasa,Coast,SME Loan,Retail,M. Hassan,2025-04-01,60,0.1208,590848.45,94838.74,0,Stage 1 - Performing
+CUST00276,Mombasa,Coast,SME Loan,Retail,A. Otieno,2024-01-31,84,0.1572,1222023.08,878198.99,0,Stage 1 - Performing
+CUST00277,Thika,Central,Personal Loan,Retail,J. Mwangi,2024-05-20,12,0.1812,33572.23,8407.27,0,Stage 1 - Performing
+CUST00278,Nakuru,Rift Valley,Asset Finance,Retail,A. Otieno,2023-03-12,36,0.1853,364721.9,100926.03,15,Stage 1 - Performing
+CUST00279,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2024-03-30,24,0.1668,584799.1,193404.7,90,Stage 2 - Underperforming
+CUST00280,Kisumu,Nyanza,Personal Loan,Corporate,M. Hassan,2023-03-19,36,0.161,144046.77,22200.03,90,Stage 2 - Underperforming
+CUST00281,Nakuru,Rift Valley,Asset Finance,SME,P. Njoroge,2023-08-23,36,0.1896,991386.67,826190.33,1,Stage 1 - Performing
+CUST00282,Nairobi CBD,Nairobi,Motor Loan,Corporate,P. Njoroge,2025-03-06,60,0.1245,789045.86,747606.98,5,Stage 1 - Performing
+CUST00283,Kitengela,Nairobi,Overdraft,Corporate,P. Njoroge,2025-03-30,12,0.1375,249212.56,92255.65,0,Stage 1 - Performing
+CUST00284,Westlands,Nairobi,Personal Loan,Retail,L. Achieng,2024-05-29,12,0.1517,1011140.58,841786.81,20,Stage 1 - Performing
+CUST00285,Nakuru,Rift Valley,SME Loan,Retail,J. Mwangi,2023-09-14,12,0.1512,695012.04,563400.66,45,Stage 2 - Underperforming
+CUST00286,Westlands,Nairobi,Mortgage,Corporate,L. Achieng,2024-06-28,24,0.1797,317901.01,207450.97,150,Stage 3 - Non-Performing
+CUST00287,Nakuru,Rift Valley,SME Loan,Retail,L. Achieng,2024-08-19,60,0.1657,409476.33,106248.5,0,Stage 1 - Performing
+CUST00288,Thika,Central,Motor Loan,SME,F. Wanjiru,2024-09-07,84,0.1317,345359.16,127949.22,120,Stage 3 - Non-Performing
+CUST00289,Kisumu,Nyanza,SME Loan,SME,P. Njoroge,2024-06-21,84,0.1615,221723.29,127425.48,5,Stage 1 - Performing
+CUST00290,Thika,Central,Personal Loan,Retail,J. Mwangi,2023-06-04,60,0.1782,739393.25,231045.35,0,Stage 1 - Performing
+CUST00291,Mombasa,Coast,Motor Loan,SME,J. Mwangi,2024-12-08,36,0.1235,667188.26,620396.05,0,Stage 1 - Performing
+CUST00292,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2024-10-25,60,0.1253,224185.62,200969.69,0,Stage 1 - Performing
+CUST00293,Kitengela,Nairobi,SME Loan,Retail,L. Achieng,2024-10-17,12,0.1584,214147.58,172978.94,0,Stage 1 - Performing
+CUST00294,Westlands,Nairobi,Personal Loan,Retail,L. Achieng,2024-04-05,36,0.1544,636216.0,539536.36,0,Stage 1 - Performing
+CUST00295,Kitengela,Nairobi,Motor Loan,Retail,F. Wanjiru,2023-10-30,12,0.1818,238363.59,164419.41,0,Stage 1 - Performing
+CUST00296,Nairobi CBD,Nairobi,Mortgage,Retail,F. Wanjiru,2024-09-03,12,0.125,145044.68,33522.23,5,Stage 1 - Performing
+CUST00297,Mombasa,Coast,Overdraft,SME,P. Njoroge,2023-11-26,84,0.1313,377374.21,339738.1,1,Stage 1 - Performing
+CUST00298,Kitengela,Nairobi,SME Loan,Retail,P. Njoroge,2023-12-17,12,0.1229,373510.43,314363.29,0,Stage 1 - Performing
+CUST00299,Nakuru,Rift Valley,SME Loan,SME,S. Kimani,2025-02-23,48,0.1488,125442.84,68129.44,15,Stage 1 - Performing
+CUST00300,Nairobi CBD,Nairobi,Personal Loan,Retail,M. Hassan,2023-02-22,12,0.1897,288642.75,229862.04,20,Stage 1 - Performing
+CUST00301,Nairobi CBD,Nairobi,Mortgage,Retail,J. Mwangi,2023-06-24,36,0.1242,251724.51,196677.41,0,Stage 1 - Performing
+CUST00302,Nakuru,Rift Valley,Motor Loan,SME,M. Hassan,2024-03-13,84,0.1451,799045.33,245280.09,45,Stage 2 - Underperforming
+CUST00303,Westlands,Nairobi,Personal Loan,Retail,S. Kimani,2024-03-15,24,0.1226,278006.03,263642.59,0,Stage 1 - Performing
+CUST00304,Thika,Central,Asset Finance,SME,F. Wanjiru,2024-12-18,24,0.1436,133008.41,120366.52,5,Stage 1 - Performing
+CUST00305,Nairobi CBD,Nairobi,Asset Finance,Retail,M. Hassan,2025-05-14,48,0.171,104998.25,50261.71,5,Stage 1 - Performing
+CUST00306,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2025-01-10,24,0.1289,264742.09,228012.47,5,Stage 1 - Performing
+CUST00307,Nairobi CBD,Nairobi,Asset Finance,SME,L. Achieng,2024-06-04,36,0.1273,189430.45,131545.23,0,Stage 1 - Performing
+CUST00308,Kitengela,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-09-13,24,0.1249,515672.46,212858.79,15,Stage 1 - Performing
+CUST00309,Kisumu,Nyanza,Motor Loan,SME,J. Mwangi,2023-08-26,84,0.1845,186465.93,73076.54,120,Stage 3 - Non-Performing
+CUST00310,Eldoret,Rift Valley,SME Loan,Retail,S. Kimani,2025-02-13,24,0.1405,672927.71,82201.61,5,Stage 1 - Performing
+CUST00311,Eldoret,Rift Valley,Personal Loan,Retail,M. Hassan,2024-07-13,36,0.1882,167885.43,67644.95,15,Stage 1 - Performing
+CUST00312,Nairobi CBD,Nairobi,Personal Loan,SME,J. Mwangi,2023-06-18,36,0.1433,109430.84,19872.74,0,Stage 1 - Performing
+CUST00313,Westlands,Nairobi,Asset Finance,SME,M. Hassan,2024-09-04,60,0.1233,567440.73,233826.39,90,Stage 2 - Underperforming
+CUST00314,Kisumu,Nyanza,Mortgage,Retail,S. Kimani,2024-07-29,36,0.1881,133903.27,43025.56,0,Stage 1 - Performing
+CUST00315,Mombasa,Coast,SME Loan,Retail,F. Wanjiru,2024-02-17,60,0.1813,339033.39,106416.5,5,Stage 1 - Performing
+CUST00316,Nairobi CBD,Nairobi,SME Loan,Retail,F. Wanjiru,2024-08-29,24,0.1484,236375.63,149822.08,0,Stage 1 - Performing
+CUST00317,Nairobi CBD,Nairobi,Mortgage,SME,L. Achieng,2024-04-17,12,0.1567,135152.64,60523.06,20,Stage 1 - Performing
+CUST00318,Nakuru,Rift Valley,Personal Loan,Retail,F. Wanjiru,2023-02-25,48,0.1328,753186.08,626258.78,0,Stage 1 - Performing
+CUST00319,Eldoret,Rift Valley,SME Loan,SME,P. Njoroge,2023-04-14,12,0.1202,39055.61,35625.01,45,Stage 2 - Underperforming
+CUST00320,Nakuru,Rift Valley,Overdraft,Corporate,L. Achieng,2025-04-19,24,0.1599,563258.41,164655.14,0,Stage 1 - Performing
+CUST00321,Kisumu,Nyanza,Personal Loan,Retail,L. Achieng,2023-04-22,84,0.1898,611948.92,177572.65,0,Stage 1 - Performing
+CUST00322,Eldoret,Rift Valley,SME Loan,SME,J. Mwangi,2024-07-09,24,0.1545,178196.73,90433.94,10,Stage 1 - Performing
+CUST00323,Westlands,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-07-28,12,0.1275,177885.9,36862.39,0,Stage 1 - Performing
+CUST00324,Eldoret,Rift Valley,SME Loan,Retail,M. Hassan,2025-06-02,84,0.1792,398939.06,370264.7,45,Stage 2 - Underperforming
+CUST00325,Thika,Central,SME Loan,Retail,M. Hassan,2024-06-28,12,0.1213,491511.14,61201.58,0,Stage 1 - Performing
+CUST00326,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2023-01-18,84,0.1455,300272.31,230242.01,1,Stage 1 - Performing
+CUST00327,Nakuru,Rift Valley,Asset Finance,Retail,S. Kimani,2023-09-14,48,0.1275,316408.24,156282.26,90,Stage 2 - Underperforming
+CUST00328,Nairobi CBD,Nairobi,SME Loan,Corporate,P. Njoroge,2024-06-15,48,0.1761,219015.74,97328.91,0,Stage 1 - Performing
+CUST00329,Kitengela,Nairobi,Motor Loan,Corporate,A. Otieno,2023-07-04,24,0.1386,960257.78,140820.66,20,Stage 1 - Performing
+CUST00330,Kitengela,Nairobi,Personal Loan,Corporate,F. Wanjiru,2023-04-16,60,0.1418,37865.75,27233.08,60,Stage 2 - Underperforming
+CUST00331,Nakuru,Rift Valley,SME Loan,Corporate,M. Hassan,2023-08-14,60,0.1329,643611.04,570214.78,0,Stage 1 - Performing
+CUST00332,Kitengela,Nairobi,Personal Loan,Retail,M. Hassan,2024-02-11,84,0.1702,810238.83,254905.69,10,Stage 1 - Performing
+CUST00333,Mombasa,Coast,SME Loan,SME,M. Hassan,2023-07-20,48,0.1278,218452.74,31686.96,0,Stage 1 - Performing
+CUST00334,Mombasa,Coast,Mortgage,Corporate,P. Njoroge,2023-06-29,36,0.1793,334864.0,253549.65,150,Stage 3 - Non-Performing
+CUST00335,Nairobi CBD,Nairobi,SME Loan,Retail,L. Achieng,2024-09-17,24,0.1588,959475.68,664492.06,0,Stage 1 - Performing
+CUST00336,Thika,Central,Motor Loan,SME,M. Hassan,2023-11-17,36,0.1306,190784.91,47115.13,0,Stage 1 - Performing
+CUST00337,Kitengela,Nairobi,Mortgage,SME,P. Njoroge,2024-09-16,12,0.1713,617117.07,165931.92,20,Stage 1 - Performing
+CUST00338,Thika,Central,Mortgage,Retail,J. Mwangi,2023-03-02,24,0.1322,434379.23,328350.19,0,Stage 1 - Performing
+CUST00339,Thika,Central,SME Loan,SME,L. Achieng,2025-05-29,48,0.1346,622302.09,246178.88,0,Stage 1 - Performing
+CUST00340,Eldoret,Rift Valley,Motor Loan,SME,S. Kimani,2023-08-31,84,0.1585,913950.85,308906.35,45,Stage 2 - Underperforming
+CUST00341,Kisumu,Nyanza,Personal Loan,SME,M. Hassan,2024-01-31,24,0.1829,100198.3,15925.81,0,Stage 1 - Performing
+CUST00342,Westlands,Nairobi,Overdraft,Retail,P. Njoroge,2024-01-25,84,0.1784,218599.78,151779.31,0,Stage 1 - Performing
+CUST00343,Eldoret,Rift Valley,SME Loan,Corporate,F. Wanjiru,2024-12-04,36,0.1687,349373.1,268394.26,0,Stage 1 - Performing
+CUST00344,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-11-05,60,0.1228,516772.86,335113.16,120,Stage 3 - Non-Performing
+CUST00345,Kisumu,Nyanza,SME Loan,SME,F. Wanjiru,2024-05-06,48,0.155,597460.25,286226.28,5,Stage 1 - Performing
+CUST00346,Kitengela,Nairobi,Mortgage,Retail,M. Hassan,2024-01-08,24,0.1626,392680.45,246515.63,45,Stage 2 - Underperforming
+CUST00347,Westlands,Nairobi,Personal Loan,SME,A. Otieno,2024-04-22,24,0.1873,379885.84,99385.75,0,Stage 1 - Performing
+CUST00348,Mombasa,Coast,SME Loan,Retail,L. Achieng,2025-05-19,60,0.129,278882.82,85920.1,0,Stage 1 - Performing
+CUST00349,Nairobi CBD,Nairobi,Personal Loan,SME,S. Kimani,2023-10-06,36,0.1609,494666.89,155202.05,20,Stage 1 - Performing
+CUST00350,Westlands,Nairobi,Personal Loan,SME,P. Njoroge,2024-07-31,84,0.188,294476.6,205192.38,150,Stage 3 - Non-Performing
+CUST00351,Kisumu,Nyanza,SME Loan,Retail,L. Achieng,2023-12-23,48,0.1571,520653.84,192564.5,5,Stage 1 - Performing
+CUST00352,Kisumu,Nyanza,SME Loan,SME,S. Kimani,2023-08-22,48,0.1546,179434.38,145168.85,0,Stage 1 - Performing
+CUST00353,Nakuru,Rift Valley,Overdraft,Retail,F. Wanjiru,2023-02-01,12,0.1377,272200.65,54610.9,0,Stage 1 - Performing
+CUST00354,Thika,Central,Asset Finance,Retail,L. Achieng,2024-05-22,84,0.1584,124265.96,13108.4,20,Stage 1 - Performing
+CUST00355,Kitengela,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-10-08,24,0.1649,454044.11,214472.34,20,Stage 1 - Performing
+CUST00356,Eldoret,Rift Valley,Personal Loan,Retail,S. Kimani,2025-01-26,36,0.1774,546246.37,476589.7,0,Stage 1 - Performing
+CUST00357,Kisumu,Nyanza,Motor Loan,Retail,S. Kimani,2023-08-14,60,0.1575,370234.82,62557.93,0,Stage 1 - Performing
+CUST00358,Westlands,Nairobi,SME Loan,Corporate,S. Kimani,2023-05-21,24,0.1277,782843.17,148028.87,0,Stage 1 - Performing
+CUST00359,Eldoret,Rift Valley,Asset Finance,Retail,F. Wanjiru,2025-06-03,12,0.1648,236437.84,167802.0,15,Stage 1 - Performing
+CUST00360,Thika,Central,Motor Loan,SME,L. Achieng,2023-06-20,24,0.1397,416922.18,331926.81,0,Stage 1 - Performing
+CUST00361,Thika,Central,Overdraft,SME,L. Achieng,2023-10-17,36,0.1855,753291.03,259942.24,0,Stage 1 - Performing
+CUST00362,Nakuru,Rift Valley,Asset Finance,SME,L. Achieng,2024-07-04,84,0.1346,343708.5,144706.02,15,Stage 1 - Performing
+CUST00363,Kisumu,Nyanza,Personal Loan,SME,F. Wanjiru,2024-07-24,12,0.1811,768453.6,680957.64,0,Stage 1 - Performing
+CUST00364,Nakuru,Rift Valley,SME Loan,Retail,P. Njoroge,2025-01-15,12,0.1569,850612.48,114905.31,0,Stage 1 - Performing
+CUST00365,Nairobi CBD,Nairobi,Motor Loan,Corporate,S. Kimani,2024-01-06,60,0.1351,211782.87,191279.42,0,Stage 1 - Performing
+CUST00366,Westlands,Nairobi,SME Loan,Retail,F. Wanjiru,2025-01-24,48,0.1658,74956.75,27250.87,0,Stage 1 - Performing
+CUST00367,Mombasa,Coast,Mortgage,Corporate,F. Wanjiru,2025-05-16,24,0.178,28257.48,18249.81,32,Stage 2 - Underperforming
+CUST00368,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2024-12-17,84,0.1308,360645.99,252546.43,150,Stage 3 - Non-Performing
+CUST00369,Nairobi CBD,Nairobi,Asset Finance,Retail,J. Mwangi,2024-10-20,36,0.1288,1473672.78,149758.09,0,Stage 1 - Performing
+CUST00370,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2023-07-09,84,0.1798,703620.06,404193.05,0,Stage 1 - Performing
+CUST00371,Kisumu,Nyanza,Asset Finance,SME,M. Hassan,2024-05-20,48,0.1273,198761.28,136622.5,10,Stage 1 - Performing
+CUST00372,Westlands,Nairobi,Asset Finance,Retail,A. Otieno,2024-08-13,60,0.1768,628735.15,68918.52,0,Stage 1 - Performing
+CUST00373,Nairobi CBD,Nairobi,Mortgage,Retail,J. Mwangi,2023-05-01,24,0.1847,81630.89,48420.38,60,Stage 2 - Underperforming
+CUST00374,Nakuru,Rift Valley,SME Loan,Retail,F. Wanjiru,2024-04-02,12,0.1524,317572.06,70280.56,120,Stage 3 - Non-Performing
+CUST00375,Thika,Central,SME Loan,Retail,M. Hassan,2025-01-28,36,0.1666,758073.99,155120.29,0,Stage 1 - Performing
+CUST00376,Westlands,Nairobi,Motor Loan,Retail,S. Kimani,2024-06-10,60,0.1311,213670.29,189865.82,90,Stage 2 - Underperforming
+CUST00377,Kitengela,Nairobi,Motor Loan,Corporate,A. Otieno,2023-12-29,60,0.1498,219924.78,103823.82,120,Stage 3 - Non-Performing
+CUST00378,Thika,Central,Mortgage,Retail,S. Kimani,2023-10-15,60,0.128,241569.31,89146.94,0,Stage 1 - Performing
+CUST00379,Nairobi CBD,Nairobi,Personal Loan,Retail,M. Hassan,2025-06-17,36,0.1449,277342.59,84257.39,0,Stage 1 - Performing
+CUST00380,Eldoret,Rift Valley,Mortgage,SME,L. Achieng,2024-03-04,48,0.1891,649977.66,163756.39,0,Stage 1 - Performing
+CUST00381,Mombasa,Coast,SME Loan,Retail,M. Hassan,2023-04-16,60,0.1529,124150.43,18133.47,32,Stage 2 - Underperforming
+CUST00382,Nakuru,Rift Valley,SME Loan,SME,L. Achieng,2023-08-04,48,0.1562,64506.32,45022.29,0,Stage 1 - Performing
+CUST00383,Nakuru,Rift Valley,Asset Finance,Retail,M. Hassan,2024-09-12,48,0.1677,255104.82,33215.85,120,Stage 3 - Non-Performing
+CUST00384,Nakuru,Rift Valley,Overdraft,Corporate,F. Wanjiru,2023-07-22,60,0.15,272706.65,90066.64,0,Stage 1 - Performing
+CUST00385,Kitengela,Nairobi,Motor Loan,Retail,J. Mwangi,2024-08-01,24,0.1688,159380.62,80507.24,10,Stage 1 - Performing
+CUST00386,Nakuru,Rift Valley,Mortgage,Retail,P. Njoroge,2023-08-03,36,0.1454,876633.23,301566.49,0,Stage 1 - Performing
+CUST00387,Kisumu,Nyanza,Personal Loan,Retail,A. Otieno,2025-03-23,36,0.1345,519391.43,163276.8,0,Stage 1 - Performing
+CUST00388,Westlands,Nairobi,Motor Loan,SME,F. Wanjiru,2023-04-17,84,0.1463,772523.82,144299.41,10,Stage 1 - Performing
+CUST00389,Mombasa,Coast,Personal Loan,Retail,P. Njoroge,2023-10-04,48,0.1272,575563.86,521017.21,32,Stage 2 - Underperforming
+CUST00390,Nairobi CBD,Nairobi,SME Loan,Retail,S. Kimani,2024-06-18,36,0.1409,344228.51,121611.34,5,Stage 1 - Performing
+CUST00391,Eldoret,Rift Valley,SME Loan,Retail,J. Mwangi,2024-07-12,48,0.1315,402302.3,67402.38,10,Stage 1 - Performing
+CUST00392,Mombasa,Coast,Overdraft,SME,P. Njoroge,2025-03-12,36,0.1232,465041.17,206381.02,0,Stage 1 - Performing
+CUST00393,Westlands,Nairobi,Mortgage,Retail,P. Njoroge,2023-02-23,24,0.1797,273983.72,134666.56,0,Stage 1 - Performing
+CUST00394,Thika,Central,Motor Loan,Retail,P. Njoroge,2023-04-05,36,0.1462,176055.28,130542.49,60,Stage 2 - Underperforming
+CUST00395,Mombasa,Coast,Personal Loan,Retail,M. Hassan,2025-04-28,48,0.1831,60540.12,34473.64,120,Stage 3 - Non-Performing
+CUST00396,Eldoret,Rift Valley,Motor Loan,Retail,J. Mwangi,2024-03-11,36,0.1599,639737.47,442278.71,0,Stage 1 - Performing
+CUST00397,Kitengela,Nairobi,Asset Finance,SME,L. Achieng,2024-12-08,48,0.1613,586022.13,190387.63,10,Stage 1 - Performing
+CUST00398,Kitengela,Nairobi,Personal Loan,Corporate,L. Achieng,2025-04-25,12,0.1574,804878.79,696560.51,32,Stage 2 - Underperforming
+CUST00399,Eldoret,Rift Valley,Personal Loan,Corporate,S. Kimani,2025-04-18,24,0.1777,189903.4,123378.9,0,Stage 1 - Performing
+CUST00400,Eldoret,Rift Valley,Motor Loan,Corporate,J. Mwangi,2023-03-25,12,0.1434,177645.24,147377.6,90,Stage 2 - Underperforming
+CUST00401,Thika,Central,Motor Loan,Retail,S. Kimani,2023-10-31,84,0.1786,488754.16,295420.35,90,Stage 2 - Underperforming
+CUST00402,Kitengela,Nairobi,Personal Loan,SME,F. Wanjiru,2023-03-30,84,0.1657,237904.5,59008.84,10,Stage 1 - Performing
+CUST00403,Eldoret,Rift Valley,SME Loan,Retail,P. Njoroge,2024-11-13,60,0.1639,504655.36,325269.47,0,Stage 1 - Performing
+CUST00404,Nairobi CBD,Nairobi,Asset Finance,SME,L. Achieng,2023-08-07,48,0.1452,183012.17,79880.92,120,Stage 3 - Non-Performing
+CUST00405,Mombasa,Coast,SME Loan,SME,S. Kimani,2023-12-01,12,0.1729,284531.47,69860.89,5,Stage 1 - Performing
+CUST00406,Thika,Central,SME Loan,Retail,A. Otieno,2024-11-11,84,0.1734,509438.83,353141.33,1,Stage 1 - Performing
+CUST00407,Thika,Central,Motor Loan,Corporate,S. Kimani,2023-02-24,84,0.1364,369587.46,131878.34,5,Stage 1 - Performing
+CUST00408,Nakuru,Rift Valley,Personal Loan,Retail,A. Otieno,2025-04-30,36,0.1882,303774.2,211362.45,0,Stage 1 - Performing
+CUST00409,Thika,Central,Overdraft,Retail,S. Kimani,2024-01-19,60,0.1292,175197.86,70574.83,0,Stage 1 - Performing
+CUST00410,Thika,Central,SME Loan,Retail,P. Njoroge,2025-06-01,60,0.147,226535.3,96449.31,0,Stage 1 - Performing
+CUST00411,Eldoret,Rift Valley,Asset Finance,SME,A. Otieno,2023-02-16,60,0.1306,352827.67,301834.86,0,Stage 1 - Performing
+CUST00412,Mombasa,Coast,Motor Loan,SME,M. Hassan,2024-05-13,84,0.1555,175489.57,153580.98,0,Stage 1 - Performing
+CUST00413,Nakuru,Rift Valley,Asset Finance,Retail,P. Njoroge,2023-09-17,60,0.1274,295452.38,251169.14,150,Stage 3 - Non-Performing
+CUST00414,Thika,Central,Personal Loan,Retail,S. Kimani,2024-12-26,60,0.1263,409619.94,238100.04,0,Stage 1 - Performing
+CUST00415,Nairobi CBD,Nairobi,Motor Loan,SME,J. Mwangi,2023-02-04,24,0.1693,694301.4,411277.52,0,Stage 1 - Performing
+CUST00416,Eldoret,Rift Valley,Asset Finance,Retail,J. Mwangi,2023-01-21,12,0.1694,582686.22,343532.7,15,Stage 1 - Performing
+CUST00417,Kisumu,Nyanza,Asset Finance,SME,J. Mwangi,2024-09-13,12,0.1845,570707.85,446802.5,1,Stage 1 - Performing
+CUST00418,Kisumu,Nyanza,Motor Loan,Retail,P. Njoroge,2023-01-17,48,0.1296,767527.81,553613.73,20,Stage 1 - Performing
+CUST00419,Kitengela,Nairobi,Motor Loan,Retail,P. Njoroge,2023-04-17,24,0.1423,439348.17,335421.1,90,Stage 2 - Underperforming
+CUST00420,Nairobi CBD,Nairobi,SME Loan,Retail,P. Njoroge,2025-01-19,24,0.1215,695047.48,257409.96,5,Stage 1 - Performing
+CUST00421,Thika,Central,Personal Loan,Retail,J. Mwangi,2025-03-01,48,0.1491,235423.71,135558.76,15,Stage 1 - Performing
+CUST00422,Nakuru,Rift Valley,Overdraft,Corporate,L. Achieng,2024-08-03,60,0.1542,837393.73,552730.74,0,Stage 1 - Performing
+CUST00423,Eldoret,Rift Valley,Asset Finance,Retail,L. Achieng,2024-06-13,48,0.1516,933979.98,866313.44,0,Stage 1 - Performing
+CUST00424,Nairobi CBD,Nairobi,SME Loan,Retail,P. Njoroge,2025-05-31,84,0.155,161882.67,59932.12,90,Stage 2 - Underperforming
+CUST00425,Eldoret,Rift Valley,Motor Loan,Retail,A. Otieno,2023-06-05,84,0.1407,358919.3,206559.65,0,Stage 1 - Performing
+CUST00426,Westlands,Nairobi,Personal Loan,Retail,A. Otieno,2024-02-20,84,0.13,682848.94,81242.81,0,Stage 1 - Performing
+CUST00427,Nakuru,Rift Valley,Personal Loan,Retail,P. Njoroge,2025-04-27,12,0.128,1018630.6,480864.46,20,Stage 1 - Performing
+CUST00428,Kitengela,Nairobi,SME Loan,Retail,M. Hassan,2023-02-20,84,0.1397,223098.2,189201.79,0,Stage 1 - Performing
+CUST00429,Kitengela,Nairobi,Personal Loan,Retail,M. Hassan,2024-11-11,84,0.1594,144508.74,33067.84,1,Stage 1 - Performing
+CUST00430,Thika,Central,Overdraft,Corporate,P. Njoroge,2023-10-03,84,0.176,204928.79,89108.27,0,Stage 1 - Performing
+CUST00431,Thika,Central,Motor Loan,Retail,J. Mwangi,2023-09-05,84,0.1654,20942.95,15061.67,0,Stage 1 - Performing
+CUST00432,Thika,Central,SME Loan,SME,F. Wanjiru,2024-12-19,60,0.1277,449025.85,273883.38,90,Stage 2 - Underperforming
+CUST00433,Mombasa,Coast,Asset Finance,Retail,M. Hassan,2024-03-19,12,0.1605,548019.15,81874.97,0,Stage 1 - Performing
+CUST00434,Eldoret,Rift Valley,Motor Loan,Corporate,P. Njoroge,2023-02-04,60,0.1319,470100.17,134923.1,5,Stage 1 - Performing
+CUST00435,Thika,Central,Motor Loan,Retail,P. Njoroge,2025-03-09,84,0.1322,829885.31,478735.33,0,Stage 1 - Performing
+CUST00436,Westlands,Nairobi,Motor Loan,Retail,J. Mwangi,2024-02-18,36,0.1717,170476.61,94375.92,0,Stage 1 - Performing
+CUST00437,Thika,Central,Mortgage,Retail,F. Wanjiru,2024-04-15,60,0.1362,565130.65,247225.51,45,Stage 2 - Underperforming
+CUST00438,Westlands,Nairobi,Motor Loan,Retail,P. Njoroge,2024-11-14,12,0.1241,247187.56,139477.4,0,Stage 1 - Performing
+CUST00439,Kisumu,Nyanza,Motor Loan,Retail,M. Hassan,2024-04-26,36,0.1497,536711.86,249139.19,20,Stage 1 - Performing
+CUST00440,Kitengela,Nairobi,Personal Loan,Retail,A. Otieno,2025-05-10,36,0.1447,233430.98,130411.2,0,Stage 1 - Performing
+CUST00441,Nakuru,Rift Valley,Mortgage,Retail,S. Kimani,2023-07-24,84,0.1637,197962.25,171920.24,20,Stage 1 - Performing
+CUST00442,Nairobi CBD,Nairobi,Mortgage,Retail,M. Hassan,2023-07-23,12,0.142,828245.31,273037.53,0,Stage 1 - Performing
+CUST00443,Kisumu,Nyanza,Personal Loan,SME,J. Mwangi,2024-09-03,24,0.1757,322877.54,269839.24,0,Stage 1 - Performing
+CUST00444,Eldoret,Rift Valley,Overdraft,Retail,P. Njoroge,2023-02-05,36,0.1785,1091195.28,1032988.31,0,Stage 1 - Performing
+CUST00445,Thika,Central,Motor Loan,SME,P. Njoroge,2024-01-25,84,0.1489,317498.94,157342.51,1,Stage 1 - Performing
+CUST00446,Nakuru,Rift Valley,Personal Loan,Retail,S. Kimani,2023-04-03,60,0.165,481734.22,219182.23,0,Stage 1 - Performing
+CUST00447,Nairobi CBD,Nairobi,SME Loan,SME,P. Njoroge,2023-10-29,12,0.1637,116618.31,95427.29,0,Stage 1 - Performing
+CUST00448,Nakuru,Rift Valley,Personal Loan,SME,L. Achieng,2023-08-27,24,0.1869,290774.78,48168.58,15,Stage 1 - Performing
+CUST00449,Westlands,Nairobi,Motor Loan,SME,A. Otieno,2023-01-23,36,0.1702,363785.21,314891.78,150,Stage 3 - Non-Performing
+CUST00450,Eldoret,Rift Valley,Motor Loan,Retail,A. Otieno,2023-11-19,12,0.1273,781076.75,581150.17,0,Stage 1 - Performing
+CUST00451,Mombasa,Coast,Overdraft,Retail,P. Njoroge,2023-12-03,48,0.1503,1475470.21,1044401.89,0,Stage 1 - Performing
+CUST00452,Kisumu,Nyanza,SME Loan,Retail,J. Mwangi,2024-04-24,84,0.161,110426.57,95666.16,10,Stage 1 - Performing
+CUST00453,Kitengela,Nairobi,Personal Loan,Retail,A. Otieno,2023-08-27,60,0.1715,688754.95,449191.43,1,Stage 1 - Performing
+CUST00454,Kisumu,Nyanza,Overdraft,Retail,A. Otieno,2023-06-24,36,0.1749,147334.73,69588.58,45,Stage 2 - Underperforming
+CUST00455,Nakuru,Rift Valley,SME Loan,Corporate,L. Achieng,2025-06-02,12,0.1582,185729.57,128737.96,120,Stage 3 - Non-Performing
+CUST00456,Nairobi CBD,Nairobi,SME Loan,Retail,M. Hassan,2024-11-24,84,0.1394,65116.46,46257.08,0,Stage 1 - Performing
+CUST00457,Eldoret,Rift Valley,Personal Loan,SME,J. Mwangi,2023-07-01,12,0.1713,91754.3,55925.41,5,Stage 1 - Performing
+CUST00458,Kisumu,Nyanza,Motor Loan,Retail,M. Hassan,2023-08-23,12,0.1426,353818.67,328559.94,0,Stage 1 - Performing
+CUST00459,Eldoret,Rift Valley,Motor Loan,Corporate,F. Wanjiru,2024-08-20,36,0.1492,211003.28,30884.22,90,Stage 2 - Underperforming
+CUST00460,Kitengela,Nairobi,Personal Loan,Retail,P. Njoroge,2023-08-20,24,0.1347,198105.03,101701.3,5,Stage 1 - Performing
+CUST00461,Eldoret,Rift Valley,SME Loan,Retail,A. Otieno,2023-06-16,84,0.1815,553235.24,231416.43,0,Stage 1 - Performing
+CUST00462,Kitengela,Nairobi,Motor Loan,Retail,S. Kimani,2023-10-28,36,0.1297,150997.9,57417.59,60,Stage 2 - Underperforming
+CUST00463,Eldoret,Rift Valley,SME Loan,Retail,S. Kimani,2025-05-18,48,0.138,229803.88,31493.84,10,Stage 1 - Performing
+CUST00464,Thika,Central,Personal Loan,Retail,L. Achieng,2024-08-21,60,0.1689,229078.39,51543.83,10,Stage 1 - Performing
+CUST00465,Kisumu,Nyanza,Mortgage,Corporate,J. Mwangi,2023-10-05,12,0.1612,414181.92,312611.92,0,Stage 1 - Performing
+CUST00466,Kitengela,Nairobi,Personal Loan,SME,A. Otieno,2025-04-30,84,0.1474,415396.98,164095.07,0,Stage 1 - Performing
+CUST00467,Thika,Central,SME Loan,Retail,A. Otieno,2024-05-06,84,0.162,2345161.74,627554.31,32,Stage 2 - Underperforming
+CUST00468,Eldoret,Rift Valley,Asset Finance,SME,J. Mwangi,2024-07-09,48,0.1712,506447.15,321699.39,0,Stage 1 - Performing
+CUST00469,Mombasa,Coast,SME Loan,Retail,F. Wanjiru,2023-10-23,12,0.1608,671186.21,93122.49,5,Stage 1 - Performing
+CUST00470,Kisumu,Nyanza,Mortgage,Retail,M. Hassan,2023-04-16,24,0.1205,353876.02,243825.89,15,Stage 1 - Performing
+CUST00471,Thika,Central,Motor Loan,Corporate,A. Otieno,2024-09-18,60,0.1556,363645.89,302900.22,20,Stage 1 - Performing
+CUST00472,Westlands,Nairobi,Overdraft,Retail,L. Achieng,2023-07-01,12,0.1271,377905.67,242597.63,90,Stage 2 - Underperforming
+CUST00473,Westlands,Nairobi,Mortgage,SME,A. Otieno,2023-03-19,84,0.171,50597.32,15583.8,0,Stage 1 - Performing
+CUST00474,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-01-25,60,0.1203,501826.59,430719.28,32,Stage 2 - Underperforming
+CUST00475,Nakuru,Rift Valley,Personal Loan,Retail,P. Njoroge,2025-05-15,12,0.1351,645374.43,379522.92,5,Stage 1 - Performing
+CUST00476,Kitengela,Nairobi,Personal Loan,Corporate,A. Otieno,2023-10-01,36,0.1644,304211.11,196183.15,20,Stage 1 - Performing
+CUST00477,Mombasa,Coast,Personal Loan,SME,M. Hassan,2023-01-15,60,0.1793,1194436.51,836950.54,15,Stage 1 - Performing
+CUST00478,Mombasa,Coast,Personal Loan,Retail,L. Achieng,2024-05-24,36,0.1221,191077.84,36952.03,15,Stage 1 - Performing
+CUST00479,Kisumu,Nyanza,Personal Loan,SME,P. Njoroge,2024-08-09,48,0.139,196549.74,33085.56,90,Stage 2 - Underperforming
+CUST00480,Kisumu,Nyanza,Motor Loan,Retail,A. Otieno,2025-06-01,84,0.1602,127806.66,43603.3,0,Stage 1 - Performing
+CUST00481,Westlands,Nairobi,SME Loan,Retail,P. Njoroge,2023-10-23,12,0.159,540725.36,305159.12,0,Stage 1 - Performing
+CUST00482,Mombasa,Coast,Mortgage,SME,L. Achieng,2024-08-10,36,0.176,190814.74,52532.98,0,Stage 1 - Performing
+CUST00483,Kitengela,Nairobi,Personal Loan,Retail,A. Otieno,2023-10-19,60,0.1491,454009.28,312712.6,0,Stage 1 - Performing
+CUST00484,Nairobi CBD,Nairobi,Overdraft,SME,A. Otieno,2024-10-10,12,0.1802,586657.6,401406.03,0,Stage 1 - Performing
+CUST00485,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-04-20,36,0.147,1346092.95,310463.5,45,Stage 2 - Underperforming
+CUST00486,Eldoret,Rift Valley,SME Loan,Retail,P. Njoroge,2024-08-10,60,0.1581,679222.61,534070.53,0,Stage 1 - Performing
+CUST00487,Nairobi CBD,Nairobi,Asset Finance,SME,A. Otieno,2023-11-14,84,0.1514,360813.74,107752.89,0,Stage 1 - Performing
+CUST00488,Nakuru,Rift Valley,Personal Loan,Retail,F. Wanjiru,2025-02-26,84,0.1573,136032.33,25627.15,0,Stage 1 - Performing
+CUST00489,Westlands,Nairobi,Personal Loan,SME,S. Kimani,2023-09-05,48,0.1297,868669.22,348886.78,0,Stage 1 - Performing
+CUST00490,Mombasa,Coast,Personal Loan,SME,F. Wanjiru,2024-10-24,60,0.1735,647702.52,79533.54,15,Stage 1 - Performing
+CUST00491,Kisumu,Nyanza,Asset Finance,SME,L. Achieng,2024-05-19,48,0.1299,420524.04,138782.23,5,Stage 1 - Performing
+CUST00492,Nakuru,Rift Valley,SME Loan,Corporate,M. Hassan,2024-06-12,48,0.1514,82142.72,25065.37,45,Stage 2 - Underperforming
+CUST00493,Nairobi CBD,Nairobi,Asset Finance,Retail,S. Kimani,2025-03-12,24,0.1646,144609.92,42827.37,15,Stage 1 - Performing
+CUST00494,Mombasa,Coast,Personal Loan,Retail,L. Achieng,2023-08-01,12,0.1355,706539.93,263191.37,20,Stage 1 - Performing
+CUST00495,Westlands,Nairobi,SME Loan,SME,S. Kimani,2024-02-13,84,0.189,306134.74,131703.89,0,Stage 1 - Performing
+CUST00496,Kisumu,Nyanza,SME Loan,Retail,S. Kimani,2024-04-18,36,0.1679,80754.27,21540.68,90,Stage 2 - Underperforming
+CUST00497,Westlands,Nairobi,Overdraft,Corporate,M. Hassan,2023-09-01,36,0.129,573678.61,445990.62,45,Stage 2 - Underperforming
+CUST00498,Eldoret,Rift Valley,Overdraft,SME,L. Achieng,2024-09-21,60,0.1892,124655.93,112667.21,0,Stage 1 - Performing
+CUST00499,Eldoret,Rift Valley,Personal Loan,SME,S. Kimani,2023-05-16,84,0.144,191352.88,21942.88,120,Stage 3 - Non-Performing
+CUST00500,Thika,Central,SME Loan,SME,S. Kimani,2024-04-11,24,0.1795,163696.81,25129.62,0,Stage 1 - Performing
+CUST00501,Nairobi CBD,Nairobi,Overdraft,Retail,P. Njoroge,2024-07-24,36,0.1436,76201.58,33545.97,45,Stage 2 - Underperforming
+CUST00502,Westlands,Nairobi,Motor Loan,Retail,M. Hassan,2024-07-01,84,0.1618,375523.54,150872.28,0,Stage 1 - Performing
+CUST00503,Kisumu,Nyanza,Motor Loan,Retail,F. Wanjiru,2023-04-28,60,0.171,210734.59,153178.63,0,Stage 1 - Performing
+CUST00504,Kisumu,Nyanza,Personal Loan,Retail,A. Otieno,2023-06-14,36,0.1479,700913.03,276411.52,0,Stage 1 - Performing
+CUST00505,Kisumu,Nyanza,Personal Loan,Retail,L. Achieng,2024-11-01,48,0.1889,534755.47,505340.36,32,Stage 2 - Underperforming
+CUST00506,Mombasa,Coast,Motor Loan,SME,F. Wanjiru,2024-08-28,36,0.1822,429958.22,184426.15,60,Stage 2 - Underperforming
+CUST00507,Nakuru,Rift Valley,Motor Loan,Retail,M. Hassan,2023-09-03,24,0.1368,320845.18,107751.49,10,Stage 1 - Performing
+CUST00508,Mombasa,Coast,Motor Loan,Corporate,M. Hassan,2024-10-21,48,0.1674,205172.85,121155.45,0,Stage 1 - Performing
+CUST00509,Kitengela,Nairobi,SME Loan,Retail,F. Wanjiru,2023-09-27,12,0.1504,245904.67,116413.46,0,Stage 1 - Performing
+CUST00510,Nairobi CBD,Nairobi,Motor Loan,Retail,A. Otieno,2023-04-10,48,0.1825,480975.78,165381.57,90,Stage 2 - Underperforming
+CUST00511,Mombasa,Coast,Motor Loan,SME,P. Njoroge,2025-03-30,12,0.1308,401269.13,105532.4,90,Stage 2 - Underperforming
+CUST00512,Thika,Central,Motor Loan,SME,P. Njoroge,2023-09-04,24,0.1725,682466.92,587637.04,120,Stage 3 - Non-Performing
+CUST00513,Nakuru,Rift Valley,SME Loan,Retail,F. Wanjiru,2023-01-04,12,0.1472,144948.76,130602.61,45,Stage 2 - Underperforming
+CUST00514,Westlands,Nairobi,Motor Loan,SME,P. Njoroge,2024-08-10,36,0.1558,260668.19,127933.11,60,Stage 2 - Underperforming
+CUST00515,Kitengela,Nairobi,Mortgage,Retail,M. Hassan,2024-11-11,36,0.1684,485424.59,358329.21,0,Stage 1 - Performing
+CUST00516,Nairobi CBD,Nairobi,SME Loan,Retail,A. Otieno,2025-06-07,12,0.1346,271308.56,211297.48,5,Stage 1 - Performing
+CUST00517,Mombasa,Coast,Motor Loan,Corporate,P. Njoroge,2023-01-21,12,0.1271,745408.02,485563.04,10,Stage 1 - Performing
+CUST00518,Nairobi CBD,Nairobi,Personal Loan,Corporate,S. Kimani,2025-06-12,12,0.1385,221363.75,77292.57,0,Stage 1 - Performing
+CUST00519,Thika,Central,Asset Finance,SME,M. Hassan,2024-03-05,24,0.1487,638782.8,453972.94,1,Stage 1 - Performing
+CUST00520,Mombasa,Coast,SME Loan,Retail,J. Mwangi,2023-01-12,36,0.1409,129187.49,115036.96,0,Stage 1 - Performing
+CUST00521,Eldoret,Rift Valley,Motor Loan,Retail,P. Njoroge,2023-03-16,24,0.1352,735459.09,490362.27,0,Stage 1 - Performing
+CUST00522,Mombasa,Coast,Personal Loan,Retail,F. Wanjiru,2023-03-10,84,0.1695,130557.68,67149.62,1,Stage 1 - Performing
+CUST00523,Thika,Central,Mortgage,Retail,M. Hassan,2024-07-01,24,0.1731,397545.46,141388.49,60,Stage 2 - Underperforming
+CUST00524,Nakuru,Rift Valley,Asset Finance,Corporate,L. Achieng,2023-12-25,12,0.1829,104160.28,44383.23,0,Stage 1 - Performing
+CUST00525,Kisumu,Nyanza,Mortgage,Retail,J. Mwangi,2025-03-17,36,0.1405,456160.37,279896.63,60,Stage 2 - Underperforming
+CUST00526,Westlands,Nairobi,Personal Loan,Retail,S. Kimani,2023-09-18,24,0.1706,486964.22,64222.49,20,Stage 1 - Performing
+CUST00527,Nakuru,Rift Valley,SME Loan,SME,P. Njoroge,2024-02-03,12,0.1256,336883.11,135265.58,0,Stage 1 - Performing
+CUST00528,Eldoret,Rift Valley,SME Loan,Retail,P. Njoroge,2024-06-13,36,0.1345,391951.01,121426.21,0,Stage 1 - Performing
+CUST00529,Kitengela,Nairobi,Motor Loan,SME,P. Njoroge,2024-04-22,36,0.1297,456955.15,325161.88,60,Stage 2 - Underperforming
+CUST00530,Nakuru,Rift Valley,Asset Finance,Retail,F. Wanjiru,2023-02-22,84,0.1364,362275.68,44541.11,90,Stage 2 - Underperforming
+CUST00531,Eldoret,Rift Valley,Personal Loan,Retail,L. Achieng,2023-12-02,24,0.1693,1079706.67,603505.03,0,Stage 1 - Performing
+CUST00532,Thika,Central,SME Loan,Retail,F. Wanjiru,2024-07-28,48,0.1324,479870.55,245435.06,90,Stage 2 - Underperforming
+CUST00533,Westlands,Nairobi,Motor Loan,Retail,S. Kimani,2023-06-07,48,0.1721,147831.23,113547.6,0,Stage 1 - Performing
+CUST00534,Westlands,Nairobi,SME Loan,Retail,S. Kimani,2023-11-17,36,0.1535,40520.97,4072.15,0,Stage 1 - Performing
+CUST00535,Westlands,Nairobi,Mortgage,Corporate,J. Mwangi,2024-05-22,24,0.1712,227982.19,179388.77,120,Stage 3 - Non-Performing
+CUST00536,Nakuru,Rift Valley,SME Loan,SME,J. Mwangi,2025-02-25,36,0.156,365644.63,297706.57,5,Stage 1 - Performing
+CUST00537,Nairobi CBD,Nairobi,Motor Loan,SME,S. Kimani,2024-01-18,24,0.1482,587599.19,284864.88,90,Stage 2 - Underperforming
+CUST00538,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2025-02-23,84,0.1866,181341.14,86996.53,0,Stage 1 - Performing
+CUST00539,Mombasa,Coast,SME Loan,SME,M. Hassan,2025-01-20,36,0.1717,171927.0,105829.75,150,Stage 3 - Non-Performing
+CUST00540,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2023-07-13,12,0.177,351743.08,299428.27,20,Stage 1 - Performing
+CUST00541,Thika,Central,Personal Loan,Retail,M. Hassan,2024-08-27,12,0.1549,798344.5,288674.83,0,Stage 1 - Performing
+CUST00542,Eldoret,Rift Valley,Personal Loan,SME,J. Mwangi,2024-11-23,60,0.1238,909399.41,436747.01,20,Stage 1 - Performing
+CUST00543,Kisumu,Nyanza,Overdraft,SME,L. Achieng,2024-09-14,84,0.1598,392524.38,50209.33,5,Stage 1 - Performing
+CUST00544,Kitengela,Nairobi,Asset Finance,Corporate,F. Wanjiru,2025-02-13,84,0.1593,170865.41,117059.79,0,Stage 1 - Performing
+CUST00545,Kisumu,Nyanza,Motor Loan,SME,J. Mwangi,2025-04-07,60,0.1809,136472.78,32674.62,90,Stage 2 - Underperforming
+CUST00546,Eldoret,Rift Valley,SME Loan,Retail,J. Mwangi,2024-04-05,12,0.1668,744082.23,622466.17,0,Stage 1 - Performing
+CUST00547,Mombasa,Coast,SME Loan,Retail,P. Njoroge,2024-09-02,24,0.1212,115553.91,102054.15,1,Stage 1 - Performing
+CUST00548,Thika,Central,Motor Loan,Retail,F. Wanjiru,2025-02-12,84,0.1386,203237.57,136411.76,90,Stage 2 - Underperforming
+CUST00549,Thika,Central,Mortgage,Retail,P. Njoroge,2023-12-28,84,0.173,368814.51,53316.21,0,Stage 1 - Performing
+CUST00550,Thika,Central,Mortgage,Retail,L. Achieng,2025-01-16,84,0.1555,445089.49,143847.41,0,Stage 1 - Performing
+CUST00551,Nakuru,Rift Valley,SME Loan,Retail,M. Hassan,2024-12-09,24,0.1697,285011.05,194766.39,90,Stage 2 - Underperforming
+CUST00552,Kisumu,Nyanza,Overdraft,Retail,P. Njoroge,2023-07-26,12,0.1577,319791.75,103830.3,10,Stage 1 - Performing
+CUST00553,Mombasa,Coast,Personal Loan,SME,L. Achieng,2023-07-16,60,0.1473,49386.63,28407.98,0,Stage 1 - Performing
+CUST00554,Nakuru,Rift Valley,SME Loan,Corporate,P. Njoroge,2023-12-12,48,0.1799,108893.44,40305.67,15,Stage 1 - Performing
+CUST00555,Eldoret,Rift Valley,Personal Loan,SME,P. Njoroge,2025-01-31,84,0.1363,127048.12,25348.91,1,Stage 1 - Performing
+CUST00556,Westlands,Nairobi,Personal Loan,Retail,L. Achieng,2023-09-13,84,0.1209,764601.11,292473.77,0,Stage 1 - Performing
+CUST00557,Thika,Central,Mortgage,Retail,S. Kimani,2024-12-05,36,0.1248,470502.84,359478.63,90,Stage 2 - Underperforming
+CUST00558,Kitengela,Nairobi,Overdraft,Retail,F. Wanjiru,2023-12-17,60,0.1272,253081.3,228763.72,90,Stage 2 - Underperforming
+CUST00559,Eldoret,Rift Valley,Overdraft,Retail,F. Wanjiru,2025-04-16,36,0.159,703305.26,258213.19,32,Stage 2 - Underperforming
+CUST00560,Nairobi CBD,Nairobi,SME Loan,Corporate,L. Achieng,2025-03-12,60,0.1524,270225.0,253000.22,0,Stage 1 - Performing
+CUST00561,Kisumu,Nyanza,Personal Loan,Retail,M. Hassan,2023-09-10,36,0.1373,453006.38,303443.46,0,Stage 1 - Performing
+CUST00562,Mombasa,Coast,Motor Loan,SME,P. Njoroge,2024-08-13,60,0.1244,407843.26,119839.14,5,Stage 1 - Performing
+CUST00563,Eldoret,Rift Valley,SME Loan,Retail,J. Mwangi,2023-07-03,84,0.1687,692993.08,561343.87,0,Stage 1 - Performing
+CUST00564,Mombasa,Coast,Motor Loan,Retail,S. Kimani,2024-03-26,84,0.1763,232286.95,119975.54,0,Stage 1 - Performing
+CUST00565,Nairobi CBD,Nairobi,Motor Loan,SME,A. Otieno,2023-10-18,48,0.1709,306698.78,55714.63,150,Stage 3 - Non-Performing
+CUST00566,Westlands,Nairobi,Asset Finance,Retail,M. Hassan,2023-12-19,12,0.1627,219217.14,22253.12,0,Stage 1 - Performing
+CUST00567,Kisumu,Nyanza,Motor Loan,Retail,A. Otieno,2023-06-17,36,0.1786,897449.33,121753.07,20,Stage 1 - Performing
+CUST00568,Mombasa,Coast,Motor Loan,SME,L. Achieng,2023-09-15,24,0.1442,193460.25,55244.01,0,Stage 1 - Performing
+CUST00569,Kitengela,Nairobi,Personal Loan,Retail,P. Njoroge,2023-07-19,36,0.132,556134.32,410194.78,0,Stage 1 - Performing
+CUST00570,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2024-06-02,36,0.177,518153.06,167495.9,0,Stage 1 - Performing
+CUST00571,Mombasa,Coast,Personal Loan,Retail,P. Njoroge,2023-08-17,12,0.1595,119516.81,45762.96,60,Stage 2 - Underperforming
+CUST00572,Nakuru,Rift Valley,Asset Finance,Retail,J. Mwangi,2024-06-12,60,0.1392,138278.87,104663.16,32,Stage 2 - Underperforming
+CUST00573,Kisumu,Nyanza,SME Loan,Retail,S. Kimani,2025-02-11,24,0.1838,401400.58,58013.26,0,Stage 1 - Performing
+CUST00574,Nakuru,Rift Valley,SME Loan,Retail,M. Hassan,2025-01-23,12,0.1444,446991.88,221339.38,0,Stage 1 - Performing
+CUST00575,Nairobi CBD,Nairobi,Personal Loan,Corporate,S. Kimani,2024-12-08,12,0.1877,247821.43,41042.78,0,Stage 1 - Performing
+CUST00576,Kitengela,Nairobi,Motor Loan,Retail,S. Kimani,2023-04-19,84,0.1724,165615.24,79299.71,32,Stage 2 - Underperforming
+CUST00577,Mombasa,Coast,Personal Loan,Retail,L. Achieng,2023-12-25,12,0.1426,403186.8,143340.49,20,Stage 1 - Performing
+CUST00578,Mombasa,Coast,Overdraft,SME,A. Otieno,2023-01-13,60,0.187,838986.76,136663.58,10,Stage 1 - Performing
+CUST00579,Nairobi CBD,Nairobi,Asset Finance,SME,F. Wanjiru,2023-08-13,36,0.1205,172277.27,133612.43,0,Stage 1 - Performing
+CUST00580,Mombasa,Coast,Asset Finance,SME,L. Achieng,2024-03-08,48,0.1417,320041.47,231938.98,0,Stage 1 - Performing
+CUST00581,Kitengela,Nairobi,Motor Loan,Corporate,P. Njoroge,2024-10-11,24,0.1802,131561.53,55673.21,5,Stage 1 - Performing
+CUST00582,Nairobi CBD,Nairobi,Personal Loan,Retail,J. Mwangi,2024-10-24,60,0.137,79001.15,63527.22,0,Stage 1 - Performing
+CUST00583,Mombasa,Coast,Overdraft,Retail,L. Achieng,2024-04-03,48,0.1693,176013.8,83321.44,150,Stage 3 - Non-Performing
+CUST00584,Nairobi CBD,Nairobi,Asset Finance,SME,P. Njoroge,2024-03-20,84,0.1728,812669.4,173677.38,0,Stage 1 - Performing
+CUST00585,Eldoret,Rift Valley,Personal Loan,Corporate,P. Njoroge,2024-05-12,84,0.1463,382730.39,311702.2,10,Stage 1 - Performing
+CUST00586,Nakuru,Rift Valley,Personal Loan,Retail,A. Otieno,2024-07-12,60,0.1349,213427.81,22965.87,120,Stage 3 - Non-Performing
+CUST00587,Nairobi CBD,Nairobi,SME Loan,SME,S. Kimani,2023-08-24,36,0.1479,387227.83,190700.55,0,Stage 1 - Performing
+CUST00588,Nakuru,Rift Valley,SME Loan,Retail,J. Mwangi,2025-06-15,60,0.1286,62762.22,11176.93,0,Stage 1 - Performing
+CUST00589,Westlands,Nairobi,Motor Loan,Retail,S. Kimani,2023-07-16,60,0.1563,148359.67,40810.47,0,Stage 1 - Performing
+CUST00590,Kitengela,Nairobi,Overdraft,SME,F. Wanjiru,2023-04-08,36,0.1868,275168.61,225189.41,90,Stage 2 - Underperforming
+CUST00591,Nakuru,Rift Valley,SME Loan,SME,S. Kimani,2023-07-01,24,0.1819,474421.34,84566.55,0,Stage 1 - Performing
+CUST00592,Nakuru,Rift Valley,Overdraft,Retail,P. Njoroge,2024-08-03,36,0.1618,724736.63,514844.1,0,Stage 1 - Performing
+CUST00593,Eldoret,Rift Valley,Motor Loan,Retail,S. Kimani,2025-04-15,84,0.165,383214.59,312953.6,0,Stage 1 - Performing
+CUST00594,Westlands,Nairobi,Asset Finance,Corporate,A. Otieno,2023-12-11,48,0.161,202183.48,137066.26,45,Stage 2 - Underperforming
+CUST00595,Kitengela,Nairobi,Personal Loan,SME,S. Kimani,2025-03-04,84,0.1703,693556.62,122590.69,0,Stage 1 - Performing
+CUST00596,Nairobi CBD,Nairobi,Motor Loan,SME,P. Njoroge,2024-11-29,84,0.1353,389915.36,300590.0,10,Stage 1 - Performing
+CUST00597,Westlands,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-09-19,60,0.1399,1130117.84,861064.56,90,Stage 2 - Underperforming
+CUST00598,Nairobi CBD,Nairobi,Mortgage,Retail,A. Otieno,2025-02-05,48,0.1285,15407.68,13510.82,20,Stage 1 - Performing
+CUST00599,Mombasa,Coast,Personal Loan,Retail,P. Njoroge,2024-05-16,24,0.1529,704163.04,330550.44,0,Stage 1 - Performing
+CUST00600,Thika,Central,Personal Loan,Retail,F. Wanjiru,2025-06-10,12,0.13,932645.62,487368.56,0,Stage 1 - Performing
+CUST00601,Thika,Central,Personal Loan,Retail,J. Mwangi,2024-11-27,84,0.1503,581648.96,397942.57,0,Stage 1 - Performing
+CUST00602,Mombasa,Coast,Mortgage,SME,M. Hassan,2024-01-21,60,0.1665,234453.28,69801.36,15,Stage 1 - Performing
+CUST00603,Nairobi CBD,Nairobi,SME Loan,Retail,F. Wanjiru,2023-02-23,60,0.1522,178988.45,33833.25,20,Stage 1 - Performing
+CUST00604,Mombasa,Coast,Overdraft,Retail,M. Hassan,2024-01-17,60,0.1826,194922.29,50051.7,0,Stage 1 - Performing
+CUST00605,Nakuru,Rift Valley,Personal Loan,Retail,P. Njoroge,2023-09-20,12,0.1294,208743.77,120416.46,15,Stage 1 - Performing
+CUST00606,Kitengela,Nairobi,SME Loan,Retail,M. Hassan,2024-12-30,12,0.148,96426.57,17277.02,5,Stage 1 - Performing
+CUST00607,Nakuru,Rift Valley,Overdraft,Corporate,J. Mwangi,2025-01-14,84,0.1882,258922.13,66997.56,1,Stage 1 - Performing
+CUST00608,Westlands,Nairobi,SME Loan,Corporate,L. Achieng,2023-03-06,48,0.1295,71495.28,33256.6,0,Stage 1 - Performing
+CUST00609,Mombasa,Coast,Personal Loan,Corporate,A. Otieno,2023-06-13,12,0.1595,240446.48,196073.62,15,Stage 1 - Performing
+CUST00610,Nairobi CBD,Nairobi,Personal Loan,Retail,L. Achieng,2025-02-16,48,0.1582,546859.86,376832.29,90,Stage 2 - Underperforming
+CUST00611,Nairobi CBD,Nairobi,Asset Finance,SME,M. Hassan,2025-01-26,60,0.1845,593168.22,290549.79,0,Stage 1 - Performing
+CUST00612,Mombasa,Coast,SME Loan,SME,L. Achieng,2025-02-26,60,0.1807,108640.59,19165.73,0,Stage 1 - Performing
+CUST00613,Kisumu,Nyanza,Motor Loan,Retail,F. Wanjiru,2023-01-06,48,0.1631,314314.55,90603.64,32,Stage 2 - Underperforming
+CUST00614,Kitengela,Nairobi,Personal Loan,Retail,J. Mwangi,2025-04-09,60,0.1893,173071.95,146963.07,90,Stage 2 - Underperforming
+CUST00615,Thika,Central,Personal Loan,SME,P. Njoroge,2024-10-15,12,0.1284,483642.5,415711.01,0,Stage 1 - Performing
+CUST00616,Nakuru,Rift Valley,Mortgage,SME,M. Hassan,2023-08-31,84,0.1691,273126.72,81565.69,0,Stage 1 - Performing
+CUST00617,Westlands,Nairobi,SME Loan,SME,S. Kimani,2023-12-27,48,0.1714,609924.68,141754.95,20,Stage 1 - Performing
+CUST00618,Kisumu,Nyanza,Asset Finance,Retail,L. Achieng,2024-11-01,84,0.149,284932.68,235297.67,0,Stage 1 - Performing
+CUST00619,Eldoret,Rift Valley,Mortgage,Retail,A. Otieno,2024-06-05,36,0.183,286504.31,195745.33,20,Stage 1 - Performing
+CUST00620,Thika,Central,Asset Finance,SME,J. Mwangi,2023-10-23,12,0.1336,431363.15,59880.96,45,Stage 2 - Underperforming
+CUST00621,Eldoret,Rift Valley,Mortgage,SME,L. Achieng,2023-03-15,12,0.1209,172724.46,122668.99,0,Stage 1 - Performing
+CUST00622,Nairobi CBD,Nairobi,Personal Loan,Retail,S. Kimani,2023-05-20,48,0.1213,722608.86,441916.93,90,Stage 2 - Underperforming
+CUST00623,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2025-04-23,24,0.1414,45799.5,42390.0,0,Stage 1 - Performing
+CUST00624,Thika,Central,Asset Finance,Retail,M. Hassan,2025-05-10,60,0.1769,877821.88,138072.84,60,Stage 2 - Underperforming
+CUST00625,Kitengela,Nairobi,SME Loan,SME,A. Otieno,2023-10-09,36,0.1758,191944.91,41033.82,0,Stage 1 - Performing
+CUST00626,Nakuru,Rift Valley,Personal Loan,Retail,A. Otieno,2024-03-06,48,0.1571,6361.88,2357.97,0,Stage 1 - Performing
+CUST00627,Kisumu,Nyanza,Asset Finance,SME,S. Kimani,2024-02-03,84,0.1469,1080587.07,528091.89,0,Stage 1 - Performing
+CUST00628,Kisumu,Nyanza,Mortgage,Retail,M. Hassan,2025-01-30,24,0.1819,672572.84,606026.61,0,Stage 1 - Performing
+CUST00629,Nairobi CBD,Nairobi,Motor Loan,SME,J. Mwangi,2024-10-15,12,0.185,577019.45,180511.06,0,Stage 1 - Performing
+CUST00630,Kisumu,Nyanza,SME Loan,Retail,L. Achieng,2024-07-17,12,0.1638,232993.06,30162.97,0,Stage 1 - Performing
+CUST00631,Eldoret,Rift Valley,Overdraft,Corporate,S. Kimani,2023-11-01,84,0.1851,741675.13,488830.84,0,Stage 1 - Performing
+CUST00632,Thika,Central,Mortgage,Retail,A. Otieno,2023-07-08,12,0.1513,544002.85,307190.13,0,Stage 1 - Performing
+CUST00633,Nakuru,Rift Valley,Motor Loan,Retail,P. Njoroge,2025-03-08,84,0.164,700525.04,113222.22,0,Stage 1 - Performing
+CUST00634,Nakuru,Rift Valley,Personal Loan,SME,M. Hassan,2024-06-03,48,0.1454,156654.59,101841.24,10,Stage 1 - Performing
+CUST00635,Mombasa,Coast,Asset Finance,Retail,F. Wanjiru,2025-05-25,60,0.1663,177404.39,75970.47,0,Stage 1 - Performing
+CUST00636,Eldoret,Rift Valley,Asset Finance,Retail,S. Kimani,2023-06-12,12,0.183,252679.83,211550.75,15,Stage 1 - Performing
+CUST00637,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2024-09-27,60,0.1577,389077.23,119362.18,0,Stage 1 - Performing
+CUST00638,Westlands,Nairobi,Motor Loan,Retail,J. Mwangi,2024-06-26,84,0.1514,118720.29,50871.29,15,Stage 1 - Performing
+CUST00639,Thika,Central,SME Loan,Retail,F. Wanjiru,2025-01-27,12,0.1703,596880.24,481573.63,0,Stage 1 - Performing
+CUST00640,Mombasa,Coast,Motor Loan,Retail,M. Hassan,2023-12-23,12,0.1397,246148.23,36873.51,90,Stage 2 - Underperforming
+CUST00641,Mombasa,Coast,Motor Loan,Retail,S. Kimani,2023-11-14,48,0.1606,104319.71,32444.45,120,Stage 3 - Non-Performing
+CUST00642,Nairobi CBD,Nairobi,Motor Loan,Retail,S. Kimani,2024-01-27,36,0.1599,163868.54,112604.57,60,Stage 2 - Underperforming
+CUST00643,Thika,Central,Mortgage,Retail,L. Achieng,2024-10-10,24,0.138,786339.31,200094.46,120,Stage 3 - Non-Performing
+CUST00644,Mombasa,Coast,Mortgage,Retail,L. Achieng,2024-06-20,36,0.1258,247891.18,198175.09,45,Stage 2 - Underperforming
+CUST00645,Westlands,Nairobi,Personal Loan,Retail,A. Otieno,2024-07-03,12,0.137,73370.76,48423.61,60,Stage 2 - Underperforming
+CUST00646,Nairobi CBD,Nairobi,Asset Finance,SME,F. Wanjiru,2024-03-03,84,0.1233,632679.29,321934.13,0,Stage 1 - Performing
+CUST00647,Kitengela,Nairobi,Motor Loan,Corporate,J. Mwangi,2025-04-27,60,0.1292,109799.63,100805.22,0,Stage 1 - Performing
+CUST00648,Thika,Central,Motor Loan,SME,M. Hassan,2023-10-06,36,0.1623,177401.26,19955.56,90,Stage 2 - Underperforming
+CUST00649,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-08-25,48,0.1245,620733.55,322303.55,1,Stage 1 - Performing
+CUST00650,Eldoret,Rift Valley,Personal Loan,Retail,L. Achieng,2023-07-17,24,0.1774,441485.08,399771.14,0,Stage 1 - Performing
+CUST00651,Nakuru,Rift Valley,Motor Loan,SME,M. Hassan,2024-02-01,60,0.1289,162298.68,75161.25,0,Stage 1 - Performing
+CUST00652,Thika,Central,Overdraft,SME,S. Kimani,2024-05-31,48,0.1257,107161.88,52936.39,0,Stage 1 - Performing
+CUST00653,Thika,Central,Personal Loan,Retail,F. Wanjiru,2024-07-25,84,0.1221,216395.37,58501.07,32,Stage 2 - Underperforming
+CUST00654,Kisumu,Nyanza,Personal Loan,Retail,A. Otieno,2023-06-29,60,0.1413,149670.69,96502.58,0,Stage 1 - Performing
+CUST00655,Nairobi CBD,Nairobi,SME Loan,Retail,J. Mwangi,2023-08-19,24,0.1601,262529.63,54667.33,150,Stage 3 - Non-Performing
+CUST00656,Kitengela,Nairobi,Personal Loan,Retail,P. Njoroge,2024-05-06,12,0.1523,683840.32,231140.67,10,Stage 1 - Performing
+CUST00657,Thika,Central,Motor Loan,Retail,S. Kimani,2023-11-26,24,0.1704,625083.25,490864.94,20,Stage 1 - Performing
+CUST00658,Nakuru,Rift Valley,SME Loan,Retail,L. Achieng,2023-03-04,60,0.1843,874960.17,249331.22,0,Stage 1 - Performing
+CUST00659,Nakuru,Rift Valley,Personal Loan,Retail,F. Wanjiru,2024-11-21,48,0.1709,413784.77,119620.96,0,Stage 1 - Performing
+CUST00660,Nakuru,Rift Valley,Personal Loan,SME,J. Mwangi,2024-11-01,36,0.1387,422973.72,68035.51,120,Stage 3 - Non-Performing
+CUST00661,Kitengela,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-03-27,12,0.1226,968555.85,860429.96,0,Stage 1 - Performing
+CUST00662,Nairobi CBD,Nairobi,Motor Loan,SME,A. Otieno,2025-05-08,24,0.1667,576670.98,304669.04,150,Stage 3 - Non-Performing
+CUST00663,Nairobi CBD,Nairobi,SME Loan,SME,P. Njoroge,2025-04-21,24,0.125,380177.52,154961.32,150,Stage 3 - Non-Performing
+CUST00664,Mombasa,Coast,Overdraft,Retail,P. Njoroge,2024-01-30,24,0.1573,220986.86,25723.55,1,Stage 1 - Performing
+CUST00665,Eldoret,Rift Valley,Overdraft,SME,L. Achieng,2024-09-25,24,0.1453,181952.16,60329.16,0,Stage 1 - Performing
+CUST00666,Kisumu,Nyanza,Asset Finance,Retail,F. Wanjiru,2024-08-22,48,0.1639,585125.84,414479.73,5,Stage 1 - Performing
+CUST00667,Kitengela,Nairobi,Motor Loan,Retail,P. Njoroge,2023-09-20,84,0.1777,328133.6,239177.96,0,Stage 1 - Performing
+CUST00668,Nairobi CBD,Nairobi,Motor Loan,Retail,A. Otieno,2025-05-26,60,0.1571,394180.3,133909.95,0,Stage 1 - Performing
+CUST00669,Nakuru,Rift Valley,SME Loan,Retail,J. Mwangi,2023-02-27,84,0.1626,605799.86,275868.68,10,Stage 1 - Performing
+CUST00670,Kitengela,Nairobi,Asset Finance,Retail,L. Achieng,2023-02-22,12,0.1752,231896.2,207728.11,5,Stage 1 - Performing
+CUST00671,Kisumu,Nyanza,SME Loan,SME,J. Mwangi,2025-01-31,24,0.1429,695390.53,586109.86,10,Stage 1 - Performing
+CUST00672,Mombasa,Coast,SME Loan,SME,M. Hassan,2024-01-05,12,0.1643,489416.48,167034.14,0,Stage 1 - Performing
+CUST00673,Eldoret,Rift Valley,SME Loan,Retail,P. Njoroge,2023-10-28,36,0.1249,800934.5,173075.22,150,Stage 3 - Non-Performing
+CUST00674,Nakuru,Rift Valley,Mortgage,Retail,M. Hassan,2023-10-23,48,0.142,361305.05,255510.16,0,Stage 1 - Performing
+CUST00675,Westlands,Nairobi,Personal Loan,Corporate,P. Njoroge,2025-02-26,24,0.1534,165929.22,125377.3,0,Stage 1 - Performing
+CUST00676,Eldoret,Rift Valley,Asset Finance,Retail,A. Otieno,2024-10-24,36,0.1871,258097.29,147952.24,15,Stage 1 - Performing
+CUST00677,Westlands,Nairobi,Motor Loan,Retail,P. Njoroge,2025-02-07,48,0.1318,292329.42,34858.13,60,Stage 2 - Underperforming
+CUST00678,Nakuru,Rift Valley,Motor Loan,SME,L. Achieng,2024-09-20,36,0.1723,180537.87,127789.37,20,Stage 1 - Performing
+CUST00679,Westlands,Nairobi,Asset Finance,SME,M. Hassan,2025-04-13,60,0.1739,146573.68,47918.34,60,Stage 2 - Underperforming
+CUST00680,Westlands,Nairobi,Motor Loan,Retail,F. Wanjiru,2023-10-23,24,0.1532,418185.9,207387.96,0,Stage 1 - Performing
+CUST00681,Thika,Central,Mortgage,Retail,L. Achieng,2023-04-24,12,0.1304,734976.68,383866.34,32,Stage 2 - Underperforming
+CUST00682,Mombasa,Coast,Personal Loan,Retail,J. Mwangi,2024-05-10,60,0.1333,533047.35,278119.8,150,Stage 3 - Non-Performing
+CUST00683,Eldoret,Rift Valley,SME Loan,SME,P. Njoroge,2024-11-02,24,0.1412,792676.27,674079.53,150,Stage 3 - Non-Performing
+CUST00684,Thika,Central,SME Loan,SME,J. Mwangi,2024-01-12,84,0.1633,32100.32,28835.43,45,Stage 2 - Underperforming
+CUST00685,Kisumu,Nyanza,Mortgage,SME,A. Otieno,2024-03-28,60,0.1201,45493.24,38630.0,10,Stage 1 - Performing
+CUST00686,Nairobi CBD,Nairobi,Motor Loan,Retail,F. Wanjiru,2025-05-14,60,0.1749,405668.54,375350.23,20,Stage 1 - Performing
+CUST00687,Eldoret,Rift Valley,Overdraft,Retail,P. Njoroge,2025-05-30,48,0.1367,1140887.85,289310.36,10,Stage 1 - Performing
+CUST00688,Westlands,Nairobi,Motor Loan,Corporate,M. Hassan,2024-11-30,24,0.165,354499.78,198889.15,20,Stage 1 - Performing
+CUST00689,Thika,Central,Motor Loan,Retail,J. Mwangi,2024-08-29,48,0.174,351293.17,304817.64,0,Stage 1 - Performing
+CUST00690,Nakuru,Rift Valley,Personal Loan,Retail,P. Njoroge,2023-09-20,48,0.1313,262206.78,170640.5,150,Stage 3 - Non-Performing
+CUST00691,Eldoret,Rift Valley,Motor Loan,Retail,L. Achieng,2023-08-29,12,0.181,525227.86,433622.56,1,Stage 1 - Performing
+CUST00692,Thika,Central,Overdraft,Retail,M. Hassan,2024-03-22,24,0.1587,171480.66,92634.63,0,Stage 1 - Performing
+CUST00693,Nairobi CBD,Nairobi,Personal Loan,SME,L. Achieng,2023-11-17,84,0.1877,397061.03,98446.62,0,Stage 1 - Performing
+CUST00694,Kitengela,Nairobi,Motor Loan,Corporate,P. Njoroge,2023-08-15,48,0.1889,265946.6,148553.58,0,Stage 1 - Performing
+CUST00695,Thika,Central,Motor Loan,Retail,L. Achieng,2024-08-10,84,0.1642,454681.92,107463.57,20,Stage 1 - Performing
+CUST00696,Mombasa,Coast,Personal Loan,Retail,S. Kimani,2023-08-07,36,0.1358,351870.05,327098.46,0,Stage 1 - Performing
+CUST00697,Mombasa,Coast,Asset Finance,Corporate,F. Wanjiru,2024-10-05,24,0.1899,632447.6,398534.38,5,Stage 1 - Performing
+CUST00698,Eldoret,Rift Valley,SME Loan,Retail,A. Otieno,2023-07-30,36,0.1767,392797.63,281310.39,0,Stage 1 - Performing
+CUST00699,Kisumu,Nyanza,SME Loan,Retail,M. Hassan,2025-01-15,12,0.1885,1163825.58,759103.16,0,Stage 1 - Performing
+CUST00700,Westlands,Nairobi,Personal Loan,Retail,A. Otieno,2024-06-30,48,0.1641,182207.54,75254.3,0,Stage 1 - Performing
+CUST00701,Thika,Central,Personal Loan,Corporate,L. Achieng,2025-05-20,36,0.156,239310.42,123080.84,0,Stage 1 - Performing
+CUST00702,Kitengela,Nairobi,Mortgage,Retail,A. Otieno,2023-07-02,48,0.186,666815.77,401188.45,20,Stage 1 - Performing
+CUST00703,Nairobi CBD,Nairobi,SME Loan,SME,P. Njoroge,2024-12-12,24,0.1712,707751.04,583258.69,120,Stage 3 - Non-Performing
+CUST00704,Nairobi CBD,Nairobi,SME Loan,SME,L. Achieng,2024-09-08,84,0.1348,414666.94,45032.71,0,Stage 1 - Performing
+CUST00705,Nakuru,Rift Valley,Asset Finance,Retail,P. Njoroge,2023-08-02,48,0.1641,285780.66,186533.1,1,Stage 1 - Performing
+CUST00706,Kitengela,Nairobi,Overdraft,SME,P. Njoroge,2023-05-27,24,0.1611,801215.74,696364.82,150,Stage 3 - Non-Performing
+CUST00707,Nairobi CBD,Nairobi,SME Loan,Retail,S. Kimani,2025-04-11,24,0.1776,48563.03,32947.64,60,Stage 2 - Underperforming
+CUST00708,Mombasa,Coast,Overdraft,Retail,L. Achieng,2023-02-06,48,0.1314,705369.75,459464.75,0,Stage 1 - Performing
+CUST00709,Westlands,Nairobi,Motor Loan,Corporate,F. Wanjiru,2024-11-16,24,0.1801,764907.53,179351.68,0,Stage 1 - Performing
+CUST00710,Thika,Central,Asset Finance,SME,M. Hassan,2024-03-31,48,0.1798,328855.54,310758.95,0,Stage 1 - Performing
+CUST00711,Westlands,Nairobi,Overdraft,Retail,J. Mwangi,2023-07-31,12,0.1281,603398.34,203830.97,20,Stage 1 - Performing
+CUST00712,Mombasa,Coast,Personal Loan,SME,F. Wanjiru,2023-04-12,60,0.1282,569761.61,216017.93,120,Stage 3 - Non-Performing
+CUST00713,Thika,Central,Personal Loan,SME,S. Kimani,2024-09-23,60,0.1489,109526.99,64840.56,20,Stage 1 - Performing
+CUST00714,Thika,Central,Motor Loan,SME,F. Wanjiru,2024-06-14,60,0.143,87246.64,66368.02,45,Stage 2 - Underperforming
+CUST00715,Mombasa,Coast,Asset Finance,Retail,F. Wanjiru,2025-01-07,48,0.1727,231558.55,138688.46,0,Stage 1 - Performing
+CUST00716,Kitengela,Nairobi,Personal Loan,SME,L. Achieng,2024-03-22,24,0.1246,357756.28,86519.54,0,Stage 1 - Performing
+CUST00717,Nairobi CBD,Nairobi,Personal Loan,Retail,L. Achieng,2024-01-10,60,0.1574,641825.43,328857.82,5,Stage 1 - Performing
+CUST00718,Eldoret,Rift Valley,Personal Loan,Retail,S. Kimani,2024-05-18,36,0.1376,83534.03,39494.71,0,Stage 1 - Performing
+CUST00719,Nakuru,Rift Valley,Motor Loan,Corporate,P. Njoroge,2023-10-17,12,0.1787,466109.63,69946.13,0,Stage 1 - Performing
+CUST00720,Westlands,Nairobi,Asset Finance,Corporate,J. Mwangi,2024-08-28,60,0.1546,964942.79,720850.52,20,Stage 1 - Performing
+CUST00721,Mombasa,Coast,Personal Loan,Retail,M. Hassan,2023-04-14,12,0.1617,248621.78,67150.8,10,Stage 1 - Performing
+CUST00722,Kitengela,Nairobi,Personal Loan,Retail,M. Hassan,2025-02-24,36,0.1235,785019.42,515623.32,0,Stage 1 - Performing
+CUST00723,Mombasa,Coast,Motor Loan,Retail,A. Otieno,2023-02-05,48,0.1836,353003.71,208847.49,15,Stage 1 - Performing
+CUST00724,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2023-07-27,84,0.1484,657203.31,90140.39,0,Stage 1 - Performing
+CUST00725,Kitengela,Nairobi,SME Loan,Retail,M. Hassan,2025-03-15,12,0.1702,471131.49,364672.8,150,Stage 3 - Non-Performing
+CUST00726,Kitengela,Nairobi,Mortgage,Retail,F. Wanjiru,2023-09-30,84,0.1351,207078.33,93344.93,15,Stage 1 - Performing
+CUST00727,Nakuru,Rift Valley,Motor Loan,Retail,P. Njoroge,2023-02-09,12,0.1552,354953.46,120265.42,1,Stage 1 - Performing
+CUST00728,Nakuru,Rift Valley,Motor Loan,Retail,J. Mwangi,2025-05-05,84,0.176,681944.13,396922.56,120,Stage 3 - Non-Performing
+CUST00729,Kisumu,Nyanza,SME Loan,SME,S. Kimani,2023-09-24,12,0.143,408763.18,75549.18,0,Stage 1 - Performing
+CUST00730,Westlands,Nairobi,SME Loan,Retail,M. Hassan,2025-01-04,60,0.1424,605528.2,194043.98,60,Stage 2 - Underperforming
+CUST00731,Kitengela,Nairobi,Asset Finance,Corporate,F. Wanjiru,2023-08-02,84,0.1657,362491.0,292248.97,0,Stage 1 - Performing
+CUST00732,Eldoret,Rift Valley,Motor Loan,Retail,A. Otieno,2025-03-05,48,0.1337,537591.31,57961.85,0,Stage 1 - Performing
+CUST00733,Westlands,Nairobi,Personal Loan,Corporate,M. Hassan,2024-04-01,48,0.1618,654426.37,203187.83,0,Stage 1 - Performing
+CUST00734,Nairobi CBD,Nairobi,Motor Loan,SME,P. Njoroge,2024-01-19,84,0.1594,50934.93,42988.95,0,Stage 1 - Performing
+CUST00735,Westlands,Nairobi,SME Loan,Corporate,J. Mwangi,2024-12-09,36,0.1822,904906.61,653215.08,0,Stage 1 - Performing
+CUST00736,Nairobi CBD,Nairobi,SME Loan,Retail,S. Kimani,2024-07-10,36,0.1408,63179.77,43688.97,0,Stage 1 - Performing
+CUST00737,Kitengela,Nairobi,Motor Loan,Retail,S. Kimani,2023-03-19,36,0.1322,481856.3,431337.26,0,Stage 1 - Performing
+CUST00738,Mombasa,Coast,Personal Loan,SME,S. Kimani,2025-04-15,84,0.1505,147162.3,18265.55,32,Stage 2 - Underperforming
+CUST00739,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2023-04-22,60,0.1596,98274.25,91983.42,32,Stage 2 - Underperforming
+CUST00740,Mombasa,Coast,SME Loan,Retail,J. Mwangi,2023-06-01,84,0.1291,275335.4,179669.37,0,Stage 1 - Performing
+CUST00741,Kitengela,Nairobi,Personal Loan,Retail,J. Mwangi,2024-01-09,48,0.1477,507537.48,338672.8,120,Stage 3 - Non-Performing
+CUST00742,Thika,Central,SME Loan,Retail,F. Wanjiru,2024-12-21,36,0.1406,242817.33,210853.22,10,Stage 1 - Performing
+CUST00743,Kisumu,Nyanza,Overdraft,SME,F. Wanjiru,2025-03-13,84,0.1455,334588.76,153218.87,120,Stage 3 - Non-Performing
+CUST00744,Westlands,Nairobi,SME Loan,Retail,M. Hassan,2025-05-03,36,0.1461,115291.69,18852.58,0,Stage 1 - Performing
+CUST00745,Nakuru,Rift Valley,Overdraft,Retail,M. Hassan,2023-11-29,48,0.1386,248109.07,31853.39,60,Stage 2 - Underperforming
+CUST00746,Nairobi CBD,Nairobi,Motor Loan,SME,M. Hassan,2023-03-30,12,0.1447,326716.58,248121.16,150,Stage 3 - Non-Performing
+CUST00747,Kitengela,Nairobi,Overdraft,Corporate,J. Mwangi,2024-03-25,36,0.1777,518561.78,268804.22,15,Stage 1 - Performing
+CUST00748,Thika,Central,Motor Loan,Retail,S. Kimani,2023-01-05,84,0.1669,982917.68,720493.58,0,Stage 1 - Performing
+CUST00749,Kisumu,Nyanza,Motor Loan,Retail,S. Kimani,2024-11-07,12,0.1597,139992.62,130612.86,0,Stage 1 - Performing
+CUST00750,Eldoret,Rift Valley,Motor Loan,Retail,P. Njoroge,2024-04-22,84,0.1592,781057.09,143273.62,0,Stage 1 - Performing
+CUST00751,Kisumu,Nyanza,Mortgage,Corporate,P. Njoroge,2025-05-25,36,0.1579,92927.44,29099.13,0,Stage 1 - Performing
+CUST00752,Kisumu,Nyanza,SME Loan,Retail,P. Njoroge,2024-03-17,84,0.1634,290521.38,106834.44,0,Stage 1 - Performing
+CUST00753,Thika,Central,SME Loan,SME,F. Wanjiru,2024-12-20,24,0.1508,284003.6,49967.66,0,Stage 1 - Performing
+CUST00754,Thika,Central,Personal Loan,Retail,L. Achieng,2025-01-21,12,0.1393,282724.01,30872.25,0,Stage 1 - Performing
+CUST00755,Nakuru,Rift Valley,Motor Loan,Corporate,L. Achieng,2023-04-01,12,0.148,94983.84,65160.13,0,Stage 1 - Performing
+CUST00756,Westlands,Nairobi,Personal Loan,Retail,A. Otieno,2023-11-28,24,0.1835,89107.39,9950.38,60,Stage 2 - Underperforming
+CUST00757,Eldoret,Rift Valley,SME Loan,SME,A. Otieno,2023-12-11,12,0.1459,475245.81,365707.82,150,Stage 3 - Non-Performing
+CUST00758,Eldoret,Rift Valley,Motor Loan,Retail,J. Mwangi,2023-01-08,84,0.1277,281367.87,46563.17,15,Stage 1 - Performing
+CUST00759,Kitengela,Nairobi,Overdraft,SME,M. Hassan,2023-11-25,36,0.17,41410.28,9488.49,1,Stage 1 - Performing
+CUST00760,Westlands,Nairobi,SME Loan,Retail,J. Mwangi,2024-09-30,12,0.1842,679962.93,535545.64,60,Stage 2 - Underperforming
+CUST00761,Thika,Central,SME Loan,SME,F. Wanjiru,2023-03-15,24,0.1289,1520522.5,1323001.85,0,Stage 1 - Performing
+CUST00762,Thika,Central,Personal Loan,SME,L. Achieng,2024-08-07,84,0.1611,248745.4,222946.76,20,Stage 1 - Performing
+CUST00763,Mombasa,Coast,Asset Finance,Retail,A. Otieno,2024-05-26,84,0.1264,66482.11,60189.73,0,Stage 1 - Performing
+CUST00764,Nakuru,Rift Valley,SME Loan,Retail,J. Mwangi,2024-04-08,36,0.1307,268237.1,232395.15,0,Stage 1 - Performing
+CUST00765,Westlands,Nairobi,Motor Loan,Retail,P. Njoroge,2023-03-24,24,0.1543,184841.1,86711.75,0,Stage 1 - Performing
+CUST00766,Thika,Central,Overdraft,SME,J. Mwangi,2024-10-03,84,0.1436,223210.87,147550.91,32,Stage 2 - Underperforming
+CUST00767,Eldoret,Rift Valley,Personal Loan,Retail,F. Wanjiru,2025-04-21,48,0.1422,592122.7,457510.53,1,Stage 1 - Performing
+CUST00768,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2024-10-25,48,0.1434,400712.11,268430.75,20,Stage 1 - Performing
+CUST00769,Thika,Central,Personal Loan,Retail,L. Achieng,2024-11-14,12,0.1323,192117.96,45072.18,45,Stage 2 - Underperforming
+CUST00770,Westlands,Nairobi,Asset Finance,Retail,S. Kimani,2023-07-13,48,0.1368,135522.0,29370.08,0,Stage 1 - Performing
+CUST00771,Nairobi CBD,Nairobi,Personal Loan,Retail,J. Mwangi,2024-12-04,12,0.1312,67097.24,9114.32,90,Stage 2 - Underperforming
+CUST00772,Kisumu,Nyanza,Mortgage,Retail,J. Mwangi,2023-08-18,60,0.1439,507422.47,129087.57,0,Stage 1 - Performing
+CUST00773,Nairobi CBD,Nairobi,Personal Loan,SME,S. Kimani,2023-01-18,48,0.1203,568928.55,199166.45,60,Stage 2 - Underperforming
+CUST00774,Thika,Central,Motor Loan,SME,J. Mwangi,2025-01-29,12,0.1623,440131.88,95347.76,90,Stage 2 - Underperforming
+CUST00775,Kisumu,Nyanza,Personal Loan,Corporate,A. Otieno,2023-08-20,24,0.1826,125880.42,49617.79,1,Stage 1 - Performing
+CUST00776,Mombasa,Coast,Asset Finance,SME,M. Hassan,2023-05-02,84,0.1713,706918.25,187960.74,1,Stage 1 - Performing
+CUST00777,Mombasa,Coast,Personal Loan,SME,F. Wanjiru,2023-10-24,60,0.1632,348301.23,204650.59,5,Stage 1 - Performing
+CUST00778,Mombasa,Coast,SME Loan,Retail,F. Wanjiru,2024-10-14,48,0.1743,612031.03,177682.74,20,Stage 1 - Performing
+CUST00779,Kisumu,Nyanza,Motor Loan,Retail,F. Wanjiru,2023-11-29,12,0.1415,367067.09,289350.94,45,Stage 2 - Underperforming
+CUST00780,Eldoret,Rift Valley,Mortgage,Retail,J. Mwangi,2024-12-28,24,0.1331,131892.15,115094.79,15,Stage 1 - Performing
+CUST00781,Westlands,Nairobi,SME Loan,Retail,J. Mwangi,2024-08-30,36,0.124,954866.89,478860.71,120,Stage 3 - Non-Performing
+CUST00782,Nakuru,Rift Valley,SME Loan,Retail,A. Otieno,2023-04-30,36,0.1435,641730.4,103796.77,10,Stage 1 - Performing
+CUST00783,Westlands,Nairobi,SME Loan,SME,F. Wanjiru,2023-07-27,36,0.1528,100478.98,68976.31,120,Stage 3 - Non-Performing
+CUST00784,Nakuru,Rift Valley,SME Loan,Retail,M. Hassan,2025-02-22,12,0.1545,556698.46,351242.88,0,Stage 1 - Performing
+CUST00785,Westlands,Nairobi,SME Loan,Retail,L. Achieng,2023-07-05,24,0.1232,559943.09,150691.93,90,Stage 2 - Underperforming
+CUST00786,Eldoret,Rift Valley,SME Loan,Retail,S. Kimani,2023-04-09,24,0.155,423889.09,328231.54,20,Stage 1 - Performing
+CUST00787,Kisumu,Nyanza,Personal Loan,Corporate,S. Kimani,2024-12-14,84,0.1437,369823.54,98838.2,45,Stage 2 - Underperforming
+CUST00788,Eldoret,Rift Valley,Motor Loan,Retail,F. Wanjiru,2024-11-22,36,0.1225,582626.37,185581.15,0,Stage 1 - Performing
+CUST00789,Thika,Central,SME Loan,Corporate,S. Kimani,2023-03-21,48,0.1323,279488.49,197672.7,10,Stage 1 - Performing
+CUST00790,Kitengela,Nairobi,Personal Loan,Corporate,F. Wanjiru,2024-04-27,48,0.131,64063.54,36117.4,0,Stage 1 - Performing
+CUST00791,Mombasa,Coast,Asset Finance,SME,M. Hassan,2025-02-28,24,0.123,678329.12,345217.6,60,Stage 2 - Underperforming
+CUST00792,Kisumu,Nyanza,Personal Loan,Corporate,F. Wanjiru,2023-10-29,60,0.1321,272170.55,222595.55,45,Stage 2 - Underperforming
+CUST00793,Thika,Central,Personal Loan,Corporate,P. Njoroge,2024-08-18,84,0.1686,395586.61,351798.92,120,Stage 3 - Non-Performing
+CUST00794,Eldoret,Rift Valley,Asset Finance,SME,L. Achieng,2023-09-09,36,0.1776,304274.14,108595.6,0,Stage 1 - Performing
+CUST00795,Eldoret,Rift Valley,Asset Finance,SME,F. Wanjiru,2023-04-23,12,0.1873,296160.61,207623.69,120,Stage 3 - Non-Performing
+CUST00796,Nairobi CBD,Nairobi,Mortgage,Retail,S. Kimani,2024-07-17,48,0.1797,181088.4,114628.49,0,Stage 1 - Performing
+CUST00797,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2025-04-23,60,0.1801,1100650.33,870357.8,0,Stage 1 - Performing
+CUST00798,Thika,Central,Personal Loan,Retail,S. Kimani,2023-12-20,12,0.1333,263020.9,189501.86,20,Stage 1 - Performing
+CUST00799,Nairobi CBD,Nairobi,Motor Loan,Retail,M. Hassan,2023-01-03,60,0.1799,186994.64,64082.48,0,Stage 1 - Performing
+CUST00800,Mombasa,Coast,Motor Loan,Retail,J. Mwangi,2025-02-17,12,0.1381,394388.3,160439.0,0,Stage 1 - Performing
+CUST00801,Nakuru,Rift Valley,Motor Loan,Retail,L. Achieng,2023-12-28,60,0.1661,282742.69,225074.58,0,Stage 1 - Performing
+CUST00802,Nairobi CBD,Nairobi,Motor Loan,SME,M. Hassan,2024-09-30,12,0.1425,912671.24,173747.83,150,Stage 3 - Non-Performing
+CUST00803,Kitengela,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-05-17,36,0.1758,266294.15,96208.86,0,Stage 1 - Performing
+CUST00804,Nakuru,Rift Valley,Personal Loan,SME,P. Njoroge,2025-01-15,48,0.1771,82285.32,26761.93,0,Stage 1 - Performing
+CUST00805,Eldoret,Rift Valley,Motor Loan,Retail,M. Hassan,2025-02-27,84,0.1815,14336.77,12870.02,15,Stage 1 - Performing
+CUST00806,Nakuru,Rift Valley,Asset Finance,Retail,L. Achieng,2024-08-04,60,0.1695,137191.93,24789.67,45,Stage 2 - Underperforming
+CUST00807,Nakuru,Rift Valley,Personal Loan,SME,A. Otieno,2025-03-02,60,0.1755,282516.18,168978.15,5,Stage 1 - Performing
+CUST00808,Eldoret,Rift Valley,Personal Loan,Retail,L. Achieng,2024-05-22,84,0.1846,657741.66,476821.16,32,Stage 2 - Underperforming
+CUST00809,Nairobi CBD,Nairobi,Motor Loan,Retail,F. Wanjiru,2023-08-19,48,0.1546,323825.58,150540.5,120,Stage 3 - Non-Performing
+CUST00810,Nakuru,Rift Valley,Asset Finance,Retail,P. Njoroge,2023-09-29,24,0.1717,459149.35,74615.82,120,Stage 3 - Non-Performing
+CUST00811,Kitengela,Nairobi,Motor Loan,SME,J. Mwangi,2023-05-29,24,0.1517,84950.05,72521.13,0,Stage 1 - Performing
+CUST00812,Mombasa,Coast,SME Loan,Retail,A. Otieno,2024-10-21,12,0.1619,507987.44,474091.32,32,Stage 2 - Underperforming
+CUST00813,Nairobi CBD,Nairobi,Personal Loan,Retail,P. Njoroge,2025-06-05,24,0.1489,744493.93,134881.03,0,Stage 1 - Performing
+CUST00814,Thika,Central,Personal Loan,SME,F. Wanjiru,2024-07-07,60,0.157,498826.48,450466.24,0,Stage 1 - Performing
+CUST00815,Kisumu,Nyanza,Personal Loan,Retail,J. Mwangi,2023-03-03,12,0.1697,264708.38,74356.45,10,Stage 1 - Performing
+CUST00816,Kisumu,Nyanza,Overdraft,SME,P. Njoroge,2023-09-10,36,0.1734,239317.11,109062.62,32,Stage 2 - Underperforming
+CUST00817,Westlands,Nairobi,Motor Loan,Retail,L. Achieng,2024-12-14,24,0.1681,56077.23,43076.65,0,Stage 1 - Performing
+CUST00818,Nairobi CBD,Nairobi,Personal Loan,SME,M. Hassan,2023-01-29,60,0.1713,974563.72,900476.73,0,Stage 1 - Performing
+CUST00819,Kitengela,Nairobi,Personal Loan,Retail,L. Achieng,2024-07-18,60,0.1888,471748.54,136225.06,0,Stage 1 - Performing
+CUST00820,Thika,Central,Asset Finance,Corporate,M. Hassan,2023-10-07,84,0.1686,167025.04,148417.74,90,Stage 2 - Underperforming
+CUST00821,Nairobi CBD,Nairobi,Personal Loan,Corporate,F. Wanjiru,2024-09-04,60,0.1798,43384.0,7370.63,150,Stage 3 - Non-Performing
+CUST00822,Kisumu,Nyanza,Asset Finance,SME,P. Njoroge,2024-06-21,84,0.1438,441333.1,277387.39,60,Stage 2 - Underperforming
+CUST00823,Thika,Central,Asset Finance,Retail,S. Kimani,2024-05-08,36,0.1714,252795.18,225356.65,120,Stage 3 - Non-Performing
+CUST00824,Kitengela,Nairobi,Asset Finance,SME,F. Wanjiru,2024-04-02,36,0.1629,74701.23,41514.33,1,Stage 1 - Performing
+CUST00825,Thika,Central,Motor Loan,Corporate,M. Hassan,2024-10-03,36,0.1865,237409.02,132382.87,5,Stage 1 - Performing
+CUST00826,Nakuru,Rift Valley,Personal Loan,SME,J. Mwangi,2024-04-09,12,0.1244,375282.74,182660.04,5,Stage 1 - Performing
+CUST00827,Kisumu,Nyanza,Mortgage,SME,M. Hassan,2023-09-30,24,0.1758,1103473.71,598005.19,0,Stage 1 - Performing
+CUST00828,Nairobi CBD,Nairobi,Mortgage,Retail,J. Mwangi,2024-10-12,12,0.1534,117782.36,38419.28,0,Stage 1 - Performing
+CUST00829,Thika,Central,Overdraft,Retail,P. Njoroge,2025-01-20,84,0.181,93993.24,31280.88,0,Stage 1 - Performing
+CUST00830,Mombasa,Coast,SME Loan,SME,S. Kimani,2023-09-02,48,0.1845,198662.27,146257.42,0,Stage 1 - Performing
+CUST00831,Thika,Central,Motor Loan,Retail,F. Wanjiru,2025-02-14,24,0.1813,395240.51,126313.97,0,Stage 1 - Performing
+CUST00832,Kitengela,Nairobi,Mortgage,Retail,M. Hassan,2023-03-15,24,0.1246,257405.79,71283.18,15,Stage 1 - Performing
+CUST00833,Westlands,Nairobi,SME Loan,Retail,F. Wanjiru,2024-08-17,12,0.1894,108501.6,61567.76,20,Stage 1 - Performing
+CUST00834,Thika,Central,Personal Loan,Retail,L. Achieng,2024-07-11,36,0.1679,109664.26,61043.37,60,Stage 2 - Underperforming
+CUST00835,Kisumu,Nyanza,Motor Loan,Corporate,M. Hassan,2023-09-04,60,0.1431,361444.82,48945.03,90,Stage 2 - Underperforming
+CUST00836,Mombasa,Coast,SME Loan,Retail,F. Wanjiru,2024-02-20,36,0.1737,516414.66,360348.14,150,Stage 3 - Non-Performing
+CUST00837,Kisumu,Nyanza,Personal Loan,Corporate,F. Wanjiru,2024-11-10,48,0.1243,500432.44,103909.7,0,Stage 1 - Performing
+CUST00838,Westlands,Nairobi,Motor Loan,Retail,J. Mwangi,2024-03-31,24,0.128,72970.59,53841.87,120,Stage 3 - Non-Performing
+CUST00839,Kitengela,Nairobi,SME Loan,Retail,S. Kimani,2024-12-29,84,0.1729,321759.05,163470.18,32,Stage 2 - Underperforming
+CUST00840,Mombasa,Coast,Motor Loan,SME,J. Mwangi,2023-02-01,12,0.138,1005289.78,313414.7,0,Stage 1 - Performing
+CUST00841,Eldoret,Rift Valley,Asset Finance,SME,S. Kimani,2024-07-06,48,0.1704,563279.49,220363.82,0,Stage 1 - Performing
+CUST00842,Nakuru,Rift Valley,Mortgage,SME,A. Otieno,2025-06-16,36,0.1655,46078.26,24821.71,0,Stage 1 - Performing
+CUST00843,Nakuru,Rift Valley,Personal Loan,SME,F. Wanjiru,2024-03-23,48,0.1842,389683.77,173282.96,0,Stage 1 - Performing
+CUST00844,Mombasa,Coast,Personal Loan,SME,P. Njoroge,2023-05-19,60,0.1611,160643.7,102019.88,45,Stage 2 - Underperforming
+CUST00845,Westlands,Nairobi,Overdraft,Retail,A. Otieno,2024-06-21,36,0.155,418489.36,51157.05,0,Stage 1 - Performing
+CUST00846,Westlands,Nairobi,SME Loan,Retail,J. Mwangi,2024-06-20,24,0.1616,612650.09,288709.37,120,Stage 3 - Non-Performing
+CUST00847,Eldoret,Rift Valley,Mortgage,Retail,P. Njoroge,2023-12-06,36,0.1832,129923.45,49624.54,45,Stage 2 - Underperforming
+CUST00848,Nakuru,Rift Valley,Motor Loan,Retail,A. Otieno,2024-02-01,36,0.1864,478258.73,347572.6,0,Stage 1 - Performing
+CUST00849,Westlands,Nairobi,Personal Loan,SME,J. Mwangi,2023-03-15,12,0.1364,336944.94,214375.18,150,Stage 3 - Non-Performing
+CUST00850,Mombasa,Coast,Motor Loan,Retail,M. Hassan,2023-03-17,12,0.179,685251.41,131336.02,0,Stage 1 - Performing
+CUST00851,Eldoret,Rift Valley,Motor Loan,SME,M. Hassan,2023-03-23,60,0.1617,490208.43,86066.36,0,Stage 1 - Performing
+CUST00852,Westlands,Nairobi,Overdraft,SME,M. Hassan,2024-03-16,84,0.1739,494626.16,295650.8,1,Stage 1 - Performing
+CUST00853,Kitengela,Nairobi,SME Loan,SME,S. Kimani,2023-12-08,84,0.1518,176489.8,157632.52,0,Stage 1 - Performing
+CUST00854,Thika,Central,Overdraft,Retail,F. Wanjiru,2025-04-14,60,0.1207,193652.76,131075.87,0,Stage 1 - Performing
+CUST00855,Westlands,Nairobi,Personal Loan,SME,M. Hassan,2024-05-13,24,0.1311,110515.29,73628.44,15,Stage 1 - Performing
+CUST00856,Mombasa,Coast,Personal Loan,SME,A. Otieno,2023-12-07,60,0.1312,229273.93,117323.66,45,Stage 2 - Underperforming
+CUST00857,Nairobi CBD,Nairobi,Personal Loan,SME,M. Hassan,2024-10-16,36,0.1806,307337.19,88779.0,20,Stage 1 - Performing
+CUST00858,Thika,Central,Overdraft,Corporate,J. Mwangi,2024-01-26,48,0.1378,70860.41,13967.75,0,Stage 1 - Performing
+CUST00859,Eldoret,Rift Valley,SME Loan,Retail,A. Otieno,2024-11-28,36,0.1727,275945.51,71378.64,0,Stage 1 - Performing
+CUST00860,Thika,Central,Overdraft,Retail,P. Njoroge,2024-10-03,60,0.1425,537349.04,503962.95,90,Stage 2 - Underperforming
+CUST00861,Kitengela,Nairobi,SME Loan,Retail,S. Kimani,2023-10-17,24,0.1767,253278.39,191810.2,10,Stage 1 - Performing
+CUST00862,Eldoret,Rift Valley,Motor Loan,Retail,F. Wanjiru,2024-03-14,12,0.1817,164255.4,27037.78,0,Stage 1 - Performing
+CUST00863,Thika,Central,Overdraft,Retail,A. Otieno,2024-02-16,12,0.1262,761063.9,263602.68,0,Stage 1 - Performing
+CUST00864,Nairobi CBD,Nairobi,Motor Loan,SME,A. Otieno,2024-08-29,24,0.1291,266453.34,193055.13,90,Stage 2 - Underperforming
+CUST00865,Kisumu,Nyanza,Personal Loan,SME,F. Wanjiru,2024-09-16,36,0.1856,239497.3,84085.13,90,Stage 2 - Underperforming
+CUST00866,Mombasa,Coast,Asset Finance,Retail,J. Mwangi,2024-12-04,84,0.1681,280401.38,68850.71,0,Stage 1 - Performing
+CUST00867,Westlands,Nairobi,SME Loan,SME,P. Njoroge,2023-03-04,48,0.1601,245204.37,216318.03,90,Stage 2 - Underperforming
+CUST00868,Eldoret,Rift Valley,Mortgage,Retail,S. Kimani,2025-04-27,36,0.1324,160783.09,95590.02,60,Stage 2 - Underperforming
+CUST00869,Eldoret,Rift Valley,Personal Loan,Retail,A. Otieno,2025-05-09,36,0.1344,339170.76,37878.34,0,Stage 1 - Performing
+CUST00870,Nairobi CBD,Nairobi,Personal Loan,Retail,J. Mwangi,2024-07-19,12,0.1205,650535.53,126379.03,0,Stage 1 - Performing
+CUST00871,Nakuru,Rift Valley,Motor Loan,SME,S. Kimani,2024-01-01,60,0.1888,54825.91,25119.84,0,Stage 1 - Performing
+CUST00872,Kisumu,Nyanza,Mortgage,Retail,A. Otieno,2024-06-02,36,0.1382,237622.24,160710.48,0,Stage 1 - Performing
+CUST00873,Kitengela,Nairobi,Asset Finance,SME,J. Mwangi,2023-12-04,36,0.1757,100643.82,79486.69,120,Stage 3 - Non-Performing
+CUST00874,Nakuru,Rift Valley,Motor Loan,SME,S. Kimani,2024-07-28,36,0.1233,270200.52,87210.63,0,Stage 1 - Performing
+CUST00875,Eldoret,Rift Valley,Overdraft,SME,L. Achieng,2024-11-21,24,0.1626,275092.7,220793.92,0,Stage 1 - Performing
+CUST00876,Nakuru,Rift Valley,Overdraft,Retail,M. Hassan,2023-10-05,60,0.1538,261407.33,68743.03,0,Stage 1 - Performing
+CUST00877,Nakuru,Rift Valley,SME Loan,Corporate,S. Kimani,2024-11-03,84,0.1639,228400.31,51725.12,1,Stage 1 - Performing
+CUST00878,Nairobi CBD,Nairobi,Overdraft,SME,L. Achieng,2025-04-19,36,0.1819,29605.36,23525.7,0,Stage 1 - Performing
+CUST00879,Eldoret,Rift Valley,Overdraft,Retail,M. Hassan,2024-10-17,24,0.163,634176.96,204889.27,20,Stage 1 - Performing
+CUST00880,Mombasa,Coast,Motor Loan,SME,M. Hassan,2025-03-31,24,0.1554,95315.82,56191.06,0,Stage 1 - Performing
+CUST00881,Kitengela,Nairobi,Mortgage,Retail,F. Wanjiru,2024-04-06,84,0.1569,167748.27,123057.01,32,Stage 2 - Underperforming
+CUST00882,Eldoret,Rift Valley,Overdraft,SME,A. Otieno,2024-08-15,36,0.1432,253481.6,71432.6,90,Stage 2 - Underperforming
+CUST00883,Thika,Central,Asset Finance,SME,S. Kimani,2025-05-28,24,0.1337,289621.78,156629.4,0,Stage 1 - Performing
+CUST00884,Westlands,Nairobi,Motor Loan,Corporate,F. Wanjiru,2024-02-20,84,0.1576,81472.99,77179.07,5,Stage 1 - Performing
+CUST00885,Thika,Central,SME Loan,Corporate,F. Wanjiru,2024-11-09,84,0.1589,1317864.87,149867.56,60,Stage 2 - Underperforming
+CUST00886,Thika,Central,Personal Loan,SME,S. Kimani,2024-08-29,36,0.1797,309685.65,87133.95,0,Stage 1 - Performing
+CUST00887,Kitengela,Nairobi,SME Loan,SME,L. Achieng,2023-04-20,84,0.1549,645943.99,564788.98,20,Stage 1 - Performing
+CUST00888,Eldoret,Rift Valley,SME Loan,Retail,L. Achieng,2024-02-10,12,0.1571,285361.79,194024.89,5,Stage 1 - Performing
+CUST00889,Kitengela,Nairobi,Motor Loan,SME,S. Kimani,2025-05-10,24,0.1484,223697.48,154094.14,0,Stage 1 - Performing
+CUST00890,Kisumu,Nyanza,Motor Loan,SME,S. Kimani,2023-06-18,60,0.1697,602750.86,265731.56,0,Stage 1 - Performing
+CUST00891,Nakuru,Rift Valley,SME Loan,Corporate,L. Achieng,2023-03-07,24,0.1655,218826.74,65947.09,60,Stage 2 - Underperforming
+CUST00892,Mombasa,Coast,Personal Loan,SME,F. Wanjiru,2024-02-22,60,0.1612,230838.26,51215.35,0,Stage 1 - Performing
+CUST00893,Nairobi CBD,Nairobi,Personal Loan,SME,M. Hassan,2024-09-29,48,0.1336,291051.69,106443.78,5,Stage 1 - Performing
+CUST00894,Kisumu,Nyanza,Overdraft,SME,L. Achieng,2025-02-12,84,0.1741,396784.44,251770.51,0,Stage 1 - Performing
+CUST00895,Kitengela,Nairobi,Motor Loan,SME,L. Achieng,2025-03-27,84,0.161,155868.12,145358.84,90,Stage 2 - Underperforming
+CUST00896,Kitengela,Nairobi,SME Loan,Retail,L. Achieng,2023-05-19,48,0.1786,386528.59,286209.67,0,Stage 1 - Performing
+CUST00897,Nairobi CBD,Nairobi,Asset Finance,Corporate,P. Njoroge,2024-10-15,12,0.1584,227144.07,153246.25,90,Stage 2 - Underperforming
+CUST00898,Kisumu,Nyanza,Asset Finance,Retail,P. Njoroge,2023-07-18,48,0.1565,414871.08,51319.95,20,Stage 1 - Performing
+CUST00899,Kitengela,Nairobi,Motor Loan,Retail,M. Hassan,2024-07-02,12,0.1213,195931.76,179329.13,60,Stage 2 - Underperforming
+CUST00900,Kisumu,Nyanza,Personal Loan,Retail,J. Mwangi,2023-12-25,84,0.1662,569770.5,420135.83,5,Stage 1 - Performing
+CUST00901,Kitengela,Nairobi,Motor Loan,Retail,L. Achieng,2024-11-15,24,0.1814,756830.08,366676.6,150,Stage 3 - Non-Performing
+CUST00902,Nairobi CBD,Nairobi,Overdraft,Retail,J. Mwangi,2024-03-18,24,0.1887,156229.56,58328.12,10,Stage 1 - Performing
+CUST00903,Nairobi CBD,Nairobi,SME Loan,SME,P. Njoroge,2024-03-08,36,0.169,342193.94,88356.74,0,Stage 1 - Performing
+CUST00904,Thika,Central,Personal Loan,Retail,J. Mwangi,2024-09-30,12,0.14,1177856.66,858309.99,1,Stage 1 - Performing
+CUST00905,Kitengela,Nairobi,Personal Loan,SME,F. Wanjiru,2024-09-30,84,0.1689,499509.96,96364.11,0,Stage 1 - Performing
+CUST00906,Eldoret,Rift Valley,Personal Loan,Corporate,S. Kimani,2023-05-09,36,0.1801,88507.22,52153.78,0,Stage 1 - Performing
+CUST00907,Nairobi CBD,Nairobi,SME Loan,SME,S. Kimani,2025-04-10,60,0.1428,379806.49,187561.99,0,Stage 1 - Performing
+CUST00908,Nakuru,Rift Valley,SME Loan,SME,M. Hassan,2024-12-11,84,0.1605,1392415.68,627107.48,60,Stage 2 - Underperforming
+CUST00909,Mombasa,Coast,SME Loan,Retail,J. Mwangi,2025-06-02,12,0.152,48760.36,13135.35,15,Stage 1 - Performing
+CUST00910,Kitengela,Nairobi,Personal Loan,Corporate,L. Achieng,2023-01-11,24,0.1263,232980.65,146286.87,0,Stage 1 - Performing
+CUST00911,Nakuru,Rift Valley,Personal Loan,Retail,L. Achieng,2023-11-07,48,0.1519,611542.78,563521.32,0,Stage 1 - Performing
+CUST00912,Mombasa,Coast,Personal Loan,SME,M. Hassan,2024-06-27,12,0.1681,65107.92,28907.16,20,Stage 1 - Performing
+CUST00913,Eldoret,Rift Valley,Personal Loan,SME,J. Mwangi,2023-03-08,60,0.1786,286107.3,225909.96,0,Stage 1 - Performing
+CUST00914,Eldoret,Rift Valley,Personal Loan,Retail,A. Otieno,2024-12-21,24,0.13,395865.09,296414.49,5,Stage 1 - Performing
+CUST00915,Eldoret,Rift Valley,Overdraft,Retail,M. Hassan,2023-10-24,36,0.1848,420594.05,155802.25,0,Stage 1 - Performing
+CUST00916,Kitengela,Nairobi,Personal Loan,Retail,L. Achieng,2025-02-18,36,0.1734,1148283.8,697392.9,0,Stage 1 - Performing
+CUST00917,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-01-08,24,0.1514,618522.74,320143.05,60,Stage 2 - Underperforming
+CUST00918,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-11-20,48,0.1322,773992.25,661513.9,0,Stage 1 - Performing
+CUST00919,Eldoret,Rift Valley,Personal Loan,Retail,M. Hassan,2024-11-20,12,0.1443,99259.14,11057.72,0,Stage 1 - Performing
+CUST00920,Kisumu,Nyanza,SME Loan,Retail,J. Mwangi,2024-01-21,36,0.1516,971804.9,811735.69,60,Stage 2 - Underperforming
+CUST00921,Kisumu,Nyanza,SME Loan,Retail,S. Kimani,2023-05-13,24,0.1544,659473.94,113588.9,5,Stage 1 - Performing
+CUST00922,Kitengela,Nairobi,Personal Loan,Corporate,A. Otieno,2023-08-07,36,0.1466,482819.6,209082.52,90,Stage 2 - Underperforming
+CUST00923,Mombasa,Coast,SME Loan,Retail,J. Mwangi,2024-10-11,36,0.1892,123593.32,102820.51,60,Stage 2 - Underperforming
+CUST00924,Eldoret,Rift Valley,Personal Loan,SME,J. Mwangi,2025-05-05,84,0.1362,359007.99,167533.59,32,Stage 2 - Underperforming
+CUST00925,Kitengela,Nairobi,Asset Finance,Retail,P. Njoroge,2023-04-16,12,0.133,230433.01,127795.44,15,Stage 1 - Performing
+CUST00926,Nakuru,Rift Valley,Asset Finance,Retail,M. Hassan,2024-09-03,36,0.1812,1108916.85,596967.55,90,Stage 2 - Underperforming
+CUST00927,Eldoret,Rift Valley,Asset Finance,Corporate,F. Wanjiru,2023-11-01,60,0.1701,609005.82,188218.9,0,Stage 1 - Performing
+CUST00928,Thika,Central,SME Loan,SME,J. Mwangi,2023-02-14,60,0.1363,442808.56,291009.21,45,Stage 2 - Underperforming
+CUST00929,Kisumu,Nyanza,Motor Loan,Retail,J. Mwangi,2024-09-06,12,0.1553,605117.24,164102.96,0,Stage 1 - Performing
+CUST00930,Nakuru,Rift Valley,SME Loan,SME,F. Wanjiru,2024-11-07,60,0.137,52925.38,22511.62,0,Stage 1 - Performing
+CUST00931,Nairobi CBD,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-08-10,24,0.1278,373925.53,148998.09,0,Stage 1 - Performing
+CUST00932,Mombasa,Coast,Motor Loan,SME,J. Mwangi,2023-11-18,24,0.1395,72093.95,56289.08,0,Stage 1 - Performing
+CUST00933,Kisumu,Nyanza,Motor Loan,SME,S. Kimani,2023-04-17,24,0.1666,169492.27,141236.07,60,Stage 2 - Underperforming
+CUST00934,Nairobi CBD,Nairobi,Overdraft,SME,F. Wanjiru,2023-04-12,12,0.16,113959.75,22164.77,0,Stage 1 - Performing
+CUST00935,Eldoret,Rift Valley,SME Loan,SME,M. Hassan,2025-05-20,24,0.1398,156047.85,92063.78,0,Stage 1 - Performing
+CUST00936,Westlands,Nairobi,Motor Loan,SME,L. Achieng,2025-06-09,60,0.1425,168926.9,84342.75,120,Stage 3 - Non-Performing
+CUST00937,Eldoret,Rift Valley,Personal Loan,SME,L. Achieng,2024-08-14,60,0.1746,49104.86,17748.61,90,Stage 2 - Underperforming
+CUST00938,Kisumu,Nyanza,Personal Loan,Retail,P. Njoroge,2024-10-07,12,0.1534,828029.06,719788.81,0,Stage 1 - Performing
+CUST00939,Eldoret,Rift Valley,Personal Loan,SME,A. Otieno,2023-04-13,12,0.1735,205935.35,124470.06,0,Stage 1 - Performing
+CUST00940,Nairobi CBD,Nairobi,Motor Loan,Retail,F. Wanjiru,2024-02-22,36,0.1502,783782.12,446991.97,10,Stage 1 - Performing
+CUST00941,Eldoret,Rift Valley,Personal Loan,Retail,P. Njoroge,2023-04-12,60,0.176,240196.94,226726.68,0,Stage 1 - Performing
+CUST00942,Westlands,Nairobi,Motor Loan,Retail,M. Hassan,2023-10-29,36,0.1291,335131.6,216933.12,0,Stage 1 - Performing
+CUST00943,Mombasa,Coast,Mortgage,SME,L. Achieng,2023-01-19,48,0.1398,83705.94,74658.91,15,Stage 1 - Performing
+CUST00944,Kitengela,Nairobi,Overdraft,Retail,A. Otieno,2023-02-25,60,0.1235,820649.19,504457.93,0,Stage 1 - Performing
+CUST00945,Kitengela,Nairobi,Motor Loan,Retail,L. Achieng,2024-04-06,84,0.1782,928099.82,707483.89,60,Stage 2 - Underperforming
+CUST00946,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2024-05-15,48,0.1546,491058.11,166044.9,0,Stage 1 - Performing
+CUST00947,Mombasa,Coast,Asset Finance,SME,F. Wanjiru,2025-03-06,24,0.1685,189198.16,62773.92,0,Stage 1 - Performing
+CUST00948,Kisumu,Nyanza,Personal Loan,SME,S. Kimani,2023-02-18,36,0.1857,55261.84,16215.91,0,Stage 1 - Performing
+CUST00949,Thika,Central,Motor Loan,SME,L. Achieng,2024-05-12,12,0.1376,65387.43,47031.04,0,Stage 1 - Performing
+CUST00950,Nakuru,Rift Valley,Motor Loan,Retail,J. Mwangi,2024-10-30,24,0.1434,498473.23,277162.76,20,Stage 1 - Performing
+CUST00951,Nakuru,Rift Valley,Personal Loan,Retail,L. Achieng,2024-12-17,60,0.1765,503195.87,454761.69,32,Stage 2 - Underperforming
+CUST00952,Nairobi CBD,Nairobi,Motor Loan,Retail,P. Njoroge,2023-04-23,24,0.154,270692.28,87249.05,150,Stage 3 - Non-Performing
+CUST00953,Mombasa,Coast,Asset Finance,SME,M. Hassan,2025-01-10,84,0.1716,640219.07,504003.34,10,Stage 1 - Performing
+CUST00954,Kitengela,Nairobi,Personal Loan,Corporate,F. Wanjiru,2024-06-16,12,0.1394,420374.04,366438.12,60,Stage 2 - Underperforming
+CUST00955,Nakuru,Rift Valley,SME Loan,Retail,J. Mwangi,2023-12-05,48,0.1231,61245.26,43683.16,150,Stage 3 - Non-Performing
+CUST00956,Eldoret,Rift Valley,Mortgage,SME,J. Mwangi,2023-08-03,84,0.1502,332077.31,65741.53,120,Stage 3 - Non-Performing
+CUST00957,Kitengela,Nairobi,SME Loan,Retail,L. Achieng,2023-08-16,12,0.17,289050.55,45593.26,1,Stage 1 - Performing
+CUST00958,Kisumu,Nyanza,Personal Loan,Corporate,L. Achieng,2023-10-01,24,0.1536,231843.93,75857.21,0,Stage 1 - Performing
+CUST00959,Mombasa,Coast,Personal Loan,SME,L. Achieng,2023-08-26,36,0.1495,541496.83,293522.65,0,Stage 1 - Performing
+CUST00960,Nakuru,Rift Valley,Motor Loan,Corporate,M. Hassan,2024-02-17,60,0.1721,475892.98,309181.82,10,Stage 1 - Performing
+CUST00961,Westlands,Nairobi,Asset Finance,SME,S. Kimani,2023-09-04,60,0.1224,117323.14,18431.78,20,Stage 1 - Performing
+CUST00962,Kisumu,Nyanza,Personal Loan,Retail,S. Kimani,2023-10-13,84,0.1885,178267.7,146151.32,15,Stage 1 - Performing
+CUST00963,Nairobi CBD,Nairobi,Motor Loan,SME,A. Otieno,2025-02-12,24,0.1748,319521.21,241789.75,60,Stage 2 - Underperforming
+CUST00964,Mombasa,Coast,Personal Loan,Retail,S. Kimani,2024-02-25,24,0.1296,332495.5,128481.6,150,Stage 3 - Non-Performing
+CUST00965,Westlands,Nairobi,SME Loan,SME,F. Wanjiru,2024-06-01,60,0.1473,129021.06,62033.98,10,Stage 1 - Performing
+CUST00966,Westlands,Nairobi,Overdraft,Retail,P. Njoroge,2024-11-08,24,0.1761,302739.45,263212.3,120,Stage 3 - Non-Performing
+CUST00967,Nakuru,Rift Valley,Personal Loan,Retail,P. Njoroge,2024-04-17,36,0.1667,703554.3,598516.8,0,Stage 1 - Performing
+CUST00968,Mombasa,Coast,Overdraft,Retail,A. Otieno,2023-07-09,60,0.1332,305875.14,122406.12,0,Stage 1 - Performing
+CUST00969,Kisumu,Nyanza,Mortgage,Corporate,A. Otieno,2023-09-17,84,0.1675,222487.87,47472.8,0,Stage 1 - Performing
+CUST00970,Eldoret,Rift Valley,Asset Finance,Retail,P. Njoroge,2025-04-08,84,0.1419,109427.7,89334.35,60,Stage 2 - Underperforming
+CUST00971,Thika,Central,SME Loan,Retail,L. Achieng,2024-10-29,48,0.1369,292732.73,182252.4,32,Stage 2 - Underperforming
+CUST00972,Nakuru,Rift Valley,Asset Finance,Corporate,F. Wanjiru,2023-06-14,24,0.1344,696003.76,161115.34,120,Stage 3 - Non-Performing
+CUST00973,Kitengela,Nairobi,SME Loan,Retail,A. Otieno,2024-02-27,24,0.1566,139933.52,19314.31,120,Stage 3 - Non-Performing
+CUST00974,Kisumu,Nyanza,Asset Finance,Retail,F. Wanjiru,2024-07-05,36,0.149,292444.34,176330.71,90,Stage 2 - Underperforming
+CUST00975,Kitengela,Nairobi,Mortgage,Retail,P. Njoroge,2025-04-07,36,0.1488,622617.93,381777.15,60,Stage 2 - Underperforming
+CUST00976,Nairobi CBD,Nairobi,Personal Loan,SME,F. Wanjiru,2024-06-07,84,0.1784,77215.68,72373.41,0,Stage 1 - Performing
+CUST00977,Nakuru,Rift Valley,Motor Loan,Corporate,M. Hassan,2023-03-14,84,0.125,1675013.21,902041.58,150,Stage 3 - Non-Performing
+CUST00978,Kisumu,Nyanza,Personal Loan,Retail,M. Hassan,2023-07-16,48,0.1215,50948.78,33033.06,150,Stage 3 - Non-Performing
+CUST00979,Nairobi CBD,Nairobi,Personal Loan,Retail,L. Achieng,2023-07-01,12,0.1897,530924.1,322590.3,60,Stage 2 - Underperforming
+CUST00980,Westlands,Nairobi,Personal Loan,Corporate,S. Kimani,2024-10-13,48,0.1678,446577.36,308542.97,0,Stage 1 - Performing
+CUST00981,Nakuru,Rift Valley,Motor Loan,SME,M. Hassan,2023-02-28,24,0.1542,589736.98,461596.13,0,Stage 1 - Performing
+CUST00982,Mombasa,Coast,SME Loan,SME,S. Kimani,2025-01-29,48,0.1279,146501.84,120604.04,20,Stage 1 - Performing
+CUST00983,Thika,Central,Personal Loan,Retail,P. Njoroge,2023-11-27,60,0.1308,362585.23,246327.99,0,Stage 1 - Performing
+CUST00984,Kisumu,Nyanza,Asset Finance,Retail,L. Achieng,2025-05-19,60,0.1319,580840.33,184146.98,60,Stage 2 - Underperforming
+CUST00985,Eldoret,Rift Valley,SME Loan,Corporate,J. Mwangi,2025-06-02,60,0.1276,403840.05,88016.98,0,Stage 1 - Performing
+CUST00986,Nairobi CBD,Nairobi,Asset Finance,Retail,P. Njoroge,2023-07-30,24,0.1381,1047446.62,841131.31,0,Stage 1 - Performing
+CUST00987,Eldoret,Rift Valley,Overdraft,Retail,F. Wanjiru,2023-06-02,24,0.137,454035.38,268952.66,0,Stage 1 - Performing
+CUST00988,Kisumu,Nyanza,Motor Loan,Retail,M. Hassan,2023-07-11,36,0.1889,573369.72,239164.15,0,Stage 1 - Performing
+CUST00989,Nairobi CBD,Nairobi,Mortgage,Retail,S. Kimani,2023-08-04,60,0.1511,332036.19,176727.49,0,Stage 1 - Performing
+CUST00990,Mombasa,Coast,SME Loan,Retail,L. Achieng,2024-05-28,12,0.141,135485.21,109347.8,0,Stage 1 - Performing
+CUST00991,Westlands,Nairobi,Motor Loan,Retail,L. Achieng,2023-05-31,12,0.1531,247382.78,44054.6,90,Stage 2 - Underperforming
+CUST00992,Nairobi CBD,Nairobi,SME Loan,Retail,S. Kimani,2025-01-27,84,0.1566,111980.19,105274.54,10,Stage 1 - Performing
+CUST00993,Westlands,Nairobi,SME Loan,Retail,A. Otieno,2024-03-29,84,0.1774,349364.02,151810.84,0,Stage 1 - Performing
+CUST00994,Westlands,Nairobi,Motor Loan,SME,A. Otieno,2025-06-04,48,0.1418,526131.51,321051.76,32,Stage 2 - Underperforming
+CUST00995,Kisumu,Nyanza,Personal Loan,Retail,M. Hassan,2023-06-30,84,0.16,584678.68,470022.65,0,Stage 1 - Performing
+CUST00996,Kitengela,Nairobi,Personal Loan,Retail,J. Mwangi,2024-03-11,24,0.1238,343657.09,39631.21,90,Stage 2 - Underperforming
+CUST00997,Kisumu,Nyanza,SME Loan,SME,M. Hassan,2024-09-12,36,0.1767,94003.85,12720.64,0,Stage 1 - Performing
+CUST00998,Kitengela,Nairobi,Asset Finance,SME,J. Mwangi,2024-07-20,12,0.1494,376185.55,264734.62,150,Stage 3 - Non-Performing
+CUST00999,Nakuru,Rift Valley,Overdraft,Retail,A. Otieno,2023-06-25,12,0.1753,342172.69,71769.25,120,Stage 3 - Non-Performing
+CUST01000,Westlands,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-05-02,48,0.1306,119727.03,22378.34,0,Stage 1 - Performing
+CUST01001,Westlands,Nairobi,SME Loan,Corporate,M. Hassan,2024-06-07,12,0.1327,457202.16,149554.73,10,Stage 1 - Performing
+CUST01002,Eldoret,Rift Valley,Personal Loan,SME,S. Kimani,2024-04-05,60,0.1486,158493.21,113033.65,60,Stage 2 - Underperforming
+CUST01003,Thika,Central,SME Loan,Retail,P. Njoroge,2025-01-22,36,0.1441,338460.43,172023.95,15,Stage 1 - Performing
+CUST01004,Mombasa,Coast,Asset Finance,Retail,J. Mwangi,2024-05-13,24,0.1428,421335.44,104996.17,15,Stage 1 - Performing
+CUST01005,Westlands,Nairobi,SME Loan,Retail,A. Otieno,2023-05-24,12,0.1455,84983.27,75620.28,90,Stage 2 - Underperforming
+CUST01006,Kisumu,Nyanza,Motor Loan,Retail,F. Wanjiru,2025-02-02,24,0.1794,273975.3,170449.29,0,Stage 1 - Performing
+CUST01007,Thika,Central,Motor Loan,Retail,M. Hassan,2024-09-30,84,0.1465,443703.24,216760.38,0,Stage 1 - Performing
+CUST01008,Westlands,Nairobi,Motor Loan,Retail,J. Mwangi,2023-03-04,12,0.1599,206846.21,106705.05,0,Stage 1 - Performing
+CUST01009,Westlands,Nairobi,Motor Loan,Retail,M. Hassan,2024-10-26,12,0.1717,470996.75,337832.68,32,Stage 2 - Underperforming
+CUST01010,Westlands,Nairobi,Overdraft,Retail,L. Achieng,2025-02-23,24,0.1644,154393.23,104875.45,1,Stage 1 - Performing
+CUST01011,Mombasa,Coast,Personal Loan,Retail,A. Otieno,2024-07-08,36,0.1756,259112.04,51848.94,10,Stage 1 - Performing
+CUST01012,Kitengela,Nairobi,Personal Loan,Retail,J. Mwangi,2024-10-13,48,0.1366,424972.36,296459.33,20,Stage 1 - Performing
+CUST01013,Westlands,Nairobi,Overdraft,SME,S. Kimani,2025-06-07,48,0.1515,332050.06,174941.38,90,Stage 2 - Underperforming
+CUST01014,Eldoret,Rift Valley,Personal Loan,Corporate,P. Njoroge,2023-12-04,36,0.1779,446181.85,368208.2,0,Stage 1 - Performing
+CUST01015,Kitengela,Nairobi,Mortgage,Corporate,L. Achieng,2024-02-01,12,0.1776,327222.25,164157.3,0,Stage 1 - Performing
+CUST01016,Kisumu,Nyanza,Motor Loan,Retail,P. Njoroge,2023-07-17,48,0.1446,209998.51,79731.17,150,Stage 3 - Non-Performing
+CUST01017,Thika,Central,SME Loan,SME,M. Hassan,2023-06-24,84,0.1475,794405.32,452048.93,0,Stage 1 - Performing
+CUST01018,Kitengela,Nairobi,Personal Loan,SME,A. Otieno,2024-11-20,36,0.1388,348519.58,155499.8,1,Stage 1 - Performing
+CUST01019,Mombasa,Coast,Asset Finance,Retail,M. Hassan,2023-03-10,48,0.1225,272081.89,246928.13,0,Stage 1 - Performing
+CUST01020,Thika,Central,SME Loan,Retail,F. Wanjiru,2023-03-26,60,0.1477,1288165.71,694156.07,45,Stage 2 - Underperforming
+CUST01021,Thika,Central,Personal Loan,SME,M. Hassan,2025-02-26,36,0.1584,231119.92,61175.36,0,Stage 1 - Performing
+CUST01022,Nairobi CBD,Nairobi,SME Loan,SME,L. Achieng,2025-03-12,36,0.1489,923356.21,767205.2,0,Stage 1 - Performing
+CUST01023,Westlands,Nairobi,SME Loan,SME,M. Hassan,2025-02-13,36,0.1264,642035.67,424469.91,0,Stage 1 - Performing
+CUST01024,Thika,Central,Personal Loan,Retail,P. Njoroge,2025-04-15,36,0.1253,269664.9,240694.02,0,Stage 1 - Performing
+CUST01025,Nairobi CBD,Nairobi,Overdraft,SME,J. Mwangi,2024-06-29,60,0.1858,251101.61,42069.64,90,Stage 2 - Underperforming
+CUST01026,Nairobi CBD,Nairobi,Overdraft,SME,P. Njoroge,2023-08-02,60,0.1781,267085.74,230867.5,0,Stage 1 - Performing
+CUST01027,Eldoret,Rift Valley,Personal Loan,SME,M. Hassan,2024-08-18,84,0.1661,261023.32,203301.12,120,Stage 3 - Non-Performing
+CUST01028,Westlands,Nairobi,Motor Loan,Retail,L. Achieng,2023-05-07,36,0.1346,586254.33,259541.96,0,Stage 1 - Performing
+CUST01029,Kitengela,Nairobi,SME Loan,Retail,M. Hassan,2024-09-06,84,0.1757,363523.75,333239.38,45,Stage 2 - Underperforming
+CUST01030,Nakuru,Rift Valley,Personal Loan,Retail,M. Hassan,2023-08-26,48,0.1418,1219459.71,291330.21,0,Stage 1 - Performing
+CUST01031,Nakuru,Rift Valley,Overdraft,Retail,S. Kimani,2025-04-03,12,0.1434,191066.82,32912.24,15,Stage 1 - Performing
+CUST01032,Nakuru,Rift Valley,Motor Loan,Retail,L. Achieng,2024-11-11,84,0.1633,160142.72,33072.39,0,Stage 1 - Performing
+CUST01033,Mombasa,Coast,Asset Finance,Retail,S. Kimani,2024-12-23,24,0.1357,357950.61,97358.62,10,Stage 1 - Performing
+CUST01034,Thika,Central,Asset Finance,SME,L. Achieng,2024-07-05,24,0.1281,142369.55,69002.83,10,Stage 1 - Performing
+CUST01035,Nakuru,Rift Valley,Motor Loan,Retail,A. Otieno,2023-02-06,36,0.1429,308086.21,216052.9,32,Stage 2 - Underperforming
+CUST01036,Thika,Central,Overdraft,Corporate,P. Njoroge,2023-12-04,12,0.1411,474430.71,317970.63,60,Stage 2 - Underperforming
+CUST01037,Westlands,Nairobi,Personal Loan,Retail,P. Njoroge,2024-03-01,24,0.1299,219441.32,190146.77,120,Stage 3 - Non-Performing
+CUST01038,Kitengela,Nairobi,Asset Finance,Retail,P. Njoroge,2023-02-12,12,0.1724,448919.83,282138.15,0,Stage 1 - Performing
+CUST01039,Kisumu,Nyanza,Personal Loan,Retail,P. Njoroge,2024-01-05,36,0.1404,725399.03,170265.59,20,Stage 1 - Performing
+CUST01040,Nairobi CBD,Nairobi,Personal Loan,Corporate,P. Njoroge,2024-12-17,60,0.1853,613925.11,170747.11,0,Stage 1 - Performing
+CUST01041,Nairobi CBD,Nairobi,Asset Finance,Retail,A. Otieno,2024-04-09,24,0.1635,410591.47,287831.66,15,Stage 1 - Performing
+CUST01042,Westlands,Nairobi,Mortgage,SME,M. Hassan,2023-06-18,12,0.1373,477251.62,212728.26,0,Stage 1 - Performing
+CUST01043,Thika,Central,SME Loan,Retail,F. Wanjiru,2025-01-13,36,0.1388,166820.77,70590.27,0,Stage 1 - Performing
+CUST01044,Mombasa,Coast,SME Loan,SME,F. Wanjiru,2023-01-24,48,0.1427,507711.75,349644.68,60,Stage 2 - Underperforming
+CUST01045,Nairobi CBD,Nairobi,Overdraft,Retail,L. Achieng,2023-09-09,60,0.1472,707486.39,601057.41,0,Stage 1 - Performing
+CUST01046,Westlands,Nairobi,SME Loan,Corporate,P. Njoroge,2024-11-15,36,0.1305,100506.46,71442.59,10,Stage 1 - Performing
+CUST01047,Nairobi CBD,Nairobi,SME Loan,Retail,S. Kimani,2025-01-13,60,0.1703,397582.57,265393.19,0,Stage 1 - Performing
+CUST01048,Kitengela,Nairobi,Motor Loan,Corporate,L. Achieng,2023-12-28,60,0.182,82319.66,68040.5,0,Stage 1 - Performing
+CUST01049,Kisumu,Nyanza,SME Loan,SME,L. Achieng,2024-03-06,60,0.1884,622669.87,431744.21,0,Stage 1 - Performing
+CUST01050,Kisumu,Nyanza,Personal Loan,SME,S. Kimani,2025-03-21,36,0.1475,228740.79,37557.05,0,Stage 1 - Performing
+CUST01051,Mombasa,Coast,Motor Loan,Retail,M. Hassan,2023-01-18,84,0.1296,35460.57,19866.12,0,Stage 1 - Performing
+CUST01052,Kisumu,Nyanza,Personal Loan,SME,M. Hassan,2023-11-10,12,0.1882,427472.9,226154.86,0,Stage 1 - Performing
+CUST01053,Mombasa,Coast,Personal Loan,SME,L. Achieng,2024-06-08,12,0.1524,577107.63,323303.19,90,Stage 2 - Underperforming
+CUST01054,Nakuru,Rift Valley,SME Loan,SME,A. Otieno,2023-12-04,48,0.1213,1103610.68,1000464.77,60,Stage 2 - Underperforming
+CUST01055,Mombasa,Coast,Mortgage,SME,F. Wanjiru,2024-04-05,84,0.1378,691159.67,495452.01,0,Stage 1 - Performing
+CUST01056,Westlands,Nairobi,Personal Loan,Corporate,L. Achieng,2024-05-20,12,0.1289,185125.49,98092.66,5,Stage 1 - Performing
+CUST01057,Nairobi CBD,Nairobi,SME Loan,SME,F. Wanjiru,2024-01-14,36,0.1481,413328.71,329012.77,60,Stage 2 - Underperforming
+CUST01058,Westlands,Nairobi,Mortgage,SME,M. Hassan,2024-02-13,60,0.1511,436218.88,59653.97,5,Stage 1 - Performing
+CUST01059,Nakuru,Rift Valley,Personal Loan,Retail,P. Njoroge,2025-01-05,48,0.1811,152910.27,112965.84,90,Stage 2 - Underperforming
+CUST01060,Eldoret,Rift Valley,Personal Loan,Retail,A. Otieno,2024-03-10,36,0.1231,95750.35,40781.04,0,Stage 1 - Performing
+CUST01061,Eldoret,Rift Valley,Motor Loan,SME,F. Wanjiru,2025-05-29,12,0.1791,499492.68,395689.37,150,Stage 3 - Non-Performing
+CUST01062,Nairobi CBD,Nairobi,Overdraft,SME,J. Mwangi,2023-11-06,12,0.1727,998053.38,155056.01,0,Stage 1 - Performing
+CUST01063,Thika,Central,Motor Loan,SME,A. Otieno,2025-02-12,48,0.1793,111962.4,100133.77,60,Stage 2 - Underperforming
+CUST01064,Kisumu,Nyanza,SME Loan,Retail,J. Mwangi,2025-04-20,12,0.1509,335659.55,264152.58,32,Stage 2 - Underperforming
+CUST01065,Nakuru,Rift Valley,Personal Loan,Retail,L. Achieng,2025-06-18,12,0.185,207967.24,175969.07,45,Stage 2 - Underperforming
+CUST01066,Mombasa,Coast,Overdraft,SME,F. Wanjiru,2023-01-01,48,0.1635,105420.22,70754.85,0,Stage 1 - Performing
+CUST01067,Kitengela,Nairobi,SME Loan,SME,S. Kimani,2023-11-08,12,0.1608,798977.11,690478.13,0,Stage 1 - Performing
+CUST01068,Mombasa,Coast,Motor Loan,Corporate,S. Kimani,2025-06-17,36,0.1819,541329.79,139180.41,1,Stage 1 - Performing
+CUST01069,Mombasa,Coast,Mortgage,Corporate,F. Wanjiru,2024-01-03,84,0.1696,347926.97,160122.19,32,Stage 2 - Underperforming
+CUST01070,Nakuru,Rift Valley,Overdraft,Corporate,S. Kimani,2023-12-23,24,0.1836,281099.23,144719.18,32,Stage 2 - Underperforming
+CUST01071,Kisumu,Nyanza,Personal Loan,SME,P. Njoroge,2023-07-15,60,0.1326,181758.16,36394.46,20,Stage 1 - Performing
+CUST01072,Mombasa,Coast,Overdraft,SME,S. Kimani,2023-08-08,84,0.1489,268793.67,184421.6,0,Stage 1 - Performing
+CUST01073,Kitengela,Nairobi,SME Loan,SME,J. Mwangi,2024-10-04,48,0.1311,417515.79,161604.71,0,Stage 1 - Performing
+CUST01074,Eldoret,Rift Valley,Asset Finance,Retail,J. Mwangi,2023-04-30,12,0.1355,147593.6,108668.2,90,Stage 2 - Underperforming
+CUST01075,Nakuru,Rift Valley,Motor Loan,Retail,S. Kimani,2025-04-16,48,0.1542,302101.17,95839.26,0,Stage 1 - Performing
+CUST01076,Kisumu,Nyanza,Personal Loan,Retail,J. Mwangi,2024-12-07,60,0.1451,403686.37,353191.78,0,Stage 1 - Performing
+CUST01077,Westlands,Nairobi,Asset Finance,SME,S. Kimani,2024-05-01,12,0.1662,493618.46,319335.82,120,Stage 3 - Non-Performing
+CUST01078,Nairobi CBD,Nairobi,SME Loan,Corporate,P. Njoroge,2025-04-28,60,0.13,373989.73,281651.49,0,Stage 1 - Performing
+CUST01079,Nairobi CBD,Nairobi,Asset Finance,Retail,P. Njoroge,2024-01-19,12,0.1208,463743.56,293243.59,10,Stage 1 - Performing
+CUST01080,Nairobi CBD,Nairobi,Personal Loan,Retail,J. Mwangi,2023-08-26,48,0.1322,253864.63,37542.45,0,Stage 1 - Performing
+CUST01081,Kitengela,Nairobi,SME Loan,Retail,S. Kimani,2023-03-22,84,0.187,332523.11,269355.09,0,Stage 1 - Performing
+CUST01082,Nairobi CBD,Nairobi,Motor Loan,SME,L. Achieng,2024-01-26,12,0.1871,168204.15,85235.68,32,Stage 2 - Underperforming
+CUST01083,Thika,Central,Personal Loan,Retail,M. Hassan,2024-03-24,60,0.123,262980.04,233936.67,0,Stage 1 - Performing
+CUST01084,Eldoret,Rift Valley,SME Loan,Retail,L. Achieng,2024-09-24,12,0.1294,665918.71,364497.64,0,Stage 1 - Performing
+CUST01085,Mombasa,Coast,Personal Loan,Retail,M. Hassan,2024-07-19,84,0.1529,104990.96,93104.74,15,Stage 1 - Performing
+CUST01086,Kitengela,Nairobi,Motor Loan,Retail,J. Mwangi,2025-05-06,48,0.123,219240.61,96134.98,1,Stage 1 - Performing
+CUST01087,Thika,Central,Motor Loan,Retail,J. Mwangi,2024-05-12,12,0.1484,69547.41,43042.36,10,Stage 1 - Performing
+CUST01088,Kisumu,Nyanza,Motor Loan,SME,P. Njoroge,2023-06-02,60,0.1742,1489045.03,1338416.63,0,Stage 1 - Performing
+CUST01089,Kisumu,Nyanza,Personal Loan,SME,F. Wanjiru,2023-12-04,84,0.1412,199872.65,180227.71,15,Stage 1 - Performing
+CUST01090,Westlands,Nairobi,Motor Loan,Retail,L. Achieng,2023-02-04,48,0.1275,63114.97,35843.66,90,Stage 2 - Underperforming
+CUST01091,Nairobi CBD,Nairobi,SME Loan,Retail,L. Achieng,2024-02-14,84,0.1869,275446.81,86493.64,0,Stage 1 - Performing
+CUST01092,Mombasa,Coast,Personal Loan,Retail,L. Achieng,2024-10-13,84,0.1739,1485847.84,1084456.76,15,Stage 1 - Performing
+CUST01093,Thika,Central,SME Loan,Corporate,J. Mwangi,2025-02-23,12,0.1882,561249.27,243638.01,150,Stage 3 - Non-Performing
+CUST01094,Westlands,Nairobi,Personal Loan,Retail,P. Njoroge,2024-03-13,60,0.1726,183047.12,73446.47,0,Stage 1 - Performing
+CUST01095,Nairobi CBD,Nairobi,SME Loan,SME,M. Hassan,2025-04-02,48,0.1515,679521.1,315720.27,10,Stage 1 - Performing
+CUST01096,Westlands,Nairobi,Mortgage,Corporate,F. Wanjiru,2023-07-10,48,0.146,527244.38,59927.5,45,Stage 2 - Underperforming
+CUST01097,Thika,Central,SME Loan,Retail,A. Otieno,2024-07-04,24,0.1305,383287.51,155810.58,0,Stage 1 - Performing
+CUST01098,Mombasa,Coast,SME Loan,Retail,S. Kimani,2024-03-01,84,0.1397,391563.65,319869.28,150,Stage 3 - Non-Performing
+CUST01099,Mombasa,Coast,Overdraft,SME,S. Kimani,2025-05-20,36,0.1737,562511.92,247178.37,90,Stage 2 - Underperforming
+CUST01100,Kitengela,Nairobi,Motor Loan,Retail,S. Kimani,2025-05-25,12,0.1483,280588.93,132055.08,0,Stage 1 - Performing
+CUST01101,Thika,Central,Personal Loan,Retail,J. Mwangi,2023-05-02,60,0.1586,378126.84,145882.55,0,Stage 1 - Performing
+CUST01102,Westlands,Nairobi,Personal Loan,SME,S. Kimani,2024-10-29,60,0.1371,379217.17,330026.75,0,Stage 1 - Performing
+CUST01103,Kitengela,Nairobi,SME Loan,SME,F. Wanjiru,2024-06-11,12,0.1381,153915.57,44984.7,0,Stage 1 - Performing
+CUST01104,Nairobi CBD,Nairobi,Mortgage,SME,S. Kimani,2023-08-18,60,0.1818,135482.56,74910.65,5,Stage 1 - Performing
+CUST01105,Nakuru,Rift Valley,Mortgage,Retail,M. Hassan,2025-02-01,36,0.1679,539213.9,454501.22,0,Stage 1 - Performing
+CUST01106,Eldoret,Rift Valley,Personal Loan,SME,L. Achieng,2024-10-20,24,0.163,124043.64,80663.51,0,Stage 1 - Performing
+CUST01107,Nakuru,Rift Valley,SME Loan,Corporate,F. Wanjiru,2023-01-09,24,0.1495,430408.71,342965.27,45,Stage 2 - Underperforming
+CUST01108,Nakuru,Rift Valley,Motor Loan,Retail,S. Kimani,2024-06-25,48,0.1381,147792.81,28835.36,45,Stage 2 - Underperforming
+CUST01109,Thika,Central,Asset Finance,SME,J. Mwangi,2023-01-09,12,0.1382,682499.54,151079.45,20,Stage 1 - Performing
+CUST01110,Nairobi CBD,Nairobi,Overdraft,Retail,S. Kimani,2023-05-02,24,0.1433,943313.96,499028.37,0,Stage 1 - Performing
+CUST01111,Eldoret,Rift Valley,SME Loan,SME,F. Wanjiru,2024-04-30,60,0.1729,275023.28,247891.18,1,Stage 1 - Performing
+CUST01112,Nakuru,Rift Valley,SME Loan,Retail,S. Kimani,2025-03-07,48,0.1858,402654.47,51737.93,120,Stage 3 - Non-Performing
+CUST01113,Kitengela,Nairobi,Personal Loan,Retail,J. Mwangi,2024-05-20,24,0.136,84962.22,39967.61,15,Stage 1 - Performing
+CUST01114,Eldoret,Rift Valley,Mortgage,Retail,A. Otieno,2025-06-16,48,0.1779,167268.83,80058.47,0,Stage 1 - Performing
+CUST01115,Westlands,Nairobi,Asset Finance,SME,F. Wanjiru,2023-08-24,12,0.1628,549883.68,510709.11,0,Stage 1 - Performing
+CUST01116,Mombasa,Coast,Mortgage,Retail,F. Wanjiru,2023-12-28,24,0.122,267937.79,99781.92,120,Stage 3 - Non-Performing
+CUST01117,Nairobi CBD,Nairobi,Personal Loan,Retail,J. Mwangi,2023-04-07,60,0.1837,649986.97,558205.84,0,Stage 1 - Performing
+CUST01118,Kitengela,Nairobi,Personal Loan,SME,M. Hassan,2024-03-25,84,0.1792,885959.73,717472.28,10,Stage 1 - Performing
+CUST01119,Mombasa,Coast,Motor Loan,Retail,J. Mwangi,2024-07-26,36,0.1425,613273.13,268387.64,45,Stage 2 - Underperforming
+CUST01120,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2023-09-06,84,0.1623,1101261.25,1037479.88,0,Stage 1 - Performing
+CUST01121,Eldoret,Rift Valley,Mortgage,SME,F. Wanjiru,2023-07-11,84,0.1258,496364.92,250671.74,0,Stage 1 - Performing
+CUST01122,Kisumu,Nyanza,SME Loan,Retail,J. Mwangi,2023-11-17,48,0.1749,305256.62,139290.58,120,Stage 3 - Non-Performing
+CUST01123,Kitengela,Nairobi,SME Loan,SME,F. Wanjiru,2023-11-13,84,0.1547,310992.62,215557.78,5,Stage 1 - Performing
+CUST01124,Kisumu,Nyanza,SME Loan,SME,S. Kimani,2024-06-07,36,0.1318,111384.0,66049.83,90,Stage 2 - Underperforming
+CUST01125,Westlands,Nairobi,Personal Loan,Retail,P. Njoroge,2023-07-06,36,0.1238,118153.64,107655.7,10,Stage 1 - Performing
+CUST01126,Eldoret,Rift Valley,Motor Loan,Retail,P. Njoroge,2024-10-27,84,0.1349,536239.79,465501.78,120,Stage 3 - Non-Performing
+CUST01127,Thika,Central,Mortgage,SME,P. Njoroge,2024-11-27,84,0.1747,117539.94,68749.78,0,Stage 1 - Performing
+CUST01128,Nairobi CBD,Nairobi,Mortgage,Retail,M. Hassan,2024-10-06,36,0.1748,432112.3,43700.26,0,Stage 1 - Performing
+CUST01129,Mombasa,Coast,SME Loan,Retail,F. Wanjiru,2023-07-11,36,0.1363,108081.67,35750.23,0,Stage 1 - Performing
+CUST01130,Nakuru,Rift Valley,SME Loan,Retail,J. Mwangi,2024-03-11,48,0.1731,376423.13,173474.23,0,Stage 1 - Performing
+CUST01131,Nairobi CBD,Nairobi,Motor Loan,Retail,P. Njoroge,2025-03-18,24,0.1856,445826.6,187295.81,1,Stage 1 - Performing
+CUST01132,Thika,Central,SME Loan,SME,J. Mwangi,2024-04-04,84,0.1787,492085.29,435018.11,0,Stage 1 - Performing
+CUST01133,Westlands,Nairobi,Overdraft,Retail,A. Otieno,2023-06-23,60,0.1488,319192.54,43584.51,150,Stage 3 - Non-Performing
+CUST01134,Kisumu,Nyanza,SME Loan,Corporate,J. Mwangi,2023-04-19,24,0.1439,600862.24,516767.72,0,Stage 1 - Performing
+CUST01135,Nakuru,Rift Valley,Overdraft,Retail,P. Njoroge,2024-06-29,12,0.1475,85573.71,31644.0,0,Stage 1 - Performing
+CUST01136,Mombasa,Coast,Motor Loan,SME,S. Kimani,2025-01-21,24,0.185,307565.84,151221.16,10,Stage 1 - Performing
+CUST01137,Nairobi CBD,Nairobi,SME Loan,SME,J. Mwangi,2024-03-25,36,0.178,391635.09,227979.32,10,Stage 1 - Performing
+CUST01138,Westlands,Nairobi,Personal Loan,Retail,F. Wanjiru,2024-07-31,36,0.1453,380832.95,359732.27,90,Stage 2 - Underperforming
+CUST01139,Nakuru,Rift Valley,Motor Loan,Retail,A. Otieno,2025-02-04,36,0.1565,175674.15,96568.26,45,Stage 2 - Underperforming
+CUST01140,Mombasa,Coast,Motor Loan,Retail,A. Otieno,2023-02-12,12,0.1893,878485.37,672682.43,120,Stage 3 - Non-Performing
+CUST01141,Kitengela,Nairobi,Personal Loan,SME,L. Achieng,2024-01-14,12,0.1645,243601.91,204909.65,0,Stage 1 - Performing
+CUST01142,Mombasa,Coast,SME Loan,Corporate,L. Achieng,2025-04-02,60,0.1689,274069.69,252636.25,45,Stage 2 - Underperforming
+CUST01143,Nairobi CBD,Nairobi,Personal Loan,Retail,S. Kimani,2023-05-10,24,0.1359,471301.54,141572.83,0,Stage 1 - Performing
+CUST01144,Nairobi CBD,Nairobi,SME Loan,Retail,M. Hassan,2023-04-22,12,0.1887,610749.59,487454.37,10,Stage 1 - Performing
+CUST01145,Mombasa,Coast,SME Loan,Retail,F. Wanjiru,2023-10-12,48,0.1405,292202.71,211062.64,0,Stage 1 - Performing
+CUST01146,Kitengela,Nairobi,Asset Finance,Corporate,J. Mwangi,2024-06-13,84,0.1293,578482.48,423419.66,45,Stage 2 - Underperforming
+CUST01147,Kitengela,Nairobi,Personal Loan,Retail,A. Otieno,2023-09-15,84,0.1436,186082.11,148800.25,0,Stage 1 - Performing
+CUST01148,Kitengela,Nairobi,Motor Loan,Retail,F. Wanjiru,2025-02-28,36,0.1263,419099.16,172852.24,0,Stage 1 - Performing
+CUST01149,Westlands,Nairobi,Personal Loan,Corporate,M. Hassan,2025-04-03,84,0.1551,389845.89,206528.71,150,Stage 3 - Non-Performing
+CUST01150,Kitengela,Nairobi,Motor Loan,Retail,P. Njoroge,2024-09-02,24,0.1497,350998.89,279761.58,1,Stage 1 - Performing
+CUST01151,Eldoret,Rift Valley,Motor Loan,SME,M. Hassan,2023-04-10,48,0.185,554835.03,56911.0,5,Stage 1 - Performing
+CUST01152,Westlands,Nairobi,Personal Loan,SME,A. Otieno,2023-10-22,84,0.1335,482857.42,236560.15,0,Stage 1 - Performing
+CUST01153,Thika,Central,Motor Loan,Corporate,P. Njoroge,2024-08-15,12,0.1393,479744.32,75673.8,1,Stage 1 - Performing
+CUST01154,Westlands,Nairobi,SME Loan,Retail,A. Otieno,2024-12-13,36,0.1861,783853.53,417517.72,1,Stage 1 - Performing
+CUST01155,Nakuru,Rift Valley,Motor Loan,SME,P. Njoroge,2023-07-31,12,0.1607,458122.29,275086.36,90,Stage 2 - Underperforming
+CUST01156,Thika,Central,Motor Loan,Retail,L. Achieng,2023-07-03,60,0.1282,460153.54,252544.09,0,Stage 1 - Performing
+CUST01157,Nairobi CBD,Nairobi,Personal Loan,SME,P. Njoroge,2024-12-30,60,0.1692,72750.88,52931.38,0,Stage 1 - Performing
+CUST01158,Westlands,Nairobi,Motor Loan,Retail,S. Kimani,2024-01-01,36,0.1813,1056989.88,489214.41,0,Stage 1 - Performing
+CUST01159,Kitengela,Nairobi,SME Loan,Retail,L. Achieng,2023-09-15,12,0.1451,573803.98,128822.08,15,Stage 1 - Performing
+CUST01160,Kitengela,Nairobi,Personal Loan,SME,S. Kimani,2024-12-04,24,0.1612,170844.38,98569.35,0,Stage 1 - Performing
+CUST01161,Mombasa,Coast,Motor Loan,SME,M. Hassan,2023-02-08,12,0.1843,1061241.76,923748.87,0,Stage 1 - Performing
+CUST01162,Westlands,Nairobi,Motor Loan,Retail,J. Mwangi,2024-02-28,84,0.1559,485311.21,342151.98,60,Stage 2 - Underperforming
+CUST01163,Kisumu,Nyanza,Motor Loan,Retail,A. Otieno,2023-06-28,60,0.1726,553133.75,275543.48,0,Stage 1 - Performing
+CUST01164,Eldoret,Rift Valley,Overdraft,SME,L. Achieng,2024-05-14,84,0.1661,240847.36,170736.16,32,Stage 2 - Underperforming
+CUST01165,Eldoret,Rift Valley,SME Loan,Retail,L. Achieng,2024-12-24,48,0.1758,77085.02,11257.22,0,Stage 1 - Performing
+CUST01166,Kitengela,Nairobi,Personal Loan,Retail,S. Kimani,2024-07-31,36,0.1388,468021.5,205192.22,32,Stage 2 - Underperforming
+CUST01167,Mombasa,Coast,Mortgage,Retail,P. Njoroge,2024-09-12,48,0.1458,643617.13,257133.82,32,Stage 2 - Underperforming
+CUST01168,Nairobi CBD,Nairobi,Asset Finance,SME,J. Mwangi,2023-12-07,84,0.1814,347826.12,36257.47,0,Stage 1 - Performing
+CUST01169,Thika,Central,Personal Loan,Retail,P. Njoroge,2024-12-24,12,0.1475,105589.29,58103.28,0,Stage 1 - Performing
+CUST01170,Westlands,Nairobi,Asset Finance,Retail,P. Njoroge,2024-09-21,36,0.1357,605875.71,326886.85,45,Stage 2 - Underperforming
+CUST01171,Thika,Central,Personal Loan,SME,M. Hassan,2023-03-19,12,0.1479,313203.39,100782.27,0,Stage 1 - Performing
+CUST01172,Nairobi CBD,Nairobi,Motor Loan,SME,L. Achieng,2023-02-22,84,0.1799,127635.54,21272.19,0,Stage 1 - Performing
+CUST01173,Kitengela,Nairobi,Personal Loan,Retail,A. Otieno,2025-04-22,36,0.1889,94814.63,87076.12,60,Stage 2 - Underperforming
+CUST01174,Kitengela,Nairobi,Personal Loan,Retail,F. Wanjiru,2023-07-14,12,0.1716,275533.54,168713.31,15,Stage 1 - Performing
+CUST01175,Nairobi CBD,Nairobi,Asset Finance,Retail,P. Njoroge,2023-11-03,48,0.1457,772881.6,399027.13,0,Stage 1 - Performing
+CUST01176,Kitengela,Nairobi,SME Loan,Retail,M. Hassan,2023-05-11,48,0.1692,782407.42,419443.18,15,Stage 1 - Performing
+CUST01177,Nairobi CBD,Nairobi,Personal Loan,SME,M. Hassan,2023-11-29,12,0.1748,460861.94,260460.74,20,Stage 1 - Performing
+CUST01178,Kisumu,Nyanza,Motor Loan,Retail,A. Otieno,2025-06-10,48,0.1433,566476.85,349600.48,0,Stage 1 - Performing
+CUST01179,Thika,Central,SME Loan,Corporate,S. Kimani,2023-01-20,36,0.1585,594986.61,276377.48,0,Stage 1 - Performing
+CUST01180,Kisumu,Nyanza,SME Loan,SME,P. Njoroge,2024-01-03,84,0.1417,437642.04,146054.82,32,Stage 2 - Underperforming
+CUST01181,Kisumu,Nyanza,Motor Loan,Retail,P. Njoroge,2023-03-29,48,0.1759,296537.59,227802.97,120,Stage 3 - Non-Performing
+CUST01182,Mombasa,Coast,Asset Finance,SME,J. Mwangi,2023-08-10,48,0.1202,449047.45,371974.86,45,Stage 2 - Underperforming
+CUST01183,Nairobi CBD,Nairobi,Asset Finance,Retail,F. Wanjiru,2023-02-01,48,0.1224,502369.81,359380.45,0,Stage 1 - Performing
+CUST01184,Nakuru,Rift Valley,SME Loan,Corporate,J. Mwangi,2024-08-25,60,0.1837,240111.45,38239.56,15,Stage 1 - Performing
+CUST01185,Nairobi CBD,Nairobi,Mortgage,Retail,F. Wanjiru,2023-09-07,24,0.1439,1304583.73,1237410.33,0,Stage 1 - Performing
+CUST01186,Kisumu,Nyanza,Overdraft,Retail,S. Kimani,2024-03-27,84,0.1554,299273.61,119713.12,60,Stage 2 - Underperforming
+CUST01187,Nairobi CBD,Nairobi,Personal Loan,Corporate,J. Mwangi,2023-04-20,84,0.1325,583742.07,467942.32,0,Stage 1 - Performing
+CUST01188,Thika,Central,SME Loan,Retail,J. Mwangi,2024-08-30,84,0.1353,985940.82,714478.38,0,Stage 1 - Performing
+CUST01189,Mombasa,Coast,Personal Loan,Corporate,J. Mwangi,2023-11-02,24,0.1363,276350.79,190713.85,5,Stage 1 - Performing
+CUST01190,Thika,Central,SME Loan,Retail,J. Mwangi,2025-02-23,84,0.1722,288587.0,136209.86,90,Stage 2 - Underperforming
+CUST01191,Mombasa,Coast,Personal Loan,Retail,S. Kimani,2025-02-23,48,0.1852,299845.4,170245.87,10,Stage 1 - Performing
+CUST01192,Nairobi CBD,Nairobi,Personal Loan,Retail,A. Otieno,2024-12-10,84,0.1856,746909.0,436005.72,45,Stage 2 - Underperforming
+CUST01193,Westlands,Nairobi,SME Loan,Corporate,A. Otieno,2024-02-21,60,0.1854,349577.36,176732.73,60,Stage 2 - Underperforming
+CUST01194,Eldoret,Rift Valley,Personal Loan,Retail,P. Njoroge,2023-06-05,48,0.1463,281774.94,195402.71,120,Stage 3 - Non-Performing
+CUST01195,Eldoret,Rift Valley,Personal Loan,Retail,F. Wanjiru,2024-07-17,60,0.1565,218274.16,110261.37,5,Stage 1 - Performing
+CUST01196,Thika,Central,Personal Loan,SME,S. Kimani,2024-01-22,12,0.1515,364421.31,142212.25,0,Stage 1 - Performing
+CUST01197,Nakuru,Rift Valley,SME Loan,Retail,L. Achieng,2023-11-07,84,0.1589,329336.08,216052.15,1,Stage 1 - Performing
+CUST01198,Nakuru,Rift Valley,Mortgage,Retail,M. Hassan,2023-11-10,36,0.1336,695950.51,468512.44,90,Stage 2 - Underperforming
+CUST01199,Westlands,Nairobi,Motor Loan,Corporate,P. Njoroge,2023-12-14,48,0.1457,139470.28,34087.54,0,Stage 1 - Performing
+CUST01200,Thika,Central,Personal Loan,Retail,J. Mwangi,2023-12-02,48,0.1227,310960.17,85345.71,32,Stage 2 - Underperforming
